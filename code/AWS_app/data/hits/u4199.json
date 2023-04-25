@@ -1,0 +1,77 @@
+{
+    "j205902": {
+        "directed": true,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+            {
+                "id": "teaching"
+            },
+            {
+                "title": "\u73ed\u4e3b\u4efb\uff08\u6559\u52a1\u8001\u5e08\uff09",
+                "id": "j157696"
+            },
+            {
+                "title": "\u5ba3\u4f20\u7edf\u6218\u90e8\u884c\u653f\u4eba\u54581",
+                "id": "j52550"
+            },
+            {
+                "id": "Academic administrators"
+            },
+            {
+                "title": "\u7535\u5927\u73ed\u4e3b\u4efb",
+                "id": "j205902"
+            },
+            {
+                "experience": "\u6559\u5b66|\u5bb6\u957f|\u6863\u6848|\u8001\u5e08|\u5b9e\u4e60|\u8bed\u6587|\u6559\u80b2\u57f9\u8bad|\u9500\u552e\u7ecf\u7406|\u8d23\u4efb\u5fc3|\u5b66\u6821|\u5b66\u4e60|\u62db\u8058|\u73ed\u4e3b\u4efb|\u5b66\u751f|\u5927\u5b66|\u6559\u80b2|\u5916\u8054|\u81ea\u6211\u8bc4\u4ef7|\u6c9f\u901a|\u4ee3\u8bfe\u8001\u5e08|\u57f9\u8bad|\u7ba1\u7406\u5b66",
+                "id": "u4199"
+            },
+            {
+                "title": "\u73ed\u4e3b\u4efb\u517c\u6559\u5e08",
+                "id": "j129842"
+            }
+        ],
+        "links": [
+            {
+                "label": "isSubTypeOf",
+                "source": "teaching",
+                "target": "j205902"
+            },
+            {
+                "label": "hasSubType",
+                "source": "j157696",
+                "target": "Academic administrators"
+            },
+            {
+                "label": "hasSubType",
+                "source": "j52550",
+                "target": "teaching"
+            },
+            {
+                "label": "isSubTypeOf",
+                "source": "Academic administrators",
+                "target": "j205902"
+            },
+            {
+                "label": "interactedWith",
+                "source": "u4199",
+                "target": "j157696"
+            },
+            {
+                "label": "interactedWith",
+                "source": "u4199",
+                "target": "j52550"
+            },
+            {
+                "label": "interactedWith",
+                "source": "u4199",
+                "target": "j129842"
+            },
+            {
+                "label": "interactedBy",
+                "source": "j129842",
+                "target": "u4199"
+            }
+        ]
+    }
+}

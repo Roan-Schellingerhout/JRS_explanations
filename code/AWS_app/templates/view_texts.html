@@ -1,0 +1,227 @@
+<!doctype html>
+<HTML>
+<HEAD>
+  <meta charset="utf-8" />
+  <TITLE>Geschreven uitleg</TITLE>
+  <link rel="icon" type="image/x-icon" href="/static/favico.ico">
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+  <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+  <!-- http://visjs.org/index.html#download_install -->
+  <!-- <link rel="stylesheet" type="text/css" href="node_modules/vis/dist/vis.css"> -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <style type="text/css">
+    
+    #wrapper {
+      margin-top: 1%;
+    }
+
+    #mynetwork {
+      width: 75%;
+      border: 2px solid lightgray;
+      margin-left: 1%;
+      display: inline-block;
+    }
+    
+    #exp_types {
+      margin-left: 20%;
+      margin-top: 1%;
+      height: 50em;
+      display: inline-block;
+      vertical-align:top;
+      justify-content: center
+    }
+
+    .big {
+      width: 20em;
+      height: 5em;
+      text-align: center;
+      margin: 1em;
+    }
+
+
+    .custom-switch.custom-switch-lg .custom-control-label {
+        padding-left: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::before {
+        height: 2rem;
+        width: calc(3rem + 0.75rem);
+        border-radius: 4rem;
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-label::after {
+        width: calc(2rem - 4px);
+        height: calc(2rem - 4px);
+        border-radius: calc(3rem - (2rem / 2));
+    }
+
+    .custom-switch.custom-switch-lg .custom-control-input:checked ~ .custom-control-label::after {
+        transform: translateX(calc(2rem - 0.25rem));
+    }
+
+    #togg{
+      float: right;
+      margin-right: 1em;
+      margin-top: 2em;
+      padding-bottom: 5em;
+      width: 12.5%;
+    }
+
+    #title {
+      margin-left: 1%;
+    }
+
+    .box {
+      float: left;
+      height: 20px;
+      width: 20px;
+      margin-bottom: 15px;
+      border: 1px solid black;
+      clear: both;
+    }
+
+    .pink {
+      background-color: #f2688444;
+    }
+
+    .green {
+      background-color: #2bc25344;
+    }
+
+    .yellow {
+      background-color: #fcba0344;
+    }
+
+    .legend_text {
+      margin-bottom: 15px;
+    }
+    
+    .custom-control-label {
+      padding-top: .45em;
+    }
+    </style>
+</HEAD>
+
+<BODY>
+<div id="togg">  
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="simple_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="simple_view"><b>Simpele weergave</b></label>
+  </div>
+
+  {% if direction == 'recruiter' %}
+  <div class="custom-control custom-switch custom-switch-lg">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% else %}
+  <div class="custom-control custom-switch custom-switch-lg" style="display:none">
+    <input type="checkbox" class="custom-control-input" id="company_view" onclick="switch_graph();">
+    <label class="custom-control-label" for="company_view"><b>Bedrijfsweergave</b></label>
+  </div>
+  {% endif %}
+
+  <br><br><br>
+  <div class="legend_text"><div class="box green"></div> &nbsp; Vacatures</div>
+  <div class="legend_text"><div class="box yellow"></div> &nbsp; Vacature types</div>
+  <div class="legend_text"><div class="box pink"></div> &nbsp; Kandidaten</div>
+</div>
+
+
+
+<div id="wrapper">
+  {% if direction != 'company'%}
+  <div id="title"><h5>Geschreven uitleg voor de match (u4119, j147542):</h5></div>
+  {% else %}
+  <div id="title"><h5>Geschreven uitleg voor de match (j147542, u4119):</h5></div>
+  {% endif %}
+  
+  <div id="mynetwork">
+  </div>
+
+  <div id="exp_types">
+    <button class="btn btn-primary big" type="submit" id="bar" value="Graph explanation" onclick="window.location.href = 'view_graph.html'">Graaf uitleg</button> 
+    <button class="btn btn-success big" type="submit" id="text" value="Bar chart explanation" onclick="window.location.href = 'view_bars.html'">Staafdiagram uitleg</button>
+  </div>
+</div>
+
+<script type="text/javascript">
+
+  // var container = document.getElementById("results");
+  
+  switch_graph();
+  
+  function switch_graph() { 
+    var simple = document.getElementById("simple_view");
+    var company = document.getElementById("company_view");
+    var div = document.getElementById("mynetwork");
+    var title = document.getElementById("title");
+
+    var dir = "{{ direction|string }}"
+    if (dir == "company"){
+      company.checked = true;
+    }
+    
+      // full candidate
+    if(simple.checked == false && company.checked == false){
+      div.innerHTML = "<b>Volledige kandidaat-gerichte uitleg:</b><br><br> Het XAI-model heeft verschillende verbindingen tussen vacatures en kandidaten geanalyseerd om te bepalen of een bepaalde kandidaat (<span class='pink'>kandidaat 4119</span>) geschikt zou zijn voor een specifieke vacature (<span class='green'>vacature 147542</span>). Het model keek naar de relaties tussen verschillende vacatures en kandidaten, evenals de belangrijkheid van deze relaties, om zijn voorspelling te maken.<br><br>In dit geval vond het model dat <span class='pink'>kandidaat 4119</span> een sterke verbinding heeft met de rol van <span class='yellow'>administratief medewerker</span> en dat deze verbinding erg belangrijk wordt geacht om uit te leggen waarom <span class='pink'>kandidaat 4119</span> een goede match zou zijn voor <span class='green'>vacature 147542</span>. Bovendien vond het model dat <span class='green'>vacature 147542</span> een verbinding heeft met de rol van <span class='yellow'>secretaresse</span> en dat deze verbinding ook belangrijk wordt geacht. Het model vond ook dat de rol van <span class='yellow'>administratief medewerker</span> een verbinding heeft met de <span class='yellow'>assistentenrol</span>, die op zijn beurt weer verbonden is met de rol van <span class='yellow'>secretaresse</span> en <span class='green'>vacature 147542</span>.<br><br>Kortom, het XAI-model heeft bepaald dat <span class='pink'>kandidaat 4119</span> geschikt zou zijn voor <span class='green'>vacature 147542</span> op basis van de sterke verbinding tussen <span class='pink'>kandidaat 4119</span> en de rol van <span class='yellow'>administratief medewerker</span>, evenals de verbindingen tussen de rol van <span class='yellow'>administratief medewerker</span>, de rol van <span class='yellow'>assistent</span>, de rol van <span class='yellow'>secretaresse</span> en <span class='green'>vacature 147542</span>."
+      title.innerHTML = "<h5>Geschreven uitleg voor de match (u4119, j147542):</h5>"
+ 
+    // You have to explain the rationale behind an explanation generated by an XAI model to lay users, who are not necessarily technically inclined. I will give you the explanation for why the model determined a specific job (j147542) to be good match for a candidate (u4119). The explanation is based on a graph structure, which contains the following edges:
+
+    // [{'from': 'j65504', 'to': 'secretary', 'value': 6.424}, {'from': 'secretary', 'to': 'j147542', 'value': 6.424}, {'from': 'u3844', 'to': 'j147542', 'value': 0.0}, {'from': 'u3726', 'to': 'j190070', 'value': 0.0}, {'from': 'Administrative Commissioner', 'to': 'j107073', 'value': 2.899}, {'from': 'Administrative Commissioner', 'to': 'j210812', 'value': 7.101}, {'from': 'j127155', 'to': 'clerk', 'value': 0.0}, {'from': 'u4119', 'to': 'j157652', 'value': 0.0}, {'from': 'u4119', 'to': 'j180599', 'value': 0.003}, {'from': 'u4119', 'to': 'j127155', 'value': 0.0}, {'from': 'u4119', 'to': 'Administrative Commissioner', 'value': 9.997}, {'from': 'j157652', 'to': 'u3726', 'value': 0.0}, {'from': 'j210812', 'to': 'assistant', 'value': 7.101}, {'from': 'j190070', 'to': 'u3844', 'value': 0.0}, {'from': 'j180599', 'to': 'Administrative Commissioner', 'value': 0.003}, {'from': 'assistant', 'to': 'j65504', 'value': 6.424}, {'from': 'assistant', 'to': 'j147542', 'value': 3.576}, {'from': 'clerk', 'to': 'j147542', 'value': 0.0}, {'from': 'j107073', 'to': 'assistant', 'value': 2.899}]
+    
+    // The edge values indicate how important the XAI model found the edge to be for the explanation. Base your explanation on the path(s) from the target user to the target job in their entirety. Please replace "j" and "u" in the node names with "job" and "user" respectively. Please make sure to be as clear and accessible as possible. Do not refer to individual values or edges; instead, focus on full paths between the target user and job. Try to refrain from using graph-related words. I.e., explain it like how a more experienced person would explain it to someone who is quite new to the topic.
+    
+    }
+    // Simple candidate
+    else if(simple.checked == true && company.checked == false){
+      div.innerHTML = "<b>Simpele kandidaat-gerichte uitleg:</b><br><br>Het XAI-model heeft de relatie geanalyseerd tussen een specifieke vacature (<span class='green'>vacature 147542</span>) en een kandidaat (<span class='pink'>kandidaat 4119</span>). Het heeft vastgesteld dat de kandidaat een sterke verbinding heeft met de rol van <span class='yellow'>administratief medewerker</span>, die weer een sterke verbinding heeft met de rol van <span class='yellow'>assistent</span>. Deze <span class='yellow'>assistent</span> rol heeft een matige verbinding met de <span class='green'>vacature 147542</span>, daarom heeft het XAI-model geconcludeerd dat deze vacature een goede match is voor <span class='pink'>kandidaat 4119</span>.<br><br>Met andere woorden, het XAI-model heeft gekeken naar de vaardigheden en ervaring van de kandidaat, evenals de rol-eisen, en vastgesteld dat de kandidaat veel relevante ervaring heeft voor een rol als <span class='yellow'>administratief medewerker</span>. Het zag vervolgens dat <span class='green'>vacature 147542</span> een goede match is voor iemand met dergelijke ervaring, daarom heeft het geconcludeerd dat de vacature een goede match is voor de kandidaat."
+      title.innerHTML = "<h5>Geschreven uitleg voor de match (u4119, j147542):</h5>"
+
+    // You have to explain the rationale behind an explanation generated by an XAI model to lay users, who are not necessarily technically inclined. I will give you the explanation for why the model determined a specific job (j147542) to be good match for a candidate (u4119). The explanation is based on a graph structure, which contains the following edges:
+      
+    // [{'from': 'j65504', 'to': 'secretary', 'value': 6.424}, {'from': 'secretary', 'to': 'j147542', 'value': 6.424}, {'from': 'Administrative Commissioner', 'to': 'j107073', 'value': 2.899}, {'from': 'Administrative Commissioner', 'to': 'j210812', 'value': 7.101}, {'from': 'u4119', 'to': 'j180599', 'value': 0.003}, {'from': 'u4119', 'to': 'Administrative Commissioner', 'value': 9.997}, {'from': 'j210812', 'to': 'assistant', 'value': 7.101}, {'from': 'j180599', 'to': 'Administrative Commissioner', 'value': 0.003}, {'from': 'assistant', 'to': 'j65504', 'value': 6.424}, {'from': 'j107073', 'to': 'assistant', 'value': 2.899}]
+
+    // The edge values indicate how important the XAI model found the edge to be for the explanation. Base your explanation on the path(s) from the target user to the target job in their entirety. Please replace "j" and "u" in the node names with "job" and "user" respectively. Please make sure to be as clear and accessible as possible. Do not refer to individual values or edges; instead, focus on full paths between the target user and job. Try to refrain from using graph-related words. I.e., explain it like how a more experienced person would explain it to someone who is quite new to the topic.
+    
+    }
+  // Full company
+  else if(simple.checked == false && company.checked == true){
+    div.innerHTML = "<b>Volledige bedrijf-gerichte uitleg:</b><br><br> Het XAI-model heeft bepaald dat <span class='pink'>kandidaat 4119</span> een goede match is voor de <span class='green'>vacature 147542</span> op basis van een set verbindingen en relaties tussen verschillende vacatures en kandidaten. Deze verbindingen en relaties hebben een score gekregen die hun belang voor de match aangeeft.<br><br> Het model ontdekte dat <span class='green'>vacature 147542</span> sterk verbonden is met <span class='pink'>kandidaat 3844</span>, aangezien deze eerder die rol heeft vervuld. <span class='pink'>Kandidaat 3844</span> heeft ook een andere vacature <span class='green'>(vacature 190070)</span> vervuld met een sterke verbinding. Deze vacature is op zijn beurt weer vervuld door <span class='pink'>kandidaat 3726</span>, die ook een andere vacature heeft vervuld: <span class='green'>vacature 157652</span>. Deze laatste vacature is eerder vervuld door de beoogde kandidaat <span class='pink>(kandidaat 4119)</span>.<br><br> Daarnaast vond het model een verbinding tussen de rol van <span class='yellow'>assistent</span> en de <span class='green'>vacature 65504</span>, en een verbinding tussen deze rol en <span class='green'>vacature 210812</span> met een lagere score. De rol van <span class='yellow'>assistent</span> is ook verbonden met <span class='green'>vacature 107073</span>.<br><br> Ten slotte vond het model een verbinding tussen de rol van <span class='yellow'>administratief medewerker</span> en de <span class='green'>vacature 180599</span> en <span class='green'>vacature 210812</span> met een lagere score, en een verbinding tussen <span class='green'>vacature 157652</span> en <span class='pink'>kandidaat 4119</span> met een sterke verbinding. <br><br>Op basis van deze verbindingen en relaties heeft het XAI-model bepaald dat <span class='pink'>kandidaat 4119</span> een goede match is voor <span class='green'>vacature 147542</span> omdat <span class='pink'>kandidaat 4119</span> vergelijkbare ervaring heeft met <span class='pink'>kandidaat 3844</span> die eerder de doelvacature heeft vervuld."
+    title.innerHTML = "<h5>Geschreven uitleg voor de match (j147542, u4119):</h5>"
+    
+  // You have to explain the rationale behind an explanation generated by an XAI model to lay users, who are not necessarily technically inclined. I will give you the explanation for why the model determined a candidate (u4119) to be good match for a specific job (j147542). The explanation is based on a graph structure, which contains the following edges:
+
+  // [{'from': 'j147542', 'to': 'secretary', 'value': 1.04}, {'from': 'j147542', 'to': 'u3844', 'value': 6.667}, {'from': 'j147542', 'to': 'assistant', 'value': 0.731}, {'from': 'j147542', 'to': 'clerk', 'value': 1.562}, {'from': 'j65504', 'to': 'assistant', 'value': 1.04}, {'from': 'secretary', 'to': 'j65504', 'value': 1.04}, {'from': 'u3844', 'to': 'j190070', 'value': 6.667}, {'from': 'u3726', 'to': 'j157652', 'value': 6.667}, {'from': 'Administrative Commissioner', 'to': 'u4119', 'value': 0.0}, {'from': 'Administrative Commissioner', 'to': 'j180599', 'value': 0.731}, {'from': 'j127155', 'to': 'u4119', 'value': 1.562}, {'from': 'j157652', 'to': 'u4119', 'value': 6.667}, {'from': 'j210812', 'to': 'Administrative Commissioner', 'value': 0.406}, {'from': 'j190070', 'to': 'u3726', 'value': 6.667}, {'from': 'j180599', 'to': 'u4119', 'value': 0.731}, {'from': 'assistant', 'to': 'j210812', 'value': 0.406}, {'from': 'assistant', 'to': 'j107073', 'value': 0.325}, {'from': 'clerk', 'to': 'j127155', 'value': 1.562}, {'from': 'j107073', 'to': 'Administrative Commissioner', 'value': 0.325}]
+
+  // The edge values indicate how important the XAI model found the edge to be for the explanation. Base your explanation on the path(s) from the target user to the target job in their entirety. Please replace "j" and "u" in the node names with "job" and "user" respectively. Please make sure to be as clear and accessible as possible. Do not refer to individual values or edges; instead, focus on full paths between the target user and job. Try to refrain from using graph-related words. I.e., explain it like how a more experienced person would explain it to someone who is quite new to the topic.
+  
+  }
+  // Simple company
+  else{
+    div.innerHTML = "<b>Eenvoudige bedrijf-gerichte uitleg:</b><br><br>Het XAI-model vond <span class='pink'>kandidaat u4119</span> een goede match voor <span class='green'>vacature 147542</span> op basis van de connecties en relaties tussen de kandidaat en verschillende andere vacatures en rollen.<br><br>Zo vond het model een sterke connectie tussen de <span class='green'>doelvacature 147542</span> en een andere <span class='pink'>kandidaat u3844</span>, die eerder een relevante vacature had bekleed <span class='green'>(vacature 190070)</span>.Bovendien vond het model een connectie tussen de <span class='pink'>kandidaat u4119</span> en <span class='green'>vacature 157652</span>, welke ook bekleed is door <span class='pink'>kandidaat 3726</span>. Verder deelt <span class='pink'>kandidaat 3726</span> ook ervaring deelt met <span class='pink'>kandidaat 3844</span> bij <span class='green'>vacature 190070</span>.<br><br>Al deze connecties en relaties samen hebben het XAI-model geholpen om te bepalen dat de <span class='pink'>kandidaat u4119</span> een goede match zou zijn voor de <span class='green'>doelvacature (147542)</span>."
+    title.innerHTML = "<h5>Geschreven uitleg voor de match (j147542, u4119):</h5>"
+
+  // You have to explain the rationale behind an explanation generated by an XAI model to lay users, who are not necessarily technically inclined. I will give you the explanation for why the model determined a candidate (u4119) to be good match for a specific job (j147542). The explanation is based on a graph structure, which contains the following edges:
+
+  // [{'from': 'j147542', 'to': 'secretary', 'value': 1.04}, {'from': 'j147542', 'to': 'u3844', 'value': 6.667}, {'from': 'j65504', 'to': 'assistant', 'value': 1.04}, {'from': 'secretary', 'to': 'j65504', 'value': 1.04}, {'from': 'u3844', 'to': 'j190070', 'value': 6.667}, {'from': 'u3726', 'to': 'j157652', 'value': 6.667}, {'from': 'Administrative Commissioner', 'to': 'j180599', 'value': 0.731}, {'from': 'j157652', 'to': 'u4119', 'value': 6.667}, {'from': 'j210812', 'to': 'Administrative Commissioner', 'value': 0.406}, {'from': 'j190070', 'to': 'u3726', 'value': 6.667}, {'from': 'j180599', 'to': 'u4119', 'value': 0.731}, {'from': 'assistant', 'to': 'j210812', 'value': 0.406}, {'from': 'assistant', 'to': 'j107073', 'value': 0.325}, {'from': 'j107073', 'to': 'Administrative Commissioner', 'value': 0.325}]
+
+  // The edge values indicate how important the XAI model found the edge to be for the explanation. Base your explanation on the path(s) from the target user to the target job in their entirety. Please replace "j" and "u" in the node names with "job" and "user" respectively. Please make sure to be as clear and accessible as possible. Do not refer to individual values or edges; instead, focus on full paths between the target user and job. Try to refrain from using graph-related words. I.e., explain it like how a more experienced person would explain it to someone who is quite new to the topic.
+
+    }
+  };
+  </script>
+
+
+<!--  -->

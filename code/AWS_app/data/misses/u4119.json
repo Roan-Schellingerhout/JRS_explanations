@@ -1,0 +1,162 @@
+{
+    "j147542": {
+        "directed": true,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+            {
+                "title": "Management Assistente / Secretaresse bij Wolfs Advocaten",
+                "id": "j147542"
+            },
+            {
+                "title": "Secretaresse bij YoungCapital",
+                "id": "j65504"
+            },
+            {
+                "id": "Secretaresse"
+            },
+            {
+                "title": "Curriculum Vitae:\n\nProfessionele ervaring:\nVerkoper, XYZ warenhuis\n- Verleende uitstekende klantenservice in het Mandarijn en Engels\n- Coördineerde met de afdeling inkoop om efficiënt beheer van de toeleveringsketen te garanderen\n\nKantoorassistent, ABC-corporatie\n- Bereidde documenten en contracten voor en beheerde filesystemen\n- Assisteerde bij het trainen en begeleiden van nieuwe werknemers\n\nVaardigheden:\n- Vloeiend in Mandarijn en bekwaam in Engels\n- Ervaren in klantenservice, contractbeheer en toeleveringsketenbeheer\n- Bedreven in evenementenplanning, interpretatie en vertaling\n- Kennis van bestandsbeheer en planning\n- Ervaren in verkoopstrategie en voorraadbeheer",
+                "id": "u3844"
+            },
+            {
+                "title": "Curriculum Vitae:\n\nProfessionele ervaring:\nSpecialist internationale handel, XYZ-corporatie\n- Beheerde internationale handelsovereenkomsten, inclusief douane en tarieven\n- Coördineerde verzendingen en logistiek voor internationale transacties\n- Communiceerde met internationale klanten om te zorgen voor tevredenheid en relaties op te bouwen\n- Assisteerde bij onderhandelingen over contracten en het oplossen van geschillen met internationale partners\n\nVaardigheden:\n- Ervaren in internationale handelsovereenkomsten, douane en tarieven\n- Bedreven in logistiek management voor internationale transacties\n- Bekwaam in communicatie en het opbouwen van relaties met internationale klanten\n- Ervaren in contractonderhandeling en geschillenbeslechting met internationale partners",
+                "id": "u3726"
+            },
+            {
+                "id": "Administratief medewerker"
+            },
+            {
+                "title": "Incassomedewerker bij Unique",
+                "id": "j127155"
+            },
+            {
+                "title": "Curriculum Vitae:\n\nProfessionele ervaring:\nAdministratief assistent, ABC-bedrijf\n- Gebruikte het OSI zevenlaags internetreferentiemodel om netwerkproblemen op te lossen\n- Organiseerde van evenementen en verleende ontvangstservices\n- Coördineerde met verschillende afdelingen om efficiënte communicatie en taakvoltooiing te garanderen\n\nAssistent-docent, XYZ-school\n- Creëerde en beheerde lesmaterialen, zoals lesplannen en hand-outs\n- Verzamelde en analyseerde gegevens over de prestaties van studenten en verstrekte rapporten aan het onderwijzend personeel\n- Assisteerde bij administratief werk, zoals aanwezigheidsbeheer en documentvoorbereiding\n\nVaardigheden:\n- Vaardig in Microsoft Office, inclusief Excel voor gegevensanalyse\n- Bekwaam in coördinatie, communicatie en leiderschap\n- Kennis van netwerkproblemen oplossen en beveiligingsbeheer\n- Ervaren in lesgeven, beoordeling en analyse van de prestaties van studenten",
+                "id": "u4119"
+            },
+            {
+                "title": "Salarisadministrateur / Financieel administratief medewerker bij De ZorgSpecialist",
+                "id": "47329ebfff17ff08e8fce96bc0959ea8"
+            },
+            {
+                "title": "Administratief medewerker secretariaat Kind & Jeugd bij Maandag",
+                "id": "j210812"
+            },
+            {
+                "title": "Allround financieel medewerker bij Verdasol B.V.",
+                "id": "j190070"
+            },
+            {
+                "title": "Administratief medewerker bij YoungCapital",
+                "id": "j180599"
+            },
+            {
+                "id": "Assistent"
+            },
+            {
+                "id": "Klerk"
+            },
+            {
+                "title": "Management Assistent - CTCM bij Maastricht UMC",
+                "id": "j107073"
+            }
+        ],
+        "links": [
+            {
+                "label": "heeft subtype",
+                "source": "j65504",
+                "target": "Secretaresse"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Secretaresse",
+                "target": "j147542"
+            },
+            {
+                "label": "heeft vervuld",
+                "source": "u3844",
+                "target": "j147542"
+            },
+            {
+                "label": "heeft vervuld",
+                "source": "u3726",
+                "target": "j190070"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Administratief medewerker",
+                "target": "j107073"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Administratief medewerker",
+                "target": "j210812"
+            },
+            {
+                "label": "heeft subtype",
+                "source": "j127155",
+                "target": "Klerk"
+            },
+            {
+                "label": "heeft vervuld",
+                "source": "u4119",
+                "target": "47329ebfff17ff08e8fce96bc0959ea8"
+            },
+            {
+                "label": "heeft vervuld",
+                "source": "u4119",
+                "target": "j180599"
+            },
+            {
+                "label": "heeft vervuld",
+                "source": "u4119",
+                "target": "j127155"
+            },
+            {
+                "label": "wil subtype",
+                "source": "u4119",
+                "target": "Administratief medewerker"
+            },
+            {
+                "label": "is vervuld door",
+                "source": "47329ebfff17ff08e8fce96bc0959ea8",
+                "target": "u3726"
+            },
+            {
+                "label": "heeft subtype",
+                "source": "j210812",
+                "target": "Assistent"
+            },
+            {
+                "label": "is vervuld door",
+                "source": "j190070",
+                "target": "u3844"
+            },
+            {
+                "label": "heeft subtype",
+                "source": "j180599",
+                "target": "Administratief medewerker"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Assistent",
+                "target": "j65504"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Assistent",
+                "target": "j147542"
+            },
+            {
+                "label": "is subtype van",
+                "source": "Klerk",
+                "target": "j147542"
+            },
+            {
+                "label": "heeft subtype",
+                "source": "j107073",
+                "target": "Assistent"
+            }
+        ]
+    }
+}
