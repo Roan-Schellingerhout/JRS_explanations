@@ -1,0 +1,605 @@
+[00:02:031.69 --> 00:02:035.95] [Roan]  Ja, nee, het is dus drie keer uitleg van het model voor een bepaalde match,
+[00:02:036.55 --> 00:02:039.55] [Roan]  die dus tokens in een andere manier worden weergegeven.
+[00:02:039.65 --> 00:02:044.01] [Roan]  En in dit geval is dus de geschreven uitleg, dat is denk ik ook de beste om mee te beginnen.
+[00:02:045.17 --> 00:02:045.43] [Ilse]  Ja.
+[00:02:045.95 --> 00:02:051.19] [Roan]  Ja, dus in dit geval, ja, het eerste weer handig om dat even door te lezen.
+[00:02:051.71 --> 00:02:054.93] [Roan]  En dan daarna begin ik de vragenronde.
+[00:02:044.75 --> 00:02:045.39] [Ilse]  Ja.
+[00:03:035.95 --> 00:03:036.37] [Ilse]  Oké.
+[00:03:036.66 --> 00:03:037.00] [Roan]  All right.
+[00:03:037.88 --> 00:03:046.60] [Roan]  Nou ja, dus de eerste vraag is een beetje om de correcte interpretatie te checken, of het een beetje duidelijk is.
+[00:03:047.60 --> 00:03:054.92] [Roan]  Dus ja, de eerste vraag is, welke informatie of kenmerken denk je dat het belangrijkste waren voor de computer voor deze voorspelling?
+[00:03:059.07 --> 00:04:001.43] [Ilse]  Nou, als ik heel eerlijk ben, snap ik er helemaal geen zak van.
+[00:04:001.33 --> 00:04:004.65] [Roan]  Haha, oké, hoezo is het onduidelijk?
+[00:04:004.74 --> 00:04:007.52] [Ilse]  Nou ja, het zijn twee kandidaten.
+[00:04:008.14 --> 00:04:011.34] [Ilse]  Tenminste, het is één kandidaat en één vacature.
+[00:04:013.00 --> 00:04:016.96] [Ilse]  Dat het groen en roze is, dat houdt het dan nog uit elkaar.
+[00:04:018.92 --> 00:04:019.48] [Ilse]  Maar...
+[00:04:024.77 --> 00:04:029.37] [Ilse]  Ik vind het heel moeilijk omschreven, dus ik snap niet echt wat de onderbouwing voor
+[00:04:029.37 --> 00:04:032.95] [Ilse]  waarom kandidaat 4-1-1-9 dan geschikt is voor vacature.
+[00:04:033.95 --> 00:04:040.35] [Roan]  Oké, er is ook nog rechtsboven de simpele weergave, dus daar staat het ietsje beknopter
+[00:04:040.35 --> 00:04:042.43] [Roan]  en hopelijk simpeler uitgelegd.
+[00:04:042.59 --> 00:04:048.85] [Roan]  Dus als je rechtsboven die knop aanvinkt, helemaal rechtsboven, simpele weergave.
+[00:04:046.23 --> 00:04:046.93] [Ilse]  Eh...
+[00:04:046.44 --> 00:04:046.57] [Ilse]  Ja.
+[00:04:051.75 --> 00:04:053.77] [Ilse]  Oh, wacht, ik zit met mijn zoom scherm, ah.
+[00:04:056.56 --> 00:04:059.26] [Roan]  Ja, misschien dat deze iets duidelijker is.
+[00:05:034.75 --> 00:05:036.19] [Ilse]  Nee, dit is iets duidelijker, ja.
+[00:05:036.55 --> 00:05:039.85] [Ilse]  Maar ik weet niet, ik kan het niet helemaal volgen.
+[00:05:039.99 --> 00:05:041.71] [Ilse]  Ik vind het heel moeilijk geschreven.
+[00:05:036.44 --> 00:05:036.68] [Ilse]  Oké.
+[00:05:041.78 --> 00:05:049.56] [Roan]  Gewoon het taalgebruik wat te moeilijk of te omslachtig of op welke manier is het te moeilijk?
+[00:05:049.45 --> 00:05:054.41] [Ilse]  Nou ja, nu kijk ik meer vanuit hoe ik het zelf dan zou doen vanuit mijn werk.
+[00:05:054.55 --> 00:05:057.31] [Ilse]  Want dan moet ik ook eigenlijk altijd dingen begrijpelijk maken voor anderen
+[00:05:057.31 --> 00:06:000.69] [Ilse]  en ook voor een doelgroep die een vrij laag niveau heeft.
+[00:06:001.61 --> 00:06:003.49] [Ilse]  En dan denk ik van ja...
+[00:06:005.11 --> 00:06:006.47] [Ilse]  Het zijn lange zinnen.
+[00:06:009.98 --> 00:06:011.94] [Ilse]  En ik zou dan even bullets doen, maar...
+[00:06:015.77 --> 00:06:019.71] [Roan]  Oké, ja, nee, dat is inderdaad wel goeie. All right.
+[00:06:020.49 --> 00:06:023.67] [Ilse]  Misschien is dat juist het doel van het onderzoek, of ik dit kan begrijpen.
+[00:06:023.67 --> 00:06:025.03] [Ilse]  Ja, dat is inderdaad de bedoeling.
+[00:06:025.03 --> 00:06:029.11] [Ilse]  Misschien is het gewoon wel een vermonde IQ-test, en dat scoor ik niet hoog, denk ik.
+[00:06:054.18 --> 00:06:056.76] [Ilse]  Ja, nee, dat snap ik bij deze uitleg wel wat beter, ja.
+[00:07:002.74 --> 00:07:010.62] [Ilse]  Dat model heeft dus die kandidaat 4-1-1-9 uitgekozen als geschikt voor vacaturen,
+[00:07:010.62 --> 00:07:017.56] [Ilse]  vanwege de verbinding met administratief medewerker en op de tweede plaats de rol van assistent.
+[00:07:017.64 --> 00:07:025.34] [Ilse]  Maar de rol van assistent is minder belangrijk, het gaat om de administratief medewerker, dat is het belangrijkste.
+[00:07:031.10 --> 00:07:035.08] [Ilse]  Diegene heeft dus daar blijkbaar verbinding mee, affiniteit, denk ik, dat je ermee bedoelt.
+[00:07:035.36 --> 00:07:038.54] [Ilse]  En dan daarnaast is er gekeken naar de vaardigheden en ervaring.
+[00:07:040.50 --> 00:07:041.34] [Ilse]  En ook daar is een match.
+[00:07:041.66 --> 00:07:047.98] [Roan]  Ja, dat is in deze situatie dus gewoon samengevat, de vaardigheden en ervaring.
+[00:07:049.04 --> 00:07:057.56] [Roan]  En ja, inderdaad, die persoon, in dit geval is het voorgaand heeft hij een baan gehad die administratief medewerker was.
+[00:07:058.96 --> 00:08:003.78] [Roan]  En ja, dat is dus verbonden met assistent, en dus die vacature.
+[00:08:004.66 --> 00:08:006.20] [Roan]  Ja, nee, dat klopt inderdaad.
+[00:08:007.06 --> 00:08:012.28] [Ilse]  Dus de eerste alinea gaat over affiniteit en de tweede alinea gaat dus over ervaring en kennis.
+[00:08:012.51 --> 00:08:015.13] [Roan]  Ja, in dit geval bij deze tekst inderdaad.
+[00:08:015.87 --> 00:08:020.75] [Roan]  En hier is er niet specifiek ingegaan op de vaardigheden en dat soort dingen,
+[00:08:021.05 --> 00:08:023.99] [Roan]  want het is de wat simpelere weergave.
+[00:08:025.09 --> 00:08:029.75] [Roan]  In dit geval is er ook iets wat erin stond wat eigenlijk totaal niet belangrijk was,
+[00:08:030.79 --> 00:08:035.01] [Roan]  wat je las als irrelevant opvatten.
+[00:08:041.52 --> 00:08:042.70] [Ilse]  Nou ja, je kan het...
+[00:08:045.42 --> 00:08:049.38] [Ilse]  Het is dubbel, denk ik. Het model heeft gekeken naar vaardigheden en ervaring
+[00:08:049.38 --> 00:08:053.18] [Ilse]  en vervolgens is er vastgesteld dat de kandidaat ervaring heeft.
+[00:08:053.45 --> 00:08:053.69] [Roan]  M-hm.
+[00:08:054.19 --> 00:08:055.29] [Ilse]  Het kan denk ik korter.
+[00:08:055.63 --> 00:08:056.63] [Roan]  Ja, oké.
+[00:08:058.34 --> 00:09:002.10] [Ilse]  Er staat eigenlijk twee of drie keer hetzelfde in die tweede alinea.
+[00:09:005.00 --> 00:09:009.74] [Roan]  Ja, oké, dus daar is, ja, dat stukje tekst is overbodig, omdat je dat eigenlijk al wist
+[00:09:009.74 --> 00:09:012.01] [Roan]  aan de hand van de voorgaande alinea.
+[00:09:013.38 --> 00:09:017.76] [Ilse]  Nee, want de eerste alinea gaat over affiniteit volgens mij en niet over ervaring.
+[00:09:018.52 --> 00:09:020.92] [Roan]  Maar waar bedoel je dan dat twee keer ervaring?
+[00:09:022.56 --> 00:09:027.12] [Ilse]  Nou ja, in de tweede linie staat dat er wordt gekeken naar vaardigheden en ervaring.
+[00:09:027.22 --> 00:09:027.44] [Roan]  Mhm.
+[00:09:028.04 --> 00:09:032.26] [Ilse]  En vervolgens is er vastgesteld dat de kandidaat relevante ervaring heeft.
+[00:09:032.40 --> 00:09:032.58] [Roan]  Mhm.
+[00:09:033.23 --> 00:09:037.13] [Ilse]  En vervolgens blijkt de vacature een goede match te zijn vanwege de ervaring.
+[00:09:037.32 --> 00:09:038.44] [Roan]  Ja, oké, oké...
+[00:09:038.46 --> 00:09:039.46] [Ilse]  Er staat dus drie keer achter elkaar hetzelfde.
+[00:09:039.54 --> 00:09:042.72] [Roan]  Ja, dus dat zou inderdaad korter uitgelegd kunnen worden.
+[00:09:043.80 --> 00:09:052.10] [Roan]  Oké, duidelijk. Dus het irrelevante is eigenlijk dat er dus dubbele teksten in staat of eigenlijk informatie die je al wist.
+[00:09:051.33 --> 00:09:051.41] [Ilse]  Ja.
+[00:09:052.50 --> 00:09:058.18] [Roan]  Oké, duidelijk. Oké, dan de volgende vraag is,
+[00:09:059.56 --> 00:10:007.96] [Roan]  helpt de uitleg te begrijpen waarom het systeem specifiek deze match heeft gegeven?
+[00:10:008.92 --> 00:10:009.24] [Ilse]  Ja.
+[00:10:010.20 --> 00:10:010.94] [Ilse]  Ja, en moet ik nog ergens op drukken?
+[00:10:014.41 --> 00:10:020.35] [Roan]  Nee, nee, nee, je kan terug naar die grotere uitleg als je wil, maar blijf wel binnen de geschreven.
+[00:10:020.41 --> 00:10:025.69] [Roan]  Dus niet naar die graaf- of staafdiagram, maar rechtsboven als je weer naar die minder simpele weergave wil, dat is wel prima.
+[00:10:028.11 --> 00:10:034.55] [Roan]  Maar oké, dus de uitleg helpt te begrijpen met waarom het systeem de uitleg heeft gegeven.
+[00:10:034.55 --> 00:10:041.17] [Roan]  En is dat aan de hand van alleen die simpele, of helpt de volledige daar ook een beetje mee?
+[00:10:041.37 --> 00:10:044.37] [Roan]  Of was die eigenlijk niet nuttig omdat die te ingewikkeld was?
+[00:10:049.87 --> 00:10:051.85] [Ilse]  Ik vind hem wel erg wollig.
+[00:10:053.27 --> 00:10:055.91] [Ilse]  Dus dat hij steeds zou kijken van...
+[00:10:052.07 --> 00:10:052.27] [Ilse]  Mhm.
+[00:10:059.27 --> 00:11:006.83] [Ilse]  Het is heel puzzelen om, ik vind het puzzelen om uit te zoeken van waar gaat het nou echt over.
+[00:11:007.15 --> 00:11:007.45] [Ilse]  M-hm.
+[00:11:008.20 --> 00:11:008.90] [Ilse]  Daar blijf ik bij.
+[00:11:009.03 --> 00:11:018.73] [Roan]  Ja, ja, ja. En dat ligt dus met name dan aan de verwoording, want als het inderdaad in die andere wat beknopter verwoord wordt, dan komt het wel beter naar voren.
+[00:11:024.11 --> 00:11:024.33] [Ilse]  Ja.
+[00:11:019.61 --> 00:11:025.39] [Roan]  Oké, dus vooral in dit geval is totaal gebruik van het model dat, ja, oké, te hoog ligt.
+[00:11:026.05 --> 00:11:032.09] [Roan]  Oké, nee, dat is een goede tip. Dat valt ook prima aan te passen, dus dat is iets goeds om te weten.
+[00:11:034.74 --> 00:11:041.38] [Roan]  Maar ja, dus de dingen die wel duidelijk zijn, wat is daar specifiek, wat zijn de dingen die helpen met het begrijpen?
+[00:11:045.53 --> 00:11:049.13] [Ilse]  Ik dacht dat die kleurtjes nog wel helpen.
+[00:12:005.72 --> 00:12:010.24] [Ilse]  Misschien die onderste zin is eigenlijk gewoon een samenvatting van de eerste twee alinea's.
+[00:12:010.36 --> 00:12:010.43] [Roan]  Ja.
+[00:12:011.63 --> 00:12:015.70] [Ilse]  Dat maakt het dan ook weer dubbel, want dan krijg je weer hetzelfde verhaal, maar die...
+[00:12:015.70 --> 00:12:019.17] [Ilse]  ...geeft het dan misschien wel nog even duidelijk weer.
+[00:12:019.50 --> 00:12:019.74] [Roan]  M-hm.
+[00:12:021.47 --> 00:12:028.05] [Roan]  Dus dat is een beetje dubbel op. Aan de ene kant is het fijn om nog een soort samenvatting te hebben, maar het is ook weer dubbele informatie een beetje.
+[00:12:028.43 --> 00:12:029.95] [Roan]  Ja, als ik dan...
+[00:12:028.40 --> 00:12:033.40] [Ilse]  Ja, zelfs zou ik dat dan of vet maken of duidelijk maken van dit is de conclusie.
+[00:12:034.64 --> 00:12:038.88] [Ilse]  Dus niet weer meer tekst, het is gewoon een samenvatting van de eerdere tekst.
+[00:12:039.00 --> 00:12:045.30] [Roan]  Ja, oké, dus dan misschien in plaats van kortom dan samenvattend, dubbele punt, zo iets.
+[00:12:045.56 --> 00:12:045.66] [Ilse]  Ja.
+[00:12:045.66 --> 00:12:046.06] [Roan]  Ja, oké.
+[00:12:046.68 --> 00:12:047.56] [Roan]  Nee, duidelijk.
+[00:12:049.17 --> 00:12:053.39] [Roan]  Allright, dan nu gewoon het concept van de uitleg.
+[00:12:053.51 --> 00:12:057.93] [Roan]  Dus inderdaad die link administratief medewerker en assistent.
+[00:12:058.13 --> 00:13:002.31] [Roan]  Is dat voor jou een logische uitleg die het model geeft?
+[00:13:002.39 --> 00:13:006.21] [Roan]  Is dat iets waarvan je denkt, oh ja, dat is wel een goede reden om die twee met elkaar te verbinden?
+[00:13:009.76 --> 00:13:014.64] [Ilse]  Nou, er wordt niet echt uitgelegd waarom diegene dan echt geschikt is, maar eerst even van dit is de match.
+[00:13:015.74 --> 00:13:016.18] [Ilse]  Ehh...
+[00:13:018.88 --> 00:13:026.20] [Roan]  Ja, in dit geval is dus de verbinding met die rollen is dat ze ervaring hebben met een baantje dat die rol had.
+[00:13:026.32 --> 00:13:031.24] [Roan]  Dus bijvoorbeeld de kandidaat heeft een sterke verbinding met de rol administratief medewerker.
+[00:13:031.32 --> 00:13:039.46] [Roan]  Dat betekent dus hij heeft een baan gehad als administratief medewerker en die werd in deze situatie als belangrijk geacht voor de match.
+[00:13:039.65 --> 00:13:039.97] [Ilse]  Ja.
+[00:13:041.14 --> 00:13:052.68] [Roan]  Dus is dan dat pad van de kandidaat naar administratief medewerker en de assistent en dan naar de vacature, is dat een logische uitleg een beetje?
+[00:13:056.66 --> 00:14:000.47] [Ilse]  Ja, dan wel, maar dan nog vind ik hem omslachtig
+[00:14:000.49 --> 00:14:001.71] [Roan]  Ja, ja, oké.
+[00:14:002.15 --> 00:14:011.91] [Roan]  Maar dus, als het wat beknopter verwoord zou zijn, en dus de persoon heeft een baan gehad als administratief medewerker,
+[00:14:012.99 --> 00:14:020.27] [Roan]  en dat past goed bij de assistentpositie van de vacature, als het op die manier verwoord zou worden,
+[00:14:020.65 --> 00:14:024.13] [Roan]  dan is het wel een logische uitleg op die manier.
+[00:14:024.62 --> 00:14:030.04] [Ilse]  Nou ja, ik vind het logisch dat als diegene ervaring daarin heeft, dat er dan die match is.
+[00:14:030.20 --> 00:14:035.64] [Ilse]  Alleen nu is het woord verbinding, weet ik niet, is het een verbinding vanuit interesse,
+[00:14:035.80 --> 00:14:038.06] [Ilse]  of vanuit ervaring, of vanuit kennis, of...
+[00:14:039.20 --> 00:14:041.90] [Ilse]  Het is een vrij algemeen woord 'verbinding'.
+[00:14:043.00 --> 00:14:045.80] [Ilse]  Er staat niet heel erg concreet van, nou ja, dit is een goede match,
+[00:14:045.86 --> 00:14:048.88] [Ilse]  want hij heeft tien jaar ervaring, en hij heeft zes banen erin gehad,
+[00:14:049.00 --> 00:14:050.72] [Ilse]  en het blijft een beetje vaag.
+[00:14:049.21 --> 00:14:050.73] [Roan]  Het blijft een beetje vaag.
+[00:14:050.85 --> 00:14:056.01] [Roan]  Oké, dus duidelijkere talen, vooral voor verbinding en dat soort dingen.
+[00:14:056.65 --> 00:15:001.21] [Roan]  Dus ook bijvoorbeeld het aantal jaar ervaring, zoiets zou ook kunnen helpen, omdat het dan...
+[00:15:001.85 --> 00:15:005.37] [Roan]  waarschijnlijk dan sterker verbinding ofzo, als het dan een...
+[00:15:005.37 --> 00:15:009.19] [Roan]  Ja, vijf jaar ervaring is duidelijker en concreter dan sterke verbinding, bijvoorbeeld.
+[00:15:009.75 --> 00:15:012.75] [Ilse]  Ja, ik zou het veel concreter maken dan gewoon met bullets.
+[00:15:012.99 --> 00:15:017.83] [Ilse]  Er is een match vanwege dubbele punts, zoveel jaar ervaring, zoveel verschillende banen,
+[00:15:017.95 --> 00:15:024.57] [Ilse]  zoveel interesse is er gebleken uit het onderzoek, zeg maar wat, en dan heeft de ontvanger,
+[00:15:025.63 --> 00:15:030.83] [Ilse]  ik weet natuurlijk niet vanuit wie het nu moet bekijken, maar dan is het wel duidelijker van,
+[00:15:030.89 --> 00:15:033.89] [Ilse]  nou ja, waarom die match er is. Het is dan beter onderbouwd.
+[00:15:021.93 --> 00:15:022.45] [Ilse]  Zeg maar wat.
+[00:15:034.05 --> 00:15:041.29] [Roan]  Ja, dit is vanuit het oogpunt van de kandidaat, dus de persoon die op zoek is naar een baan.
+[00:15:042.52 --> 00:15:046.04] [Ilse]  Dus dan ben ik kandidaat 4-1-1-9 bijvoorbeeld.
+[00:15:046.18 --> 00:15:059.58] [Roan]  Ja, 4-1-1-9 is nu, ja, dat kun je in principe negeren, maar in deze situatie zou jij dus kandidaat 4-1-1-9 zijn en de aanbeveling zou zijn vacature 1-4-7, bla bla bla.
+[00:16:000.07 --> 00:16:002.71] [Ilse]  Maar krijg ik dan deze uitleg als die kandidaat zijnde?
+[00:16:002.84 --> 00:16:006.32] [Roan]  Ja, dat zou in principe uiteindelijk dus de bedoeling worden.
+[00:16:007.02 --> 00:16:008.94] [Ilse]  Maar, oh goed, oh, die manier maar.
+[00:16:010.36 --> 00:16:019.66] [Ilse]  Dus er staat dan niet van, nou uit het onderzoek blijkt dat jij, ik dus, sterke affiniteit hebt met de rol van administratief medewerker.
+[00:16:019.74 --> 00:16:021.02] [Ilse]  Dan blijf ik kandidaat 4119.
+[00:16:021.84 --> 00:16:028.26] [Roan]  Dat zou misschien inderdaad wel handiger zijn om er inderdaad direct taal van te maken.
+[00:16:028.38 --> 00:16:033.18] [Roan]  Dus inderdaad, ja, voor jou hebben we dit bepaald, want je hebt ervaring.
+[00:16:033.80 --> 00:16:035.90] [Ilse]  Ja, oké, dat is wat ik bedacht.
+[00:16:036.12 --> 00:16:037.28] [Ilse]  Ja, dan begin ik het te snappen.
+[00:16:037.18 --> 00:16:043.02] [Roan]  Ja, hier omdat het een voorbeeld is, ben ik inderdaad gewoon gebleven met kandidaat Huppeldepup,
+[00:16:043.22 --> 00:16:052.06] [Roan]  maar ja, nee, ik denk inderdaad in een echte omgeving dat jij een stuk duidelijker is voor mensen.
+[00:16:053.22 --> 00:16:054.38] [Roan]  Dat is een goed punt.
+[00:16:058.20 --> 00:17:007.62] [Roan]  Oké, ja, nu dus het iets duidelijker is wat de uitleg is, helpt de uitleg ook daadwerkelijk met het maken van een beslissing?
+[00:17:007.72 --> 00:17:014.10] [Roan]  Dus als je aan de hand van de uitleg zo moet zeggen, ik denk dat dit wel of geen goede baan is, zou dat daarin ondersteunen?
+[00:17:016.73 --> 00:17:026.87] [Ilse]  Nou, ik zou als kandidaat zijnde, zou ik wel me gesteund voelen als zo'n model bewijst dat die match er is.
+[00:17:027.07 --> 00:17:032.65] [Ilse]  Dat wel. Ik zou er wel op vertrouwen, op zo'n model.
+[00:17:032.22 --> 00:17:032.74] [Roan]  Zo'n model.
+[00:17:033.14 --> 00:17:041.30] [Roan]  Oké, maar is dat dan voor het model in het algemeen of helpt de uitleg ook met het versterken van dat vertrouwen?
+[00:17:044.57 --> 00:17:056.37] [Ilse]  Ja, de uitleg versterkt het wel. Dus als ik had het idee dat ik wil dat gaan doen en het komt uit het model dat die match er is, dan zou dat zeker wel mijn vertrouwen vergroten, ja.
+[00:17:056.38 --> 00:18:002.48] [Roan]  Oké, oké, en als het model geen uitleg zou geven, maar gewoon echt zou zeggen, ja, we
+[00:18:002.48 --> 00:18:008.56] [Roan]  hebben voorspeld vacature 1,4,7,5,4,2 is een goede match, zou dat ook wel versterken of
+[00:18:008.56 --> 00:18:008.96] [Roan]  dan niet?
+[00:18:010.01 --> 00:18:014.89] [Ilse]  Nou, ook, maar die uitleg maakt het wel wat professioneler of zo en betrouwbaarder,
+[00:18:014.95 --> 00:18:017.29] [Ilse]  want dan weet ik van, oh, er zit echt wel wat achter.
+[00:18:017.54 --> 00:18:025.10] [Roan]  Ja, ja, ja. Dan snap je een beetje wat het model waart aan heeft gedacht.
+[00:18:025.69 --> 00:18:028.80] [Roan]  Inderdaad, dan is het duidelijk.
+[00:18:031.63 --> 00:18:034.38] [Roan]  Ja, oké, dat komt dan ook meteen een beetje op de volgende vraag.
+[00:18:034.67 --> 00:18:039.06] [Roan]  Dus, denk je dat de voorspelling van het model betrouwbaar is?
+[00:18:039.13 --> 00:18:041.58] [Roan]  Dat het een goede voorspelling is geweest?
+[00:18:046.23 --> 00:18:048.19] [Ilse]  Op basis van deze uitleg...
+[00:18:048.44 --> 00:18:048.94] [Roan]  Ja, ja, ja.
+[00:18:053.48 --> 00:18:054.28] [Ilse]  Ja, op zich wel.
+[00:18:054.66 --> 00:18:056.04] [Ilse]  En dan...
+[00:18:055.99 --> 00:19:002.21] [Ilse]  Er wordt niet heel veel uitgelegd waarom die match er is, want dat wordt dus niet heel concreet.
+[00:19:005.29 --> 00:19:012.21] [Ilse]  Maar ik heb dan wel het idee als er staat, er wordt naar verschillende kandidaat vacatures en belang gekeken,
+[00:19:013.05 --> 00:19:020.79] [Ilse]  dan heb ik zelf gewoon altijd wel vertrouwen in dit soort, ja, hoe noem je dat, matchings.
+[00:19:022.33 --> 00:19:023.89] [Ilse]  Middelen, dat wel.
+[00:19:024.82 --> 00:19:034.48] [Roan]  Oké, ja dus op zich de concrete tekst in de uitleg helpt niet per se heel veel met het meer betrouwbaar maken,
+[00:19:034.62 --> 00:19:042.54] [Roan]  maar meer dat je vertrouwt dat het model het goed doet en dat de uitleg een beetje steunt in begrijpen waarom het model specifiek dit heeft gedaan.
+[00:19:043.71 --> 00:19:049.55] [Ilse]  Ja, dus het zegt eigenlijk iets over mijn vertrouwen in dit soort onderzoeken en tools.
+[00:19:050.29 --> 00:19:054.51] [Ilse]  En dat het wordt uitgelegd, ook al snap ik de uitleg zelf, vind ik hem niet heel sterk.
+[00:19:055.01 --> 00:20:000.21] [Ilse]  Het feit dat het wordt uitgelegd, onderbouwt dan wel meer dan alleen maar je hebt een match klaar.
+[00:20:000.31 --> 00:20:008.25] [Roan]  Ja, duidelijk. En zou dat dan ook daadwerkelijk, stel je bent inderdaad kandidaat 4-1-1-9 en
+[00:20:008.25 --> 00:20:014.57] [Roan]  je bent op zoek naar een baan, zou dan deze voorspelling plus uitleg daadwerkelijk
+[00:20:014.57 --> 00:20:017.37] [Roan]  ertoe kunnen leiden dat je bijvoorbeeld gaat solliciteren naar die vacature?
+[00:20:018.74 --> 00:20:019.87] [Ilse]  Ja, ik denk het wel.
+[00:20:021.58 --> 00:20:025.60] [Ilse]  Als ik twijfels zou hebben, zou dit wel twijfels wegnemen, ja.
+[00:20:025.73 --> 00:20:036.07] [Roan]  Oké, oké, dus het is meer, ja, dus net het steuntje in de rug dat je nodig zou hebben om de knoop door te hakken. Oké. Duidelijk.
+[00:20:037.89 --> 00:20:046.43] [Roan]  En ja, dan de laatste paar vragen is vooral de voorkeur. Dus zou er iets zijn wat je graag toegevoegd zou willen worden?
+[00:20:046.75 --> 00:20:053.79] [Roan]  Je zei dus al de wat duidelijkere taal en meer directe taal, dus jij in plaats van kandidaat.
+[00:20:053.79 --> 00:20:059.15] [Roan]  Maar verder nog iets waar je aan kan denken wat zou kunnen helpen met het begrijpelijker maken?
+[00:21:001.73 --> 00:21:010.39] [Ilse]  Ja, wat ik net zei over opslommingen enzo, dat het gewoon eigenlijk niet in één oogopslag per se,
+[00:21:010.49 --> 00:21:017.33] [Ilse]  maar dat het wel heel beknopt is en op een rijtje, zodat je tjak tjak tjak in een keer eigenlijk ziet
+[00:21:017.33 --> 00:21:024.29] [Ilse]  van wat het verhaal is. En nu moet je eigenlijk een verhaal gaan lezen. En nou lees ik zelf veel,
+[00:21:024.47 --> 00:21:029.91] [Ilse]  dus ik vind het prima, maar ik ben wel bang dat andere mensen dan afhaken. Dus ik zou
+[00:21:030.29 --> 00:21:036.55] [Ilse]  veel meer compacter maken, dat je ook meteen eigenlijk wel een idee hebt van waar de tekst
+[00:21:036.55 --> 00:21:043.59] [Ilse]  ook naartoe gaat. En dat zou mij wel helpen, want dan is de drempel om het te lezen en te begrijpen
+[00:21:043.59 --> 00:21:044.73] [Ilse]  ook lager.
+[00:21:045.04 --> 00:21:054.82] [Roan]  Ja, nee duidelijk. En zou het dan misschien een idee zijn om dus die simpele weergave, dat dat de standaard setting is en dat het daar inderdaad in bullets is?
+[00:21:055.02 --> 00:21:056.70] [Roan]  Of in ieder geval heel duidelijk?
+[00:21:055.81 --> 00:22:002.53] [Ilse]  Ja, dat zou ik zeker doen. En misschien zelfs met infographics ofzo en met symbolen of iconen.
+[00:22:003.17 --> 00:22:008.67] [Ilse]  Misschien ook zelfs met een percentage van een match of zoveel procent om het nog meer te laten leven.
+[00:22:008.83 --> 00:22:017.35] [Ilse]  Ik heb zelf al altijd plaatjes nodig om het soort van helder te krijgen, want dan gaat het ook wat sneller.
+[00:22:018.05 --> 00:22:023.63] [Ilse]  Anders lukt het ook wel, maar het gaat dan sneller. En ik denk dat dat wel helpt bij het overtuigen ook.
+[00:22:023.93 --> 00:22:029.41] [Ilse]  En ik heb zelf vanuit mijn eigen studie nog altijd, hou ik hem achterhoofd, drie is magisch.
+[00:22:029.53 --> 00:22:037.05] [Ilse]  Je hoort bij drie argumenten ben je overtuigd. Dus als het doel is om deze text om mij te overtuigen te gaan solliciteren,
+[00:22:037.19 --> 00:22:040.39] [Ilse]  dan zou het ook mooi zijn als er drie dingen zijn en dan tjak, dan...
+[00:22:041.83 --> 00:22:042.69] [Ilse]  Ben ik overtuigd.
+[00:22:043.80 --> 00:22:051.52] [Roan]  Uhm, ja, oké, en zou je dan nog wel iets toevoegen als dus die erg beknopte, ja, duidelijke
+[00:22:051.52 --> 00:22:054.84] [Roan]  straight to the point uitleg is om dan ook nog een wat uitgebreidere te hebben voor als
+[00:22:054.84 --> 00:22:059.02] [Roan]  je dat bekijkt en denkt van, oh, ik zou nog wel wat meer uitleg willen hebben.
+[00:22:058.99 --> 00:22:059.25] [Ilse]  Ja.
+[00:22:059.38 --> 00:23:001.32] [Roan]  Maar dat dat meer optioneel is, bijvoorbeeld.
+[00:23:001.78 --> 00:23:011.84] [Ilse]  Ja, dat is dan stap 2. Dat je dus in de eerste versie gewoon het heel puntsgewijs ziet wat het resultaat is.
+[00:23:012.19 --> 00:23:015.49] [Ilse]  En dat je dan op elk dingetje eventueel kan klikken voor een toelichting.
+[00:23:015.26 --> 00:23:022.72] [Roan]  Ja, oké, duidelijk. Dat is een goede en ik denk dat dat ook goed te implementeren valt.
+[00:23:024.46 --> 00:23:029.72] [Roan]  Allright, dan in principe is de geschreven uitleg klaar.
+[00:23:029.98 --> 00:23:037.54] [Roan]  Dus je kan nu een van de twee, de graaf- of de staafdiagram uitleg selecteren en dan daar nog een paar vragen doorlopen.
+[00:23:038.63 --> 00:23:039.01] [Ilse]  Ja.
+[00:23:039.29 --> 00:23:044.35] [Roan]  Ja, oké, nou dit is dus de staafdiagram uitleg.
+[00:23:044.43 --> 00:23:050.91] [Roan]  Hier zie je dat er andere kandidaten en vacatures ook bij te pas komen,
+[00:23:051.53 --> 00:23:058.23] [Roan]  die dan allemaal dus een belangrijkheidswaarde hebben gekregen voor de voorspelling.
+[00:24:000.33 --> 00:24:004.95] [Roan]  Dus ja, deze op zichzelf is denk ik lastig om echt te interpreteren,
+[00:24:004.95 --> 00:24:014.45] [Roan]  maar samen met de tekst erbij helpt dit een beetje te begrijpen wat dus de belangrijke waardes waren voor de voorspelling,
+[00:24:014.61 --> 00:24:016.35] [Roan]  de belangrijkste dingen.
+[00:24:019.59 --> 00:24:025.98] [Ilse]  Ik vind het heel ingewikkeld dat de factures en de kandidaat of de functies...
+[00:24:028.85 --> 00:24:031.37] [Ilse]  Dat het op één as staat en dat het door elkaar staat.
+[00:24:031.62 --> 00:24:031.86] [Roan]  M-hm.
+[00:24:047.28 --> 00:24:047.66] [Roan]  Oké, ja ik snap het.
+[00:24:047.55 --> 00:24:049.11] [Ilse]  Snap ik het eigenlijk weer helemaal niet.
+[00:24:051.53 --> 00:24:057.31] [Roan]  Ja, deze is inderdaad ook tricky, dat had ik ook al bij de voorgaande interviews gehoord.
+[00:24:057.92 --> 00:25:006.24] [Roan]  Maar waar het dus op neerkomt, de andere kandidaten en vacatures, dat komt er een beetje op neer wat je ook bijvoorbeeld op Netflix en dat soort dingen hebt.
+[00:25:007.01 --> 00:25:014.62] [Roan]  Als je een film hebt gekeken die lijkt op een andere film, dan is dat een argument om je die andere film aan te bevelen.
+[00:25:014.62 --> 00:25:023.88] [Roan]  En hetzelfde als iemand die heel vaak dezelfde films kijkt, als jij een nieuwe film kijkt, dan is dat ook een argument om te zeggen, oh, misschien is dat een leuke film voor je.
+[00:25:024.51 --> 00:25:029.53] [Roan]  En dat is dus wat die vacatures en kandidaten in deze situatie aangeven.
+[00:25:029.61 --> 00:25:040.72] [Roan]  Dus bijvoorbeeld die vacature 210812, dat is niet de vacature die is aanbevolen, maar in dit geval lijkt die dus best wel veel op die andere vacature.
+[00:25:041.40 --> 00:25:048.88] [Roan]  En waarschijnlijk in deze situatie is dat dus een vacature die je in het verleden hebt, waar je voor dingen die hebt vervuld.
+[00:25:049.07 --> 00:25:050.03] [Iles]  Ja, waar je hoog op scoort.
+[00:25:051.51 --> 00:26:000.48] [Roan]  Maar ja, ik denk inderdaad, als ik er zelf ook naar kijk, zeker omdat het gewoon vacature 157 enzo, dat dat heel onduidelijk is.
+[00:26:000.55 --> 00:26:006.37] [Roan]  Dat het niet duidelijk is van, oh, dit is een baantje dat ik vroeger heb gehad en dat heeft bijgedragen op die manier.
+[00:26:007.22 --> 00:26:008.87] [Roan]  Dat dat bijvoorbeeld al zou kunnen helpen.
+[00:26:009.96 --> 00:26:014.96] [Ilse]  Nee, nou misschien als het bijvoorbeeld stel er zou staan postbode, wat ik zelf ben geweest,
+[00:26:015.53 --> 00:26:020.70] [Ilse]  of marktonderzoek, ik zeg maar wat, dan wordt het natuurlijk een stuk concreter dan als het...
+[00:26:022.05 --> 00:26:025.49] [Ilse]  Gewoon nummers zijn. Het is nu wel dat het wel gelijke...
+[00:26:026.21 --> 00:26:029.55] [Ilse]  Het zijn allemaal vacatures. Dus de vacature van secretaresse,
+[00:26:029.67 --> 00:26:032.35] [Ilse]  vacature van administratief medewerker.
+[00:26:032.81 --> 00:26:035.51] [Ilse]  Dus het zijn wel gelijke, zeg maar, op de as.
+[00:26:037.15 --> 00:26:040.45] [Ilse]  Maar omdat het ene wel goed uitgeschreven is en het andere met een nummer,
+[00:26:041.23 --> 00:26:045.49] [Ilse]  was ik in de war van, hé, zijn er nou verschillende dingen onder elkaar?
+[00:26:046.13 --> 00:26:051.71] [Ilse]  Dus eigenlijk is het een slagingskans op deze vacatures op de as.
+[00:26:052.87 --> 00:26:054.47] [Ilse]  En dan zijn...
+[00:26:054.47 --> 00:26:058.75] [Ilse]  En dan kunnen daar... Maar wat dan vacature 107073 is,
+[00:26:058.79 --> 00:27:002.77] [Ilse]  of het nou pizza-courier is, dat weet ik dan niet als kandidaat zijnde.
+[00:27:003.14 --> 00:27:011.58] [Roan]  Ja, dus daar zou het dan handiger zijn als er dan de functie in het bedrijf bijvoorbeeld, dus dan inderdaad postbode bij ptt iets in die geest, dat we dan...
+[00:27:013.30 --> 00:27:018.44] [Ilse]  Ja, dan zou het wel concreter worden, maar als het doel is van bijvoorbeeld een iemand die een...
+[00:27:018.44 --> 00:27:022.50] [Ilse]  Stel, iemand biedt een functie als administratief medewerker, dan heeft die er geen belang bij
+[00:27:022.50 --> 00:27:025.76] [Ilse]  als ik weet dat ik ook wel graag weer pizzacourier wil worden.
+[00:27:026.62 --> 00:27:031.26] [Ilse]  Maar als dit echt is voor de kandidaat en alleen maar in mijn belang, dan zou ik het wel willen weten.
+[00:27:031.49 --> 00:27:032.27] [Roan]  Ja, ja, ja.
+[00:27:041.05 --> 00:27:046.53] [Roan]  Oké, nou dan zal ik maar even snel door de vragen heen gaan bij deze, want die, ja,
+[00:27:046.83 --> 00:27:051.99] [Roan]  zeker met de vacature en kandidaat is het dus niet heel nuttig in deze situatie, lijkt
+[00:27:051.99 --> 00:27:052.11] [Roan]  me.
+[00:27:053.41 --> 00:27:057.73] [Roan]  Want ik denk niet dat je hier heel veel informatie uit kan halen momenteel, als je alleen dit
+[00:27:057.73 --> 00:27:058.73] [Roan]  zou bekijken.
+[00:27:059.67 --> 00:28:005.81] [Ilse]  Nou ja, behalve dan, uit die geschreven tekst kwam dat administratief medewerker de hoogste match had
+[00:28:005.81 --> 00:28:007.47] [Ilse]  en die assistent iets lager.
+[00:28:007.71 --> 00:28:010.75] [Ilse]  Maar nu heb ik het idee dat assistent weer de beste match is,
+[00:28:010.85 --> 00:28:012.77] [Ilse]  omdat die toch gerangschikt is.
+[00:28:013.25 --> 00:28:015.23] [Ilse]  Dus dat vind ik dan weer verwarrend.
+[00:28:015.31 --> 00:28:018.55] [Ilse]  Dan zou ik denken van, ja maar op welke functie moet ik nou...
+[00:28:019.80 --> 00:28:021.30] [Ilse]  solliciteren. Wat is nou de beste match?
+[00:28:021.29 --> 00:28:026.47] [Roan]  Ja, ja, dus dat is alleen maar lastiger ten opzichte...
+[00:28:026.47 --> 00:28:032.29] [Roan]  Ja, doordat je eigenlijk in die tekst al gelezen had dat het andersom zou moeten staan, is het nu verwarrend om...
+[00:28:032.29 --> 00:28:032.73] [Ilse]  Ja, ja, ja.
+[00:28:034.99 --> 00:28:044.17] [Roan]  Oké, maar helpt deze uitleg nog iets beter om te begrijpen waarom het systeem die aanbevelingen heeft gegeven?
+[00:28:044.85 --> 00:28:046.25] [Roan]  Helpt het daar nog iets mee?
+[00:28:047.34 --> 00:28:051.58] [Ilse]  Nee, helemaal niet, want het wordt niet uitgelegd waarom die met z'n hoog is.
+[00:28:052.16 --> 00:28:053.84] [Ilse]  Het is alleen maar dit kwam eruit, klaar.
+[00:28:055.00 --> 00:28:056.88] [Ilse]  Ik zou er wel graag willen weten waarom dan.
+[00:28:057.10 --> 00:29:000.96] [Ilse]  Dat je erop kan klikken en dat je dan zo'n boekje ziet met uitleg ofzo.
+[00:28:055.09 --> 00:28:055.45] [Ilse]  Ik zou dat willen.
+[00:29:001.75 --> 00:29:008.17] [Roan]  En als dit bijvoorbeeld samen met de tekst zou staan en dan dus dat de rangschikking hetzelfde is,
+[00:29:008.23 --> 00:29:014.31] [Roan]  maar dat je dus kan zien van ja, die verbinding dan met administratief medewerker,
+[00:29:014.89 --> 00:29:019.71] [Roan]  dat je dan ook in dit grafietje zou kunnen zien hoe sterk is die daadwerkelijke verbinding.
+[00:29:020.31 --> 00:29:021.67] [Ilse]  Ja, dat zou echt helpen.
+[00:29:021.87 --> 00:29:024.85] [Roan]  Dus dat het meer een ondersteuning is en niet een losstaand iets.
+[00:29:025.69 --> 00:29:026.69] [Ilse]  Ja, zeker, ja.
+[00:29:028.83 --> 00:29:034.81] [Roan]  Ja, nee, de uitleg lijkt me dan ook in dit geval niet logisch inderdaad om wat je zei,
+[00:29:034.99 --> 00:29:039.55] [Roan]  omdat het lastig is om eigenlijk te achterhalen wat er precies mee bedoeld wordt.
+[00:29:042.49 --> 00:29:044.65] [Roan]  Ja, zou dit helpen met het maken van een beslissing?
+[00:29:048.19 --> 00:29:054.35] [Ilse]  Nee, het zou dus bij mij meer verwarring geven omdat ik niet weet of ik dan voor administratief medewerker of assistent moet kiezen.
+[00:29:055.82 --> 00:29:059.30] [Ilse]  Wat ik me ook nog afvraag is, het is dus blijkbaar een 12-punt schaal.
+[00:30:006.37 --> 00:30:007.99] [Ilse]  Ja, die zou ik ook niet helemaal begrijpen.
+[00:30:011.26 --> 00:30:018.06] [Roan]  Als in, hoe hoog de... wat dat inhoudt, zeg maar een hoge waarde, wat dat inhoudt.
+[00:30:018.80 --> 00:30:024.40] [Ilse]  Ja, want ik zou dan eerder denken aan een tienpunt schaal of een vijfpunt schaal ofzo.
+[00:30:024.58 --> 00:30:029.48] [Ilse]  En bij twaalf denk ik van, oh, betekent dit dat je ook veertien of zestien kan hebben ofzo?
+[00:30:029.89 --> 00:30:037.83] [Roan]  Ja, het is een tienpunt schaal, maar de grafiek heeft er op de x-as een twaalf bij gezet.
+[00:30:038.25 --> 00:30:042.91] [Roan]  Maar dat is meer zodat er een beetje ademruimte is, maar het is inderdaad handiger om het dan
+[00:30:042.91 --> 00:30:047.55] [Roan]  net iets voorbij de tien te laten gaan, zodat het nog wel een tienpunt schaal is.
+[00:30:048.05 --> 00:30:056.29] [Ilse]  Oké, want daardoor krijg ik het idee dat het dus nog hoger had gekund dan 10, maar eigenlijk is 10 de max, dus het is echt een supermatch dit.
+[00:30:058.17 --> 00:31:000.63] [Ilse]  En dat wordt me nu niet duidelijk, nu lijkt het net een 8 ofzo.
+[00:31:001.59 --> 00:31:006.31] [Ilse]  Uhm, terwijl het eigenlijk gewoon een hele goede match is van mij met die functie.
+[00:31:006.35 --> 00:31:011.89] [Roan]  Oké, ja, ja. Ja, nee, duidelijk, dat zal ik zeker aanpassen.
+[00:31:017.11 --> 00:31:023.87] [Roan]  Heeft deze grafiek nog iets van invloed op je vertrouwen in het model, of is dat ook omdat het dus, ja,
+[00:31:025.27 --> 00:31:031.61] [Roan]  eigenlijk om dezelfde redenen dat het niet echt daarin steunt, of heeft dit wel nog iets van invloed op de betrouwbaarheid?
+[00:31:033.39 --> 00:31:042.13] [Ilse]  Nou, op zich een grafiek zou mij wel helpen, maar als het zonder die uitleg is en het zo abstract is als nu, zou het het niet beter maken, nee.
+[00:31:042.21 --> 00:31:047.25] [Roan]  Dus wederom als ondersteuning zou het helpen, maar losstaand eigenlijk niet.
+[00:31:047.97 --> 00:31:052.95] [Ilse]  Nee, het moet echt met toelifting en concreter worden en met een duidelijke 1, 2, 3.
+[00:31:055.09 --> 00:31:057.91] [Ilse]  In rangschikking, maar anders niet, nee.
+[00:31:058.15 --> 00:32:000.41] [Ilse]  Dan geeft het meer verwarring dan dat het helpt.
+[00:32:000.67 --> 00:32:001.61] [Roan]  Oké, duidelijk.
+[00:32:002.91 --> 00:32:008.35] [Roan]  Uhm, alright, ja, en dan hebben we eigenlijk ook wel die laatste besproken.
+[00:32:008.53 --> 00:32:012.41] [Roan]  Dus ja, dan in principe kun je nu verder gaan naar de laatste, dus die graafuitleg.
+[00:32:018.39 --> 00:32:024.25] [Roan]  Ja, het eerste wat je kan doen, je kan al die bolletjes enzo, dat staat er dus onderin,
+[00:32:024.55 --> 00:32:029.43] [Roan]  de cirkels, vierkanten en hexagons, die kun je slepen om ze te herschikken.
+[00:32:030.61 --> 00:32:034.33] [Roan]  Dus ja, het lijkt me handig om dat eerst even te doen, want er zitten er nu een paar door
+[00:32:034.33 --> 00:32:039.09] [Roan]  de war, dus die kun je dan even slepen dat ze niet meer de lijnen door elkaar heen gaan.
+[00:32:040.71 --> 00:32:045.47] [Roan]  Bijvoorbeeld die vacature 1-9-0-0-7-0, die in het midden.
+[00:32:048.32 --> 00:32:048.50] [Ilse]  Ja.
+[00:32:050.00 --> 00:32:051.96] [Roan]  Die zou je dus bijvoorbeeld nu omhoog kunnen slepen.
+[00:32:053.05 --> 00:32:053.35] [Ilse]  Ja, oké.
+[00:32:053.75 --> 00:32:058.13] [Roan]  Ja, het is misschien handig om ervoor te zorgen dat die pijlen elkaar niet kruisen.
+[00:32:059.63 --> 00:33:002.39] [Roan]  Dus dan zou je hem helemaal omhoog kunnen slepen, als je wil.
+[00:33:003.13 --> 00:33:005.17] [Roan]  Ja, zo, dat hij niet door elkaar heen loopt.
+[00:33:006.14 --> 00:33:019.00] [Roan]  Maar ja, het komt neer op dezelfde informatie als in die tekst, maar dit is de manier waarop de computer er daadwerkelijk mee is omgegaan.
+[00:33:019.12 --> 00:33:024.08] [Roan]  Dus die grafiek. En dan die pijlen geven de denkrichting aan.
+[00:33:025.20 --> 00:33:033.68] [Roan]  En dus eigenlijk het pad van die kandidaat naar de vacature is hoe die computer tot de conclusie is gekomen.
+[00:33:034.92 --> 00:33:042.96] [Roan]  Dus als je kijkt naar wat je nu ziet, wat zou je dan interpreteren als de denkwijze van de computer?
+[00:33:046.45 --> 00:33:049.15] [Ilse]  Hoe ik denk dat de computer heeft gedacht, zeg maar.
+[00:34:016.32 --> 00:34:018.42] [Ilse]  Nou, ik...
+[00:34:025.89 --> 00:34:033.69] [Ilse]  Wij denken dat ik blijkbaar als kandidaten eerder heb gesolliciteerd op die functies 1, 2, 7, 1, 5, 5 en die helemaal onderin.
+[00:34:034.23 --> 00:34:041.45] [Ilse]  En dat die dan, dat de hoge score daarop ervoor heeft gezorgd dat er een match is met administratief medewerker.
+[00:34:045.45 --> 00:34:053.09] [Ilse]  Dat snap ik alleen niet waarom je dan vanaf administratief medewerker bij die nieuwe vacatures komt.
+[00:34:054.37 --> 00:35:003.09] [Ilse]  Misschien ook in het verleden daar eerder op gesolliciteerd en dat dan er blijkbaar een match is met assistent.
+[00:35:009.14 --> 00:35:015.22] [Roan]  Oké, ik zal een beetje helpen. Trouwens, die nu rechts, die groene hexagon, die kun je nog omhoog slepen,
+[00:35:015.36 --> 00:35:016.96] [Roan]  want die loopt nu ook weer door een lijntje.
+[00:35:017.76 --> 00:35:021.70] [Roan]  Twee naar links, die 6-5-5-0-4, als je die een stukje omhoog sleept.
+[00:35:022.90 --> 00:35:027.40] [Roan]  En dan ook dat vierkantje Secretaresse kun je een klein stukje omhoog slepen,
+[00:35:027.48 --> 00:35:029.66] [Roan]  want ja, die liepen over die andere lijn heen.
+[00:35:030.18 --> 00:35:030.96] [Ilse]  Ah, oké, ja.
+[00:35:031.20 --> 00:35:035.28] [Roan]  Maar ja, nee, ik snap je denkwijze,
+[00:35:035.88 --> 00:35:039.46] [Roan]  maar wat hier dus het belangrijkste is, is eigenlijk die dikte van de lijnen.
+[00:35:039.60 --> 00:35:042.78] [Roan]  Dus hoe dikker de lijn, hoe belangrijker het was.
+[00:35:043.20 --> 00:35:049.08] [Roan]  Dus deze persoon heeft inderdaad eerder die vacature 1-2-7 vervuld en 1-8-0, die dingen,
+[00:35:049.62 --> 00:35:051.42] [Roan]  maar die hebben hele dunne lijntjes.
+[00:35:051.66 --> 00:35:057.72] [Roan]  Dus dat model is het van ja, die heb je wel gewerkt, maar die leken niet heel veel waarde toe te voegen.
+[00:35:057.82 --> 00:35:059.32] [Roan]  Daar hebben we niet echt op gelet.
+[00:35:059.88 --> 00:36:003.34] [Roan]  Maar waar wel dus heel erg op gelet is, is dat die kandidaat dus heeft aangegeven,
+[00:36:003.34 --> 00:36:009.82] [Roan]  ik wil, in dit geval, dat is het subtype, dus ik wil een baantje die valt onder de categorie Administratief Medewerker.
+[00:36:010.94 --> 00:36:016.32] [Roan]  En Administratief Medewerker, dat is het subtype van die twee baantjes.
+[00:36:016.80 --> 00:36:019.22] [Roan]  Maar die twee baantjes hebben ook het subtype Assistent.
+[00:36:019.44 --> 00:36:023.50] [Roan]  En Assistent is weer het subtype van de uiteindelijk aanbevolen vacature.
+[00:36:023.66 --> 00:36:029.42] [Roan]  Dus het is hier eigenlijk stap voor stap van, je geeft aan, je wil Administratief Medewerker worden.
+[00:36:029.44 --> 00:36:035.54] [Roan]  En we hebben twee posities die aangeven dat een Administratief Medewerker en een Assistent eigenlijk best wel op elkaar lijken.
+[00:36:035.64 --> 00:36:039.28] [Roan]  Want die zitten voor hetzelfde baantje aangegeven als de subtypes.
+[00:36:040.38 --> 00:36:048.68] [Roan]  En vanuit daar, omdat dus een Assistent lijkt op wat je daadwerkelijk wil worden, is deze vacature ook relevant voor je.
+[00:36:052.24 --> 00:36:057.46] [Ilse]  Ja, oké, dat zijn een soort van voorstappen voordat je bij de uiteindelijke vacature komt.
+[00:36:057.49 --> 00:37:005.41] [Roan]  Ja, het is dus eigenlijk stapsgewijs hoe die door alles heen is gelopen om tot een match te komen.
+[00:37:006.40 --> 00:37:009.92] [Ilse]  Maar gaat dit dan echt op interesse of ook op ervaring?
+[00:37:010.65 --> 00:37:015.71] [Roan]  In principe kan het allebei zijn, maar in dit geval heeft de computer dus bepaald dat de interesse
+[00:37:015.71 --> 00:37:020.77] [Roan]  belangrijker is geweest, maar het had ook kunnen zijn dat het inderdaad bijvoorbeeld die voorgaande
+[00:37:020.77 --> 00:37:025.73] [Roan]  vacature 1, 2, 7, dat die heel belangrijk was gebleken en dan had de computer dus gezegd
+[00:37:025.73 --> 00:37:030.89] [Roan]  oh je ervaring is belangrijker, maar in dit geval omdat hij dus vooral let op die wil-subtype
+[00:37:030.89 --> 00:37:034.41] [Roan]  verbinding is het dus meer je interesse in dit geval.
+[00:37:031.92 --> 00:37:032.42] [Ilse]  Ja, ja.
+[00:37:037.32 --> 00:37:044.34] [Roan]  Oké, dus uiteindelijk, nu met wat extra uitleg, is het dan wel wat duidelijker hoe het in elkaar steekt?
+[00:37:045.18 --> 00:37:047.76] [Ilse]  Nou, ik vind dit ding echt niet duidelijk.
+[00:37:049.87 --> 00:37:053.87] [Roan]  Ja, gewoon erg lastig om doorheen te werken, zeg maar.
+[00:37:055.93 --> 00:37:057.93] [Ilse]  Ja, ik vind het wel heel...
+[00:37:059.03 --> 00:38:003.41] [Ilse]  Ik weet niet wat, ik snap wel dat die dikke lijnen dan staan voor een betere match.
+[00:38:004.87 --> 00:38:006.97] [Ilse]  Maar ik zou zelf dan meer met...
+[00:38:006.97 --> 00:38:011.47] [Ilse]  Ook met kleuren werken, maar dan meer van hoe beter de match, hoe groener dan.
+[00:38:012.01 --> 00:38:013.87] [Ilse]  Hoe minder de match, des te rooier.
+[00:38:014.25 --> 00:38:015.97] [Ilse]  Zo zou ik het dan denk ik doen.
+[00:38:017.93 --> 00:38:024.82] [Ilse]  En die vacature zag ik juist als dat dat de reden is om bij die administratief medewerker te komen, helemaal links.
+[00:38:024.97 --> 00:38:027.18] [Ilse]  Maar het is juist niet zo. Het is juist dat...
+[00:38:028.52 --> 00:38:028.76] [Roan]  M-hm.
+[00:38:029.71 --> 00:38:029.95] [Ilse]  Ja.
+[00:38:030.51 --> 00:38:036.23] [Roan]  En als je bij deze naar de simpele weergave gaat, dan geef je dus alleen de belangrijkste paden weer.
+[00:38:037.70 --> 00:38:039.08] [Ilse]  Oh ja, dat is een stuk fijner hè.
+[00:38:039.26 --> 00:38:039.49] [Roan]  Ja.
+[00:38:041.54 --> 00:38:048.04] [Roan]  Dus hier, ja dan, als je er nu naar zou kijken, hoe zou je dan het pad bewandelen, zeg maar?
+[00:38:053.80 --> 00:38:056.18] [Ilse]  Zo'n dikke lijn, geeft aan, mijn interesse.
+[00:38:057.14 --> 00:39:002.74] [Ilse]  Dan snap ik ook dat de dunnelijnen een soort van zijpaden waren die zonder succes...
+[00:39:003.60 --> 00:39:011.96] [Ilse]  Dan snap ik dat ik dan eerst de administratieve medewerker goed match met de facture 2-10812.
+[00:39:013.44 --> 00:39:015.22] [Ilse]  En die matchen weer met assistent.
+[00:39:015.36 --> 00:39:017.12] [Ilse]  Ja, hij blijft een beetje...
+[00:39:018.18 --> 00:39:020.08] [Ilse]  Het is net alsof de oorzaak gevolg is.
+[00:39:020.49 --> 00:39:021.33] [Ilse]  Dat is niet zo.
+[00:39:021.65 --> 00:39:023.01] [Roan]  Nee, nee, nee, klopt. Het is inderdaad niet...
+[00:39:023.01 --> 00:39:025.91] [Roan]  Het is echt een pad, zeg maar.
+[00:39:026.23 --> 00:39:027.05] [Roan]  Een pad met...
+[00:39:027.05 --> 00:39:030.25] [Roan]  Die dingen zijn aan elkaar gelinkt op een bepaalde manier.
+[00:39:031.11 --> 00:39:032.17] [Roan]  Maar het is inderdaad niet...
+[00:39:032.17 --> 00:39:034.17] [Roan]  Maar door die pijlen, is dat wat?
+[00:39:034.35 --> 00:39:036.49] [Roan]  Leidt dat het een beetje oorzaak-gevolg is?
+[00:39:035.47 --> 00:39:042.01] [Ilse]  Ja, daardoor is het alsof het een op het ander volgt, terwijl eigenlijk zijn administratief
+[00:39:042.01 --> 00:39:046.67] [Ilse]  medewerker, assistent, secretarissen gelijk, zouden eigenlijk onder elkaar moeten staan
+[00:39:046.67 --> 00:39:049.33] [Ilse]  en dan peilen naar die drie dingen toe.
+[00:39:049.61 --> 00:39:051.27] [Ilse]  In plaats van dat...
+[00:39:052.62 --> 00:39:056.02] [Ilse]  Administratief medewerkster leidt tot assistent.
+[00:39:056.30 --> 00:40:001.04] [Ilse]  Want het lijkt nu net alsof, omdat er interesse is in administratief medewerker,
+[00:40:001.42 --> 00:40:006.32] [Ilse]  dat daardoor de kandidaat gaat solliciteren op 210812.
+[00:40:006.76 --> 00:40:013.52] [Ilse]  En dat die vacature dan weer laat zien dat er ook een interesse is in assistent.
+[00:40:013.92 --> 00:40:018.98] [Ilse]  En dat vervolgens die interesse dan weer leidt tot een andere vacature en die weer leidt tot zo.
+[00:40:019.05 --> 00:40:020.15] [Roan]  Ja, ja, op die manier.
+[00:40:021.15 --> 00:40:028.25] [Roan]  Ja, dus het is eigenlijk niet duidelijk dat het niet inderdaad een oorzaak-gevolg of ook
+[00:40:028.25 --> 00:40:033.25] [Roan]  een beetje chronologisch dan is, maar het is dus eigenlijk gewoon die dingen zijn met
+[00:40:033.25 --> 00:40:037.97] [Roan]  elkaar verbonden, daarom is het een goede match en de verbinding maakt niet per se...
+[00:40:037.14 --> 00:40:041.68] [Ilse]  Ja, precies, een correlatie. In plaats van het een leidt tot het ander.
+[00:40:043.25 --> 00:40:049.67] [Roan]  Dus naast de pijlen en dat van links naar rechts in plaats van anders gesorteerd, bijvoorbeeld
+[00:40:049.67 --> 00:40:054.41] [Roan]  die teksten van wil subtypen en dat soort dingen, draagt dat er misschien ook aan bij?
+[00:40:054.87 --> 00:41:000.87] [Roan]  Of zou dat, als dat anders verwoord was, zou dat misschien duidelijker worden dan?
+[00:41:002.20 --> 00:41:004.72] [Ilse]  Ja, want dit is wel heel moeilijke taal.
+[00:41:006.70 --> 00:41:011.12] [Ilse]  Wat 7.101 is, is dan ook heel vaag, vind ik.
+[00:41:012.15 --> 00:41:016.53] [Ilse]  En de waarden vind ik ook niet helemaal duidelijk eigenlijk.
+[00:41:017.05 --> 00:41:020.33] [Roan]  Ja, die waarde is dus eigenlijk hoe dik de pijl is.
+[00:41:019.58 --> 00:41:021.28] [Ilse]  Of die 10 plus grap, 12 plus grap.
+[00:41:021.34 --> 00:41:022.38] [Ilse]  Oh ja, ja, dus dat is 9.
+[00:41:021.23 --> 00:41:026.23] [Roan]  Ja, dat is 9.997, dat betekent dat die lijn super belangrijk was.
+[00:41:026.79 --> 00:41:035.61] [Roan]  Die 7.10 betekent dus dat die nog steeds best wel belangrijk was, maar ietsje minder op die manier valt dat dus te lezen.
+[00:41:036.25 --> 00:41:037.75] [Roan]  Maar dat wordt dus niet meteen duidelijk.
+[00:41:036.96 --> 00:41:037.20] [Ilse]  Ja, ja.
+[00:41:038.75 --> 00:41:043.91] [Ilse]  Nee, dan zou ik eerder denken van match, dubbele punt, 99 procent ofzo, ik zeg maar.
+[00:41:045.49 --> 00:41:053.37] [Roan]  Ja, oké, en als het alleen de dikte van die pijl was, zonder dat die waarde er specifiek
+[00:41:053.37 --> 00:41:056.99] [Roan]  bij stond, was het dan ook al wel duidelijk dat die pijl belangrijk was?
+[00:41:057.01 --> 00:41:057.67] [Roan]  Eigenlijk niet, toch?
+[00:41:059.03 --> 00:42:002.69] [Ilse]  Nee, niet in de instantie, dan zou het er al in de legenda ofzo moeten staan.
+[00:42:003.09 --> 00:42:005.31] [Ilse]  Van dikte van peil, geeft belang aan.
+[00:42:006.13 --> 00:42:011.77] [Ilse]  En dan zou die toevoeging met wil subtype, zou het alleen maar ingewikkelder maken, die zou ik dan weglaten.
+[00:42:011.97 --> 00:42:016.16] [Roan]  Ja, zou het dan bijvoorbeeld iets kunnen zijn als je er overheen hovert, dus over de pijl heen hovert,
+[00:42:016.26 --> 00:42:020.93] [Roan]  dat er dan bij staat wat voor type verbinding het is, maar dat het dus optioneel is om daar naar te kijken?
+[00:42:021.36 --> 00:42:021.93] [Ilse]  Ja, ja, precies.
+[00:42:022.05 --> 00:42:025.89] [Roan]  Oké, dus eigenlijk is er wat te veel informatie erin momenteel.
+[00:42:026.03 --> 00:42:026.09] [Ilse]  Ja, ja, zeker.
+[00:42:026.09 --> 00:42:027.01] [Roan]  Het is een beetje overweldigend.
+[00:42:027.82 --> 00:42:027.93] [Ilse]  Ja.
+[00:42:029.45 --> 00:42:030.93] [Roan]  Oké, nou duidelijk.
+[00:42:031.95 --> 00:42:039.66] [Roan]  Helpt de uitleg nu wel weer te begrijpen waarom het systeem dus de aanbeveling heeft gegeven?
+[00:42:049.62 --> 00:42:055.44] [Ilse]  Nou ja, in zoverre, ik dacht dus dat het ging om een functie van administratief medewerker
+[00:42:055.44 --> 00:43:000.02] [Ilse]  met een soort van tweede interesse voor assistent.
+[00:43:000.24 --> 00:43:008.16] [Ilse]  Zoals ik hem nu weer lees, lijkt het net alsof uiteindelijk het gaat om vacature 147542.
+[00:43:008.39 --> 00:43:008.63] [Roan]  Ja.
+[00:43:010.09 --> 00:43:015.89] [Ilse]  En dat had ik eerder niet door. Ik dacht gewoon, er is een vacature voor administratief medewerker, voor assistent en secretarissen.
+[00:43:016.39 --> 00:43:021.41] [Ilse]  En de functie op administratief medewerker, die scoort het hoogste, grootste match.
+[00:43:022.17 --> 00:43:027.25] [Ilse]  Maar nu, hierdoor heb ik het idee, nee, er is gewoon een vacature 1-4-7-5-2 en daar gaat het om.
+[00:43:026.61 --> 00:43:027.27] [Roan]  Daar gaat het om.
+[00:43:028.03 --> 00:43:030.43] [Roan]  Ja, klopt. Het is inderdaad die ene vacature.
+[00:43:031.13 --> 00:43:035.93] [Roan]  Maar het is ook inderdaad zo dat die administratief medewerker de sterkste match heeft.
+[00:43:036.07 --> 00:43:040.97] [Roan]  En het is dus, die vacature is niet direct verbonden met administratief medewerker,
+[00:43:041.41 --> 00:43:045.73] [Roan]  maar indirect, doordat die administratief medewerker lijkt op assistent,
+[00:43:045.79 --> 00:43:050.51] [Roan]  en assistent lijkt op secretaresse, dus lijken die twee dingen op elkaar.
+[00:43:051.43 --> 00:43:052.73] [Ilse]  Ja, oké.
+[00:43:052.73 --> 00:43:054.13] [Roan]  Dus dat wordt hier dan...
+[00:43:054.53 --> 00:44:000.29] [Ilse]  Dat wordt hier dan voor mij wel duidelijker dat die oranje blokken niet de vacature zijn,
+[00:44:000.45 --> 00:44:007.35] [Ilse]  maar meer de tussenstappen, de interesses of de match, de verbinding zoals je het noemt.
+[00:44:007.53 --> 00:44:012.75] [Ilse]  Maar dat dat niet de daadwerkelijke vacature is, want dat is die 1-4-7-5-4-2.
+[00:44:013.25 --> 00:44:014.65] [Ilse]  Daar ga ik eerder nog niet door.
+[00:44:012.80 --> 00:44:024.36] [Roan]  Ja, en je kan nu bijvoorbeeld hoveren over die vacature 1, 4, 7 en dan zie je ook in dit geval als je daar op gaat staan ietsje hoger, dus dat je er echt op hovert,
+[00:44:024.94 --> 00:44:031.30] [Roan]  dan zie je dus een management of assistent, secretarissen en dan specifiek ook bij Wolfs Advocaten.
+[00:44:032.50 --> 00:44:040.64] [Roan]  En bij secretarissen enzo, daar zie je dat niet omdat dat niet een instantie is van een vacature, maar dus wat daar rechts staat, het is een type vacature.
+[00:44:040.64 --> 00:44:051.40] [Roan]  Want je kan heel veel verschillende vacatures hebben die vallen onder de categorie secretarissen en dit is één instantie daarvan, zeg maar.
+[00:44:052.46 --> 00:45:000.58] [Ilse]  Dus eigenlijk is het de functie. Het is niet vacaturen, het is gewoon de functie of het profiel van administratief medewerker.
+[00:45:001.06 --> 00:45:002.90] [Roan]  Ja, ja, ja, eigenlijk...
+[00:45:002.58 --> 00:45:007.80] [Ilse]  Ja, het staat natuurlijk ook wel naast inderdaad, maar ik had het toch niet meteen door.
+[00:45:007.86 --> 00:45:008.64] [Roan]  Ja, nee, ik snap het.
+[00:45:011.18 --> 00:45:012.54] [Roan]  Oké, maar het is dus...
+[00:45:012.54 --> 00:45:017.92] [Roan]  Hij is best wel lastig om te lezen nu, zeker omdat er dus heel veel informatie in staat,
+[00:45:018.02 --> 00:45:022.32] [Roan]  maar hij voegt wel wat toe aan je begrip, als je hem eenmaal doorhebt.
+[00:45:020.23 --> 00:45:020.41] [Ilse]  Ja.
+[00:45:023.20 --> 00:45:030.98] [Ilse]  Ja, als ze wat simpeler zou zijn dan zou het inderdaad wel een toevoeging zijn op de grafiek en de tekst uitleg.
+[00:45:029.95 --> 00:45:037.53] [Roan]  En de tekst, ja. Omdat het een breder beeld geeft eigenlijk, van een hoger level overzicht.
+[00:45:035.03 --> 00:45:035.21] [Ilse]  Ja.
+[00:45:040.87 --> 00:45:044.51] [Roan]  Allright, en dus wat specifiek zou kunnen helpen is het dus echt wat simpeler maken,
+[00:45:044.63 --> 00:45:049.01] [Roan]  dat het minder moeite kost om te interpreteren.
+[00:45:049.11 --> 00:45:057.63] [Roan]  Dus minder tekst en de volgorde duidelijker, of niet de volgorde, maar dat het geen oorzaak-gevolg-relatie zijn en dat soort dingen.
+[00:45:058.79 --> 00:45:059.65] [Ilse]  Ja, precies.
+[00:46:001.03 --> 00:46:007.22] [Ilse]  En weer zou ik dan ook weer iets doen met, net als met Infographics, gewoon iets van plaatjes ofzo,
+[00:46:007.30 --> 00:46:014.59] [Ilse]  zodat goed ook in één keer duidelijk is, ook bijvoorbeeld het verschil tussen die drie oranje blokken.
+[00:46:016.01 --> 00:46:016.93] [Ilse]  Nu is hij een soort van...
+[00:46:016.14 --> 00:46:021.56] [Ilse]  Nu zijn ze een soort van gelijkwaardig aan elkaar en staat er de moeite van de tekst te hebben om te weten welke het is.
+[00:46:022.12 --> 00:46:025.48] [Ilse]  Terwijl als er een symbooltje bij zou staan, dan zie je meteen het verschil.
+[00:46:026.28 --> 00:46:027.84] [Ilse]  Zo kan je het nog eenvoudiger maken.
+[00:46:028.04 --> 00:46:033.30] [Roan]  Ja, dat je het echt in één oogopslag kan zien en niet eens die teksten eronder zo hoeft te lezen.
+[00:46:034.90 --> 00:46:042.52] [Roan]  En ja, nu je dus de wat hogere level uitleg ook hebt gezien, is die nog steeds duidelijk of logisch voor je?
+[00:46:043.30 --> 00:46:046.72] [Roan]  Dus ja, die extra stappen maakt dat het nog steeds logisch?
+[00:46:051.54 --> 00:46:052.66] [Ilse]  Moet ik nou weer terug gaan dan?
+[00:46:052.76 --> 00:46:059.22] [Roan]  Nee, nee, nee, maar als je dus eerst was het wat minder uitgebreid.
+[00:46:059.76 --> 00:47:005.26] [Roan]  Ja, en nu is het dus echt van administratief medewerker bij deze vacatures, die hebben weer assistent.
+[00:47:005.74 --> 00:47:012.84] [Roan]  Zeg maar, dat hele pad, is dat nog steeds een logische reden om die vacature aan te bevelen, denk je?
+[00:47:015.84 --> 00:47:023.50] [Ilse]  Ik denk dat er inhoudelijk een hele goede argumentatie is, alleen zoals het is opgeschreven vind ik hem niet overtuigend ofzo.
+[00:47:024.27 --> 00:47:032.03] [Roan]  Oké, ja, dus het concept van de uitleg is goed, het is alleen de uitvoering hindert het een beetje.
+[00:47:032.07 --> 00:47:035.05] [Ilse]  Ja, dat is het. Ja, want het kan echt wel wat toevoegen.
+[00:47:035.41 --> 00:47:038.21] [Roan]  Oké, oké, nee, dat is in ieder geval een goed teken.
+[00:47:038.45 --> 00:47:045.93] [Roan]  Dus de rationaal erachter, dat is wel een logische argumentatie.
+[00:47:046.84 --> 00:47:047.06] [Ilse]  Ja.
+[00:47:050.20 --> 00:47:054.04] [Roan]  En ja, zou dit ook helpen met het maken van een beslissing?
+[00:47:055.68 --> 00:47:058.12] [Roan]  Ja, als je dus een...
+[00:47:058.74 --> 00:48:004.70] [Roan]  Ja, zou moeten kiezen of je wel of niet wil solliciteren bij die vacature, zou dit daarin ondersteunen?
+[00:48:009.02 --> 00:48:009.82] [Ilse]  Nou, ik denk het wel.
+[00:48:011.96 --> 00:48:019.22] [Roan]  En ik neem dan aan, als het de tekst is plus dit en dan dus een wat makkelijkere weergave,
+[00:48:019.80 --> 00:48:024.36] [Roan]  dat zou zeker helpen dan als het de combinatie van de twee is.
+[00:48:025.25 --> 00:48:025.53] [Ilse]  Ja.
+[00:48:025.60 --> 00:48:036.10] [Roan]  En dan ook misschien met die staafdiagram er nog bij, om de daadwerkelijke verhoudingen tussen de verschillende dingen weer te geven.
+[00:48:037.28 --> 00:48:046.52] [Ilse]  Ja, ik denk wel dat twee of drie manieren van overtuigen wel het beste werken.
+[00:48:046.56 --> 00:48:048.98] [Ilse]  Als je alleen tekst hebt, is het niet genoeg, alleen de grafiek ook niet.
+[00:48:049.08 --> 00:48:054.16] [Ilse]  Je moet wel echt combinatie hebben van tekst en die staafdiagram of tekst en dit ding.
+[00:48:056.79 --> 00:48:058.05] [Roan]  Oké, ja, nee, dat is duidelijk.
+[00:48:058.23 --> 00:49:007.43] [Roan]  Dus hij, losstaand zijn ze wat, ja, of te ingewikkeld of te low-level, maar samengevoegd dan bieden
+[00:49:007.43 --> 00:49:008.39] [Roan]  ze wel voldoende...
+[00:49:009.07 --> 00:49:010.74] [Ilse]  Ja, ja, versterken mekaar wel.
+[00:49:010.82 --> 00:49:011.49] [Ilse]  Ja, zeker.
+[00:49:015.74 --> 00:49:023.10] [Roan]  Ja, en dan in dit geval heeft dit nog steeds voorkeur ten opzichte van geen uitleg.
+[00:49:023.20 --> 00:49:029.52] [Roan]  Dus ook al is hij lastig te interpreteren, is het nog steeds fijn om het wel te hebben, deze graaf.
+[00:49:031.48 --> 00:49:036.16] [Ilse]  Als ik alleen dit ding zou krijgen zonder uitleg, zonder tekst?
+[00:49:035.50 --> 00:49:035.74] [Roan]  Ja.
+[00:49:040.13 --> 00:49:049.25] [Ilse]  Als hij voldoende duidelijk is, dan denk ik nog steeds dat een toelichting het versterkt.
+[00:49:049.25 --> 00:49:049.43] [Roan]  Mhm.
+[00:49:051.98 --> 00:50:002.22] [Ilse]  Ook omdat, ja, je moet niet het risico lopen dat een kandidaat het niet snapt en dan afhaakt.
+[00:50:002.34 --> 00:50:004.66] [Ilse]  En zo'n tekst is dan toch een soort vangnet.
+[00:50:004.98 --> 00:50:005.18] [Roan]  Ja.
+[00:50:008.10 --> 00:50:016.72] [Ilse]  Ik zou het toch niet alleen dit figuur laten zien. Ik denk niet dat dat genoeg is.
+[00:50:017.04 --> 00:50:026.88] [Roan]  Oké, dus het is een beetje hetzelfde als de uitgebreidere tekst ten opzichte van de beknopte, van het is als de kandidaat de tekst heeft gelezen, dan is dit alleen maar meer ondersteuning.
+[00:50:027.02 --> 00:50:029.90] [Roan]  Maar losstaand is het, ja, oké.
+[00:50:030.80 --> 00:50:031.14] [Roan]  All right.
+[00:50:035.00 --> 00:50:053.46] [Roan]  Ja, en dan met dus weer die argumentatie, als we daar naar kijken, zou, als je die argumentatie bedenkt, zou dat vertrouwen wekken in jou om een vacature daarop te solliciteren?
+[00:50:053.60 --> 00:51:005.90] [Roan]  Dus nu dus de wat uitgebreidere uitleg, dus die administratief medewerker bij die vacatures, zou dat ook vertrouwen opwekken?
+[00:51:007.39 --> 00:51:008.86] [Ilse]  Dus ik alleen die uitgebreide tekst heb.
+[00:51:010.00 --> 00:51:017.48] [Roan]  Alleen dit, maar dan dus niet specifiek het plaatje, maar echt die uitleg van je wil dus het subtype administratief medewerker
+[00:51:017.48 --> 00:51:023.14] [Roan]  en dat is van toepassing bij deze vacatures, die hebben als subtype weer dat assistent.
+[00:51:023.52 --> 00:51:030.58] [Roan]  Dus de langere uitleg, zeg maar, de volledige uitleg, helpt die nog steeds met het wekken van vertrouwen?
+[00:51:030.66 --> 00:51:034.30] [Roan]  Heb je dan nog steeds van, oh, ik snap waarom het model dit heeft gedaan, dus ik vertrouw erop?
+[00:51:036.48 --> 00:51:038.22] [Ilse]  Ja, nu ik dit heb gezien, wel meer.
+[00:51:039.60 --> 00:51:042.10] [Ilse]  Maar zonder deze grafieken had ik het niet begrepen, denk ik.
+[00:51:042.24 --> 00:51:043.28] [Roan]  Oké, oké, maar...
+[00:51:043.28 --> 00:51:044.72] [Ilse]  ...dat het wel veel langer geduurd.
+[00:51:044.93 --> 00:51:054.16] [Roan]  Ja, dus hoewel het wel overweldigend is, als het eenmaal duidelijk is, dan is het feit dat je meer informatie hebt, dat helpt wel met extra vertrouwen wekken.
+[00:51:054.31 --> 00:51:054.97] [Ilse]  Ja, zeker.
+[00:51:057.90 --> 00:52:006.78] [Roan]  En dan, ja, we hadden het hier dus al over de dingen die overbodig zijn, dus inderdaad die tekst is een groot deel overbodig.
+[00:52:007.76 --> 00:52:014.36] [Roan]  Maar qua toevoeging, dus naast de kleurtjes, de volgorde en dus die plaatjes in de dingen,
+[00:52:014.48 --> 00:52:017.90] [Roan]  is er nog iets wat handig zou zijn om toe te voegen, wat het duidelijker zou maken?
+[00:52:021.06 --> 00:52:023.58] [Ilse]  Ik weet zelf dat het wel van de percentages ofzo...
+[00:52:023.71 --> 00:52:023.93] [Roan]  M-hm.
+[00:52:028.59 --> 00:52:031.65] [Ilse]  Beter dan bijvoorbeeld een waarde 9,997.
+[00:52:031.96 --> 00:52:032.30] [Roan]  Oké.
+[00:52:032.50 --> 00:52:038.46] [Ilse]  Dus meer die gangbare manieren van aangeven of iets een match is.
+[00:52:039.50 --> 00:52:041.50] [Ilse]  Dus dat zou ik wel fijn vinden.
+[00:52:046.97 --> 00:52:056.75] [Ilse]  Dus in plaats van die neutrale vormen zoals een rondje of een vierkantje, dan inderdaad echt een symbool waar je meteen uit kan afleiden van oh, dat is die functie.
+[00:52:057.53 --> 00:53:003.45] [Ilse]  En misschien ook bovenin wat meer een soort titel, dat je ook weet van oh, dit is waar ik nu naar kijk.
+[00:53:003.62 --> 00:53:003.88] [Roan]  M-hm.
+[00:53:004.85 --> 00:53:007.73] [Ilse]  Want dat staat er nu ook niet. Er staat geen van de...
+[00:53:008.47 --> 00:53:010.09] [Ilse]  Dit is je beste match of zo.
+[00:53:011.45 --> 00:53:015.57] [Roan]  Ja, er staat nu alleen dat simpele kandidaatgerichte uitleg, maar dat is niet heel...
+[00:53:015.87 --> 00:53:024.31] [Ilse]  Nee, dat is, ja, nee misschien zou je zelfs de conclusie erboven kunnen zetten, want dat is ook wel gebruikelijk in het onderzoek.
+[00:53:024.57 --> 00:53:030.09] [Ilse]  Dus ook vaak gewoon in marktonderzoek, gewoon het resultaat van het onderzoek bovenin.
+[00:53:030.33 --> 00:53:030.61] [Roan]  Uhu.
+[00:53:031.31 --> 00:53:034.59] [Ilse]  En dat vervolgens die grafiek daar dan de uitleg van is.
+[00:53:034.73 --> 00:53:036.59] [Ilse]  Dat zou je ook kunnen, weet je wel waar je naar kijkt.
+[00:53:036.41 --> 00:53:037.21] [Roan]  Ja, oké, ja.
+[00:53:038.99 --> 00:53:040.29] [Roan]  Oké, ja, nee, dat is dus ook een...
+[00:53:040.29 --> 00:53:049.87] [Roan]  Dus dat daar dan specifiek zou staan van de uitleg voor waarom wij jouw vacature 1-4-7-5-4-2 hebben aanbevolen, zoiets.
+[00:53:050.30 --> 00:53:050.44] [Ilse]  Ja.
+[00:53:051.65 --> 00:53:054.17] [Ilse]  Ja, nou, ook boven de grafiek gewoon van...
+[00:53:052.61 --> 00:53:052.87] [Roan]  Ik voelde...
+[00:53:055.97 --> 00:54:006.71] [Ilse]  Je hebt een match van 80% met vacature 147-542 en dat is het.
+[00:54:007.11 --> 00:54:011.17] [Ilse]  En dan weet je dat dit de uitleg is van die conclusie.
+[00:54:011.87 --> 00:54:017.17] [Ilse]  Maar het zou zeker fijn zijn als je erop gaat staan dat je nog de uitleg ziet, ja.
+[00:54:019.31 --> 00:54:020.93] [Roan]  Oké, ja nee, dat is een duidelijke.
+[00:54:021.53 --> 00:54:028.45] [Roan]  En ja, dus we hadden al wat dingen besproken die overbodig zijn of in ieder geval beter optioneel kunnen zijn.
+[00:54:028.51 --> 00:54:031.73] [Roan]  Maar is er nog iets wat je zou denken dat is misschien handiger om weg te laten?
+[00:54:034.97 --> 00:54:042.51] [Roan]  In ieder geval lijkt het me dus ook die kleine paden die er dus eigenlijk niet toe doen, dat die optioneel worden.
+[00:54:043.35 --> 00:54:045.27] [Roan]  Want die waren in het begin erg verwarrend.
+[00:54:045.67 --> 00:54:050.39] [Roan]  Maar verder nog iets wat fijn zou zijn om weg te laten of optioneel te maken.
+[00:54:059.56 --> 00:55:007.50] [Ilse]  Ik vind bij alle drie de informatie, vind ik dat er eerder te veel dan te weinig in staat.
+[00:55:007.67 --> 00:55:007.87] [Ilse]  Haha.
+[00:55:009.24 --> 00:55:016.80] [Ilse]  Tenminste, er mag juist wat toelichting bij soms, terwijl dat nu ontbreekt, maar bepaalde,
+[00:55:016.86 --> 00:55:024.46] [Ilse]  ja, van die beetje subtype waarden, dat soort woorden, die mogen juist wat meer weg, denk ik.
+[00:55:028.29 --> 00:55:033.45] [Roan]  Ja, nee, duidelijk. Dus dat het eigenlijk wat makkelijker wordt om er gewoon even naar
+[00:55:033.45 --> 00:55:037.57] [Roan]  te kijken en meteen een overzicht te krijgen van wat er aan de hand is. En dan van die,
+[00:55:037.73 --> 00:55:044.89] [Roan]  van dat soort meer, ja, dus technische termen en dat soort dingen die het alleen maar wat
+[00:55:044.89 --> 00:55:047.35] [Roan]  lastiger maken, dat kan beter weggelaten worden.
+[00:55:048.12 --> 00:55:053.98] [Ilse]  Ja, of daar een simpel iets voor in de plaats, maar niet dat het nu heel...
+[00:55:053.98 --> 00:55:056.54] [Ilse]  Het ziet er nu echt uit als een wiskundig model.
+[00:55:056.84 --> 00:55:059.10] [Ilse]  Ik denk ook dat veel mensen daar dan op afknappen.
+[00:55:059.40 --> 00:55:059.92] [Roan]  Ja, dat snap ik.
+[00:56:003.17 --> 00:56:011.95] [Ilse]  Maar het is zeker zo dat als er een simpele conclusie in begint en dat je daarna een uitgebreide versie hebt, optioneel,
+[00:56:012.05 --> 00:56:021.13] [Ilse]  dat dat wel een mooie, vind ik zelf dan een fijne manier van die informatie krijgen.
+[00:56:021.27 --> 00:56:025.81] [Ilse]  Dat je dan zelf nog kan kiezen of je het uitgebreide wilt weten.
+[00:56:026.00 --> 00:56:030.40] [Roan]  Ja, wat dan misschien ook helpt als je een lijstje vacatures hebt, dat je het dan zou kunnen filteren.
+[00:56:030.54 --> 00:56:033.86] [Roan]  Dat je dan kan kijken bij die simpele van, oh ja, nee, dit is toch niks.
+[00:56:033.96 --> 00:56:041.02] [Roan]  En als dan een van, oeh, misschien is het interessant dat je dan ook de volledige, de uitgebreide uitleg kan krijgen op die manier.
+[00:56:041.26 --> 00:56:041.38] [Ilse]  Ja.
+[00:56:042.62 --> 00:56:043.00] [Roan]  Oké.
+[00:56:043.38 --> 00:56:046.26] [Roan]  Nou, nee, top, dat was hem eigenlijk.
+

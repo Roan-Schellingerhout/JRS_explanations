@@ -1,0 +1,349 @@
+[00:00:001.55 --> 00:00:010.33] [Roan]  Perfect. Ja, nee, dus hier staat een korte uitleg over wat precies de bedoeling is, dus lees dat even door.
+[00:00:032.10 --> 00:00:038.73] [Youri]  Oké, dus voor mijn beeld, een computermodel gaat een match maken en ik moet begrijpen waar die match vandaan komt.
+[00:00:039.03 --> 00:00:045.63] [Roan]  Ja, er is dus uitleg gegeven en dan gaat het er eigenlijk om te begrijpen wat die uitleg nou precies inhoudt.
+[00:00:045.81 --> 00:00:046.25] [Youri]  Oké.
+[00:00:046.45 --> 00:00:049.33] [Roan]  Dus ja, de recruiter knop in dit geval.
+[00:00:050.86 --> 00:00:051.78] [Youri]  Die moet ik inklikken, hè?
+[00:00:051.86 --> 00:00:052.10] [Roan]  Yes.
+[00:00:054.84 --> 00:00:058.56] [Roan]  Allright, er zijn dus drie verschillende soorten uitleg.
+[00:00:058.70 --> 00:01:001.08] [Roan]  We gaan ze één voor één doorlopen.
+[00:01:001.24 --> 00:01:005.72] [Roan]  Dit is de geschreven uitleg, dus dit is gewoon een tekst.
+[00:01:007.20 --> 00:01:012.34] [Roan]  Dus wederom, lees de tekst even door en daarna zal ik beginnen met wat vragen stellen.
+[00:01:059.58 --> 00:02:000.00] [Youri]  Yes.
+[00:02:001.50 --> 00:02:005.40] [Roan]  Oké, rechtsboven staat er dus ook nog een knop voor een simpele weergave.
+[00:02:005.48 --> 00:02:011.80] [Roan]  Dat geeft een wat beknoptere uitleg van dezelfde tekst en ook nog de bedrijfskant van de uitleg.
+[00:02:012.56 --> 00:02:016.94] [Roan]  Dus er is voor de kandidaat waarom het een goede vacature is en voor het bedrijf waarom
+[00:02:016.94 --> 00:02:018.92] [Roan]  die kandidaat geschikt is.
+[00:02:019.32 --> 00:02:020.82] [Roan]  Dat is een beetje het idee.
+[00:02:022.42 --> 00:02:024.28] [Roan]  Maar ja, dan dus de vragen.
+[00:02:024.28 --> 00:02:029.12] [Roan]  De eerste vragen gaan een beetje om kijken of wat er daadwerkelijk staat duidelijk naar
+[00:02:029.12 --> 00:02:029.68] [Roan]  voren komt.
+[00:02:030.62 --> 00:02:036.52] [Roan]  Dus als je kijkt naar de tekst, welke informatie of welke kenmerken denk je dat het belangrijkst
+[00:02:036.52 --> 00:02:044.00] [Roan]  waren voor het model om uiteindelijk die kandidaat 4-1-1-9 te matchen aan die vacature 1-4-7-5-4-2?
+[00:02:045.88 --> 00:02:048.56] [Youri]  Dat moet ik halen uit deze tekst of moet ik dat zelf beredeneren?
+[00:02:048.80 --> 00:02:054.78] [Roan]  Uit de tekst, ja ja, dus wat denk je dat de beredenatie van het model was?
+[00:03:000.90 --> 00:03:007.58] [Youri]  Ja, ik denk dat de redenatie van het model is dat we gekeken worden, wat is de functie van de vacature?
+[00:03:008.30 --> 00:03:011.24] [Youri]  En voor welke functie staat kandidaat open? Of is kandidaat 4119...
+[00:03:013.96 --> 00:03:015.18] [Youri]  geschikt en dat aan elkaar matchen.
+[00:03:015.74 --> 00:03:019.22] [Roan]  Ja, en wat is dan de concrete functies? Kun je die
+[00:03:020.18 --> 00:03:026.86] [Roan]  terughalen uit de tekst?
+[00:03:022.75 --> 00:03:026.27] [Youri]  Ja, administratief medewerker, secretaris en assistenterol.
+[00:03:026.92 --> 00:03:032.26] [Roan]  ja, perfect. Staat er ook nog iets bij wat niet relevant is voor de voorspelling of is
+[00:03:032.26 --> 00:03:036.66] [Roan]  het eigenlijk alleen informatie die het ondersteunt in plaats van het tegenspreekt?
+[00:03:038.87 --> 00:03:042.03] [Youri]  Nee, als je de laatste zin kijkt, dan bevestigt het alleen maar.
+[00:03:043.09 --> 00:03:047.29] [Youri]  Omdat er een sterke verbinding is tussen die drie rollen.
+[00:03:048.39 --> 00:03:051.21] [Youri]  En alle drie de rollen ook terugkomen in de vacature.
+[00:03:053.23 --> 00:03:055.57] [Roan]  Oké, ja, duidelijk, dat klopt inderdaad.
+[00:03:055.69 --> 00:04:001.61] [Roan]  Dat is vooral een beetje gewoon een sanity check om te kijken of we een goed begin hebben.
+[00:04:002.85 --> 00:04:010.09] [Roan]  All right, ja, dus de volgende vragen gaan er een beetje over hoe de uitleg opgevat wordt.
+[00:04:011.33 --> 00:04:018.19] [Roan]  Dus de eerste is, helpt de uitleg daadwerkelijk met begrijpen waarom het systeem deze voorspelling heeft gemaakt?
+[00:04:021.68 --> 00:04:023.28] [Youri]  Ja, ja, dat denk ik wel.
+[00:04:024.16 --> 00:04:025.44] [Youri]  Ja, de utleg is duidelijk.
+[00:04:027.05 --> 00:04:034.65] [Roan]  Oké, dus je zou echt een beetje kunnen interpreteren waar het model aan heeft gedacht.
+[00:04:034.89 --> 00:04:035.99] [Roan]  Dat komt eruit naar voren.
+[00:04:037.95 --> 00:04:040.85] [Youri]  Ja, precies, het is wat ik net aangaf.
+[00:04:041.17 --> 00:04:044.49] [Youri]  Het is duidelijk wat er bekeken wordt in de vacature.
+[00:04:046.19 --> 00:04:051.69] [Youri]  Welke rol is voor de vacature interessant en welke rol vindt de kandidaat interessant.
+[00:04:052.95 --> 00:04:054.31] [Youri]  En daar wordt de verbinding in gemaakt.
+[00:04:055.70 --> 00:05:001.88] [Roan]  Oké, ja, helpt daar specifiek nog iets mee, de manier waarop het geschreven is of iets in die geest,
+[00:05:001.96 --> 00:05:005.54] [Roan]  dat er direct aan bijdraagt, of is het gewoon de tekst in het algemeen?
+[00:05:008.90 --> 00:05:017.36] [Youri]  Ja, goed, ik, ja, misschien, eh, eh, ja, kandidaat, laat ik zo zeggen, ik vind het moeilijk te lezen,
+[00:05:017.50 --> 00:05:021.32] [Youri]  want er staat kandidaatstitel 4119 op vacaturen nummer achter.
+[00:05:021.80 --> 00:05:026.42] [Youri]  Voor mij zou het prettiger lezen als er gewoon de naam van de kandidaat in zou staan,
+[00:05:026.74 --> 00:05:033.04] [Youri]  en ook de functietitel van de vacature, eh, waardoor je ook misschien sneller de link legt.
+[00:05:033.12 --> 00:05:038.18] [Youri]  Want als het dan stond, in plaats van vacature 14, bla bla bla, eh, eh, vacature administratief medewerker
+[00:05:039.84 --> 00:05:043.16] [Youri]  En dan is het sneller duidelijk natuurlijk.
+[00:05:043.79 --> 00:05:053.75] [Roan]  Oké, en als het dan bijvoorbeeld zou zijn dat er gewoon staat de kandidaat en als je erover hoffert dat het dan bijvoorbeeld die persoon zijn cv laat zien, zou dat ook nog kunnen helpen?
+[00:05:053.63 --> 00:05:054.49] [Youri]  Ja, ook prima.
+[00:05:055.37 --> 00:06:003.93] [Youri]  Goed, ik vind cijfers, als het geen getallen in de zin van euro's of bedragen of jaartallen
+[00:06:003.93 --> 00:06:007.35] [Youri]  of zo zijn, nooit heel lekker lezen in tekst.
+[00:06:008.05 --> 00:06:013.57] [Roan]  Oké, dus het zou dan beter zijn om de namen van de persoon of het bedrijf of de functie
+[00:06:013.57 --> 00:06:015.55] [Roan]  ofzo, zodat het beter loopt.
+[00:06:015.65 --> 00:06:016.33] [Roan]  Oké, ja, duidelijk.
+[00:06:018.50 --> 00:06:025.64] [Roan]  Oké, en die uitleg van dus dat er een link is met administratief medewerker, secretaresse en assistent,
+[00:06:025.74 --> 00:06:028.46] [Roan]  is dat een logische uitleg naar jouw mening?
+[00:06:028.56 --> 00:06:033.24] [Roan]  Is dat iets wat in de realiteit ook een goede match zou kunnen voorspellen?
+[00:06:034.94 --> 00:06:048.60] [Youri]  Ja, dat zou kunnen ja. Dat is natuurlijk niet waterdicht, dat hoeft geen garantie te geven, maar ja, iemand die in een secretaresse functie heeft gewerkt zou ook prima op een administratief medewerkerfunctie kunnen passen, zeker.
+[00:06:049.29 --> 00:06:055.75] [Roan]  Oké, dus ja, wat dat gaat is het zeg maar een realistische, ja met de gelimiteerde hoeveelheid
+[00:06:055.75 --> 00:06:058.41] [Roan]  informatie is het een realistische mogelijkheid, zeg maar.
+[00:06:058.97 --> 00:06:059.53] [Youri]  Ja, ja.
+[00:07:000.55 --> 00:07:006.81] [Roan]  Ja, helpt er nog, is er nog iets wat er onlogisch aan is of wat het nog logischer zou kunnen
+[00:07:006.81 --> 00:07:010.63] [Roan]  maken, een uitgebreidere uitleg of meer informatie, iets in die geest?
+[00:07:013.58 --> 00:07:017.00] [Youri]  Nee, niet echt. Nee, geen concrete voorbeelden.
+[00:07:019.07 --> 00:07:023.67] [Roan]  Zou deze uitleg kunnen helpen met het maken van een daadwerkelijke beslissing,
+[00:07:023.79 --> 00:07:027.99] [Roan]  dus daadwerkelijk de aanbeveling geven aan de kandidaten, dan wel aan het bedrijf?
+[00:07:030.48 --> 00:07:037.32] [Youri]  Het zou een bijdrage kunnen geven, maar het zou geen doorslaggevende rol zijn.
+[00:07:037.58 --> 00:07:045.20] [Youri]  Als ik dat, stel een bepaald systeem zou mij dit als uitleg geven, dan zou ik altijd nog
+[00:07:045.20 --> 00:07:048.48] [Youri]  zelf kijken, oké, zie ik dan ook die match?
+[00:07:050.00 --> 00:07:052.34] [Youri]  Laat ik het zo zeggen, ik zou hier niet blind op afgaan.
+[00:07:048.70 --> 00:07:048.96] [Roan]  M-hm.
+[00:07:052.59 --> 00:08:002.07] [Roan]  Oké, oké. Dus dan zou je er zelf nog de cv en de vacature bij willen pakken en dan dus zelf checken van klopt het inderdaad wat er gezegd wordt.
+[00:08:002.49 --> 00:08:003.69] [Youri]  Precies, precies.
+[00:08:003.79 --> 00:08:006.01] [Roan]  Maar het geeft wel een beetje een steuntje in de rug, zeg maar.
+[00:08:006.51 --> 00:08:009.17] [Youri]  Ja, zeker. Het is zeker een begin, absoluut.
+[00:08:010.17 --> 00:08:016.61] [Roan]  Dus ja, ten opzichte van een model dat gewoon alleen een voorspelling zou geven, dus deze twee passen bij elkaar,
+[00:08:016.73 --> 00:08:021.85] [Roan]  zou dat de uitleg wel al van meerwaarde zijn ten opzichte van een model zonder uitleg?
+[00:08:021.85 --> 00:08:022.07] [Youri]  Ja.
+[00:08:023.21 --> 00:08:030.87] [Youri]  Ja, dat denk ik wel. Kijk, we hebben nu bij ons een systeem waarin je gewoon een vacature alleen hebt,
+[00:08:030.95 --> 00:08:032.11] [Youri]  met kandidaten eraan gehangen.
+[00:08:034.29 --> 00:08:041.01] [Youri]  Maar dan, ja goed, kan het zijn dat je een keer een cv opent en denkt, ja waarom in Godsnaam wordt deze kandidaat aan die vacature gehangen?
+[00:08:041.47 --> 00:08:048.35] [Youri]  Ja, en dit geeft wel wat meer uitleg waarom het systeem denkt dat een goede kandidaat kan zijn op die vacature,
+[00:08:048.59 --> 00:08:051.71] [Youri]  of andersom de vacature, goed kan zijn voor die kandidaat, hè.
+[00:08:052.10 --> 00:08:059.48] [Roan]  Dus het geeft wel een beetje een invalshoek om vanuit te beginnen met het zelf verifiëren.
+[00:09:000.64 --> 00:09:000.96] [Youri]  Yes.
+[00:09:001.49 --> 00:09:002.61] [Roan]  Oké, duidelijk.
+[00:09:004.23 --> 00:09:010.33] [Roan]  En ja, gebaseerd op de uitleg, zou je verwachten dat die voorspelling die dus gemaakt is, dat die betrouwbaar is?
+[00:09:010.63 --> 00:09:015.29] [Roan]  Dat die klopt en dat je daar dus je vertrouwen op kan plaatsen?
+[00:09:017.24 --> 00:09:020.88] [Youri]  Nee, dat kan ik nu niet zeggen, nee, want dit is de eerste keer dat ik zoiets zie.
+[00:09:021.26 --> 00:09:025.06] [Youri]  Ik kan nu niet beoordelen of dit wel of niet betrouwbaar is.
+[00:09:025.48 --> 00:09:031.88] [Youri]  Dat zou ik inderdaad, zoals ik net ook aangaf, toch de vacature en het cv nog een keer erbij
+[00:09:031.88 --> 00:09:034.82] [Youri]  moeten pakken om te kijken of dit klopt inderdaad.
+[00:09:034.98 --> 00:09:042.28] [Youri]  Maar stel, de komende 20 keer dat ik het check zou 20 keer kloppen, ja dan ga je natuurlijk
+[00:09:042.28 --> 00:09:049.18] [Youri]  wel de 21e keer sneller hierop doorvaren dan dat je het nog een keer wil checken.
+[00:09:049.51 --> 00:09:057.55] [Roan]  Ja, oké, dus nu zeker, omdat het helemaal nieuw is, is het nog van "kan ik het wel vertrouwen?", maar het geeft in ieder geval nu wel een beetje een stuntje in de rug.
+[00:09:058.13 --> 00:10:002.47] [Roan]  En als het blijkt dat hij het heel vaak goed heeft, dan zou het al meer vertrouwen opwekken.
+[00:10:003.39 --> 00:10:003.51] [Youri]  Yes.
+[00:10:006.19 --> 00:10:016.93] [Roan]  Oké, ja, even kijken. Ja, dan de voorkeur. Zou er nog iets zijn wat van meer waarde kan zijn om toe te voegen hier aan de tekst?
+[00:10:017.63 --> 00:10:026.59] [Roan]  Of niet per se aan de tekst, maar aan de uitleg in het algemeen. Dus iets van een visualisatie of iets in die geest wat verder zou kunnen helpen.
+
+
+--- Connection got interrupted ---
+
+
+[00:14:017.00 --> 00:14:021.84] [Roan]  Uhm, ja nee, dus de vraag was of er iets toegevoegd zou kunnen worden.
+[00:14:022.14 --> 00:14:028.36] [Roan]  Dus ja, mist er bijvoorbeeld specifieke informatie of uitgebreidere tekst of iets van een visualisatie erbij?
+[00:14:029.28 --> 00:14:031.80] [Roan]  Ja, wat ik hier een beetje in...
+[00:14:029.21 --> 00:14:038.15] [Youri]  Wat ik hier een beetje in mis, is de informatie over woonplaats, waar is de vacature, want
+[00:14:038.15 --> 00:14:042.57] [Youri]  iemand kan wel een heel goed match zijn met een vacature, maar als een kandidaat in Limburg
+[00:14:042.57 --> 00:14:045.55] [Youri]  woont en de vacature heeft met Groningen, heb ik daar nog niks aan.
+[00:14:045.92 --> 00:14:050.90] [Roan]  Ja, ja, oké, dus gewoon de algemene informatie een beetje over beide dingen.
+[00:14:051.60 --> 00:14:051.74] [Youri]  Ja, ja.
+[00:14:051.88 --> 00:14:058.46] [Roan]  Oké, en als het dan bijvoorbeeld dus zou zijn dat het cv en de vacature direct toegankelijk
+[00:14:058.46 --> 00:15:001.98] [Roan]  zijn vanaf hier, zou dat dan al genoeg zijn of zou het ook fijn zijn om echt een overzicht
+[00:15:001.98 --> 00:15:006.84] [Roan]  te hebben van waar woont de persoon en waar is het bedrijf, dat soort dingen?
+[00:15:006.81 --> 00:15:011.61] [Youri]  Ja, nee, of gewoon reisafstand, of gewoon werkafstand is zoveel kilometer.
+[00:15:012.92 --> 00:15:017.50] [Roan]  Ja, dus gewoon van die dingen die eigenlijk, ja, als dat niet klopt, dan kun je het eigenlijk
+[00:15:017.50 --> 00:15:018.72] [Roan]  net zo goed meteen negeren.
+[00:15:019.15 --> 00:15:026.55] [Youri]  Nee, precies, want als de woon-werkafstand 200 kilometer is, ja, dan maak je niet uit wat de rest van de tekst zegt.
+[00:15:024.41 --> 00:15:026.59] [Roan]  Dat maakt niet duidelijk wat de rest van de tekst zegt.
+[00:15:027.23 --> 00:15:028.01] [Roan]  Oké, duidelijk.
+[00:15:028.91 --> 00:15:029.95] [Roan]  Ja, nee, dat is een goeie.
+[00:15:031.09 --> 00:15:035.41] [Roan]  En is er iets wat erbij staat wat overbodig is, bijvoorbeeld die kleurtjes, voeg dat nog wat toe?
+[00:15:035.94 --> 00:15:044.52] [Youri]  Ja, die kleurtjes, ik denk dat het meer onoverzichtelijk maakt dan dat je er goed mee doet.
+[00:15:046.42 --> 00:15:053.64] [Roan]  Oké, ja, en dus dan ook de daadwerkelijke specifieke getallen van de kandidaat en de vacature, dat ook voegt niks toe.
+[00:15:055.80 --> 00:15:059.40] [Roan]  All right, nou dan, in principe is de geschreven uitleg klaar.
+[00:15:059.66 --> 00:16:003.90] [Roan]  Dus ja, je kan zelf kiezen de graaf uitleg of de staafdiagram, één van de twee.
+[00:16:006.16 --> 00:16:012.96] [Roan]  Allright, ja, nee, de graaf. Onderaan staat een beetje een uitleg over hoe de interface werkt.
+[00:16:013.04 --> 00:16:017.24] [Roan]  En ik zal zo nog even uitleggen wat die graaf precies inhoudt, dus als je de onderkant even leest.
+[00:16:036.92 --> 00:16:043.86] [Roan]  Oké. Allright. Ja, nee, die graaf is dus wat dat model daadwerkelijk heeft gekregen, dat netwerk.
+[00:16:044.48 --> 00:16:049.78] [Roan]  En aan de hand daarvan heeft hij dus moeten bepalen of het een goede of een slechte match is tussen de kandidaten en de vacature.
+[00:16:051.46 --> 00:16:055.78] [Roan]  En dus eigenlijk de denkwijze van dat model is dus hier weergegeven.
+[00:16:055.96 --> 00:17:001.38] [Roan]  Hier heb je ook weer rechtsboven de simpele weergaven en de weergaven vanuit de bedrijfskant.
+[00:17:005.28 --> 00:17:011.76] [Roan]  Want een uitleg voor een kandidaat waarom iets een goede baan is, is niet per se een uitleg waarom een kandidaat geschikt is voor een vacature.
+[00:17:014.10 --> 00:17:016.10] [Roan]  Dus allebei die kun je bekijken.
+[00:17:017.30 --> 00:17:023.14] [Roan]  Ja, nee, en ik zie dat er rechts, hij genereert het automatisch, rechts staat er een paar, staan door elkaar heen.
+[00:17:023.24 --> 00:17:025.34] [Roan]  Ja, hier is dus de simpele weergave.
+[00:17:027.16 --> 00:17:028.50] [Roan]  Ja, dat is het een beetje.
+[00:17:030.56 --> 00:17:033.38] [Roan]  Dus ja, voor de simpele of de uitgebreide, dat maakt niet uit.
+[00:17:033.80 --> 00:17:039.94] [Roan]  Maar is het hier duidelijk welke informatie of welke kenmerken het belangrijkste waren voor het model?
+[00:17:043.55 --> 00:17:050.43] [Youri]  Ja, ja, ja, ik zie het wel, maar dit doet me niks, laat ik het zo zeggen.
+[00:17:051.43 --> 00:17:052.89] [Roan]  En dan waarom specifiek?
+[00:17:053.62 --> 00:17:054.12] [Youri]  Nee, ja, dat...
+[00:17:054.19 --> 00:17:054.19] [Youri]  Ik het een beetje onoverzichtelijk vind.
+[00:17:057.96 --> 00:18:001.24] [Youri]  Te veel met subtype van waarde.
+[00:18:001.30 --> 00:18:005.22] [Youri]  En ik snap het wel, maar het zegt me weinig.
+[00:18:005.73 --> 00:18:008.49] [Roan]  Oké, dus het is een beetje overweldigend, zo te zeggen.
+[00:18:008.55 --> 00:18:009.65] [Youri]  Het is een beetje overweldigend, ja.
+[00:18:011.17 --> 00:18:018.83] [Roan]  Maar is het wel duidelijk, als je uit zou moeten leggen wat de uitleg van het model concreet was, wat dat is?
+[00:18:019.73 --> 00:18:020.53] [Roan]  Valt dat hier uit op te maken?
+[00:18:020.52 --> 00:18:028.18] [Youri]  Ja, goed, ik snap wel, en ook weer met de groen is de vacature, het gele is de vacature type.
+[00:18:028.80 --> 00:18:036.08] [Youri]  Ik snap wel hoe het is opgebouwd en waar het vandaan komt, maar ja, als ik dit voor iedere
+[00:18:036.08 --> 00:18:039.68] [Youri]  vacature of voor iedere kandidaat zou moeten gaan bekijken, dan zou het een probleem worden.
+[00:18:042.22 --> 00:18:047.68] [Roan]  Maar er staat hier wel wat meer informatie in dan ten opzichte van alleen die tekst,
+[00:18:047.74 --> 00:18:050.06] [Roan]  want je ziet de hele verbindingen.
+[00:18:050.88 --> 00:18:056.46] [Roan]  Is dat nog wel iets van toegevoegde waarde of is dat eigenlijk alleen maar overbodig?
+[00:18:058.47 --> 00:18:059.49] [Youri]  Ja, goed, ik weet niet.
+[00:18:058.49 --> 00:18:059.45] [Youri]  Ja, ik vond de vorige beter, laat ik het zo zeggen.
+[00:19:005.95 --> 00:19:008.43] [Youri]  Ik vond de tekst weergave... beter.
+[00:19:012.56 --> 00:19:016.96] [Roan]  En als het bijvoorbeeld zo zou zijn dat de tekst uitlegt dat die een beetje twijfelachtig is
+[00:19:016.96 --> 00:19:022.20] [Roan]  en je zou dus het hele plaatje willen zien, dus de echte volledige denkwijze van het model,
+[00:19:022.58 --> 00:19:028.04] [Roan]  zou dit dan hier wel bijvoorbeeld nuttig kunnen zijn om nog net iets meer informatie te geven in een twijfelgeval?
+[00:19:029.57 --> 00:19:033.55] [Youri]  Ja, dan misschien wel, maar ik zou niet hiermee beginnen.
+[00:19:034.41 --> 00:19:039.49] [Youri]  Dan misschien als onderliggende om hem meer informatie eruit te krijgen uit hem,
+[00:19:039.49 --> 00:19:040.23] [Youri]  maar niet om mee te starten.
+[00:19:041.22 --> 00:19:045.02] [Roan]  Oké, dus als het zou beginnen met de tekst en dit dan als een soort mogelijke
+[00:19:045.02 --> 00:19:049.64] [Roan]  wil je nog meer informatie, omdat het een twijfelgeval is, dat zou wel kunnen helpen,
+[00:19:049.70 --> 00:19:051.62] [Roan]  maar niet om iets direct aan te geven.
+[00:19:052.79 --> 00:19:053.13] [Youri]  Dat zou kunnen. Yes.
+[00:19:053.94 --> 00:19:055.34] [Roan]  Oké, duidelijk.
+[00:19:056.62 --> 00:20:003.32] [Roan]  Helpt dit wel omdat er dus wat meer informatie in staat om beter te begrijpen waarom dus die voorspelling is gemaakt door het model?
+[00:20:003.60 --> 00:20:006.68] [Roan]  Of voegt dat eigenlijk ook niet heel veel toe ten opzichte van de tekst?
+[00:20:009.36 --> 00:20:018.76] [Youri]  Ja, goed, het laat wel wat meer zien, maar wat ik net ook zei, dit is dan meer een uitleg van hoe werkt het systeem.
+[00:20:019.62 --> 00:20:025.68] [Youri]  En niet van, dit moet je bij iedere kandidaat of bij iedere vacature op deze manier te zien krijgen.
+[00:20:027.55 --> 00:20:029.05] [Roan]  Oké, duidelijk, duidelijk.
+[00:20:032.47 --> 00:20:040.09] [Roan]  Ja, is er iets wat echt direct tegenwerkt met hoe begrijpelijk het is?
+[00:20:040.29 --> 00:20:045.05] [Roan]  Dus bijvoorbeeld wat je al zei, dat van is subtype van enzo, dat is niet echt duidelijk.
+[00:20:045.25 --> 00:20:049.03] [Roan]  Is dat gewoon de hoeveelheid tekst bijvoorbeeld, is dat vooral?
+[00:20:049.12 --> 00:20:055.04] [Youri]  Dat, dat en de verschillende lettertypes, de grote lettertypes, dikke pijlen, dunne pijlen.
+[00:20:055.36 --> 00:20:058.08] [Youri]  Ja, het maakt het een beetje voor mij onoverzichtelijk.
+[00:20:059.11 --> 00:21:004.57] [Roan]  Oké, ja, dus die dikte van de pijlen, dat geeft dus aan hoe belangrijk die connectie was inderdaad.
+[00:21:004.69 --> 00:21:008.91] [Roan]  Dus als het alleen natuurlijk maar de balletjes en de pijlen zou zijn,
+[00:21:008.99 --> 00:21:014.55] [Roan]  en dat je dus een beetje het pad kan zien met één oogopslag, zou dat wel al dan wat nuttiger zijn?
+[00:21:006.28 --> 00:21:006.70] [Youri]  Ja, snap ik.
+[00:21:014.69 --> 00:21:016.07] [Youri]  Ja, misschien wel.
+[00:21:016.57 --> 00:21:017.85] [Youri]  Ja, durf ik zo niet te zeggen.
+[00:21:018.33 --> 00:21:020.61] [Youri]  Ja, ik ben hier gewoon niet zo fan van.
+[00:21:020.79 --> 00:21:021.53] [Roan]  Oké, ik snap het.
+[00:21:024.36 --> 00:21:031.00] [Roan]  Heeft dit nog iets van invloed op de hoeveelheid vertrouwen in het systeem, of blijft dat een beetje hetzelfde als bij de tekstuitleg?
+[00:21:031.42 --> 00:21:032.84] [Youri]  Nee, dat blijft hetzelfde.
+[00:21:035.42 --> 00:21:051.76] [Roan]  Oké, omdat je hier dus meer een uitgebreider overzicht kan krijgen, zou dit dan wel meer overtuigingskracht geven om te zeggen dat dit wel of geen goede match is?
+[00:21:051.84 --> 00:21:058.86] [Roan]  Of zou je dan nog steeds terug willen gaan naar de vacature en de CV om het handmatig een beetje na te kijken?
+[00:21:059.69 --> 00:22:002.39] [Youri]  Ja, het blijft hetzelfde.
+[00:22:002.61 --> 00:22:003.77] [Roan]  Oké, duidelijk.
+[00:22:005.53 --> 00:22:016.61] [Roan]  Ja, nee, en dan is het weer de vraag of er iets toegevoegd zou kunnen worden, maar van hoe het klinkt zou het eerder zijn om juist dingen weg te halen, om het makkelijker te maken.
+[00:22:017.59 --> 00:22:017.65] [Youri]  Ja.
+[00:22:018.69 --> 00:22:026.81] [Roan]  En dan bij de simpele weergave is dat al sowieso het geval, maar bij die uitgebreide weergave...
+[00:22:027.99 --> 00:22:029.17] [Roan]  Oh, even kijken. Ja.
+[00:22:029.91 --> 00:22:037.51] [Roan]  Hier staat dus ook informatie die wel bekend is voor het systeem, maar waarvan hij dus eigenlijk heeft gezegd, ja, dit is irrelevant voor de match.
+[00:22:037.59 --> 00:22:041.55] [Roan]  Dus bijvoorbeeld die vacature 1-8-0-5-9-9, helemaal linksbovenaan.
+[00:22:042.05 --> 00:22:051.13] [Roan]  Daar heeft hij bijvoorbeeld van gezegd, ja, leuk dat die persoon die vacature heeft vervuld, maar dat is eigenlijk irrelevant voor deze match.
+[00:22:051.89 --> 00:22:056.41] [Roan]  Voeg dat nog iets toe om ook te weten waarom iets niet belangrijk was?
+[00:22:058.60 --> 00:23:001.68] [Youri]  Nee, niet meteen, hè.
+[00:23:002.30 --> 00:23:008.14] [Roan]  Dus ook niet als je bijvoorbeeld dan handmatig zou kijken naar de vacature en dan van, hmm,
+[00:23:008.26 --> 00:23:013.50] [Roan]  waarom is dit niet benoemd in de tekst uitleg dat je het hier zou kunnen verifiëren, zeg maar?
+[00:23:014.02 --> 00:23:018.46] [Roan]  Of is het dan, dan neem je gewoon aan, oh, hij zal het wel als irrelevant hebben beschouwd,
+[00:23:018.54 --> 00:23:019.16] [Roan]  iets in die geest?
+[00:23:020.29 --> 00:23:026.87] [Youri]  Ja, goed, als iemand als een kandidaat wordt gematcht aan vacature voor administratief medewerker,
+[00:23:026.91 --> 00:23:029.51] [Youri]  omdat hij in het verleden als administratief medewerker heeft gewerkt,
+[00:23:029.81 --> 00:23:034.27] [Youri]  vind ik het niet relevant om ook te weten dat hij in de schoonmaak gewerkt heeft, bij wijze van spreken.
+[00:23:034.35 --> 00:23:035.95] [Youri]  Want dat is niet relevant voor die functie.
+[00:23:036.50 --> 00:23:041.40] [Roan]  Oké, ja, dus dat is eigenlijk, omdat het model ook al heeft gezegd dat dit redelijk irrelevant is,
+[00:23:041.52 --> 00:23:044.74] [Roan]  dan is het net zo beter om het gewoon überhaupt niet te benoemen.
+[00:23:046.19 --> 00:23:046.43] [Youri]  Ja.
+[00:23:048.21 --> 00:23:056.71] [Roan]  Oké, en ja, nee, wat ik voor me zou zien is misschien met tekst, zeker als het wat langere
+[00:23:056.71 --> 00:24:002.13] [Roan]  teksten zijn, dat het dan best wel veel werk kan zijn om al die teksten door te lezen.
+[00:24:002.65 --> 00:24:006.75] [Roan]  En met deze, als het dus een wat simpelere weergave zou zijn, zou het dan wel fijn zijn
+[00:24:006.75 --> 00:24:012.37] [Roan]  om iets in één oogopslag te kunnen bekijken, of blijft het altijd dat je liever de zekerheid
+[00:24:012.37 --> 00:24:014.57] [Roan]  hebt van het echt doorlezen?
+[00:24:016.62 --> 00:24:024.43] [Youri]  Ja, dat kan. Ik hou er wel van om iets in één oogopslag te kunnen zien, maar dat heb ik hier niet bij.
+[00:24:025.42 --> 00:24:032.44] [Roan]  Oké, dus als het een duidelijkere weergave zou zijn, dan zou dat misschien kunnen helpen,
+[00:24:032.73 --> 00:24:033.35] [Youri]  Dan misschien.
+[00:24:032.70 --> 00:24:039.90] [Roan]  maar omdat het vrij overweldigend is, voegt het dus niet zoveel toe ten opzichte van de tekst alleen.
+[00:24:041.93 --> 00:24:042.39] [Youri]  Precies.
+[00:24:043.68 --> 00:24:047.64] [Roan]  Ja, nee, duidelijk, dan weten we dat ook voor deze.
+[00:24:048.00 --> 00:24:051.34] [Roan]  Ja, en dan de laatste, de staafdiagram uitleg.
+[00:24:053.30 --> 00:24:058.22] [Roan]  Ja, ik heb hier al van de voorgaande mensen vernomen dat die niet heel duidelijk is,
+[00:24:058.38 --> 00:25:003.06] [Roan]  dus maak je niet druk als het niet direct duidelijk is.
+[00:25:004.22 --> 00:25:010.84] [Roan]  Maar ja, dit is dus de staafdiagram die voor alle verschillende datapunten
+[00:25:010.84 --> 00:25:017.56] [Roan]  die het model tot zijn beschikking had, aangeeft hoe belangrijk het model die uiteindelijk heeft gevonden.
+[00:25:019.22 --> 00:25:027.44] [Roan]  Dus als je hier naar kijkt, is het dan in ieder geval wel duidelijk wat de belangrijkste informatie was voor het model.
+[00:25:030.22 --> 00:25:034.20] [Youri]  Ja, ik zou graag ja willen zeggen, maar het zegt me helemaal niks.
+[00:25:034.44 --> 00:25:034.62] [Roan]  Oké.
+[00:25:034.64 --> 00:25:038.26] [Youri]  Dat is ook net wat ik bij de eerste aangaf.
+[00:25:038.72 --> 00:25:042.80] [Youri]  Vacature 107073 zegt mij niks.
+[00:25:043.40 --> 00:25:048.26] [Youri]  Dus ik zou er dan voor kiezen omdat ze zeggen vacature bij die klant of die vacature.
+[00:25:048.62 --> 00:25:052.18] [Youri]  Of dat je weet, want nu zegt het mij nog helemaal niks.
+[00:25:052.53 --> 00:25:055.29] [Roan]  Oké, ja, omdat het dus te abstract is eigenlijk.
+[00:25:055.79 --> 00:25:055.93] [Youri]  Ja.
+[00:25:056.23 --> 00:25:058.79] [Roan]  Ja, dat is trouwens, als je nog even terug gaat naar die graaf,
+[00:26:000.13 --> 00:26:005.01] [Roan]  als je dan bijvoorbeeld hovert over die kandidaat 4-1-1-9,
+[00:26:005.19 --> 00:26:007.39] [Roan]  gewoon over dat balletje heen hovert met je muis,
+[00:26:008.21 --> 00:26:011.69] [Roan]  dan geeft die dus in dit geval bijvoorbeeld die persoon zijn cv aan.
+[00:26:012.19 --> 00:26:014.79] [Roan]  In dit geval is het natuurlijk een nep cv,
+[00:26:015.19 --> 00:26:018.07] [Roan]  want het is geen echte kandidaat in dit geval.
+[00:26:018.57 --> 00:26:022.43] [Roan]  Maar zou zoiets dus bij die tekst ook bijvoorbeeld handig kunnen zijn,
+[00:26:022.53 --> 00:26:024.59] [Roan]  dus dat je kan hoveren over de vacature,
+[00:26:024.95 --> 00:26:028.21] [Roan]  en dan dus ziet wat de positie in het bedrijf is, dat soort dingen?
+[00:26:028.45 --> 00:26:029.99] [Youri]  Ja, ja, dat denk ik wel.
+[00:26:030.26 --> 00:26:032.43] [Youri]  Dat je dan meer informatie hebt.
+[00:26:033.45 --> 00:26:034.38] [Youri]  Kijk, hier staan de vacature.
+[00:26:034.97 --> 00:26:035.80] [Youri]  Ja, dat zegt me niks.
+[00:26:035.86 --> 00:26:038.56] [Youri]  Dan moet ik nog steeds in het systeem opzoeken welke vacature is dit.
+[00:26:039.01 --> 00:26:041.51] [Roan]  Ja, ja, oké, dat schiet eigenlijk niet op dan.
+[00:26:042.11 --> 00:26:042.27] [Youri]  Nee.
+[00:26:043.21 --> 00:26:050.91] [Roan]  En zou het dan bijvoorbeeld wel als de vacatures, dus het bedrijf en de daadwerkelijke functie
+[00:26:050.91 --> 00:26:056.05] [Roan]  er staat, zou het dan handig kunnen zijn bijvoorbeeld om met zo'n grafiekje te krijgen welke vacatures
+[00:26:056.05 --> 00:26:057.13] [Roan]  de beste match zijn.
+[00:26:057.25 --> 00:27:002.29] [Roan]  Dus dat die bijvoorbeeld zegt, deze vacature is een 80% match, deze 70%, dat je dan een
+[00:27:002.29 --> 00:27:004.19] [Roan]  gesorteerd lijstje krijgt.
+[00:27:005.16 --> 00:27:005.72] [Youri]  Ja, zeker.
+[00:27:007.74 --> 00:27:015.10] [Roan]  Oké, duidelijk. Zou het dan ook voor bijvoorbeeld in dit geval de persoon, die kandidaat 4-1-1-9,
+[00:27:015.44 --> 00:27:020.18] [Roan]  die heeft dus ervaring als assistent, administratief medewerker, secretaresse en ook dat clerk.
+[00:27:021.28 --> 00:27:028.64] [Roan]  Zou het ook handig zijn om op een rijtje te hebben waarom of hoe belangrijk die verschillende functies,
+[00:27:028.78 --> 00:27:031.88] [Roan]  die ervaring is geacht?
+[00:27:033.70 --> 00:27:034.40] [Youri]  In de vacature.
+[00:27:033.73 --> 00:27:034.39] [Roan]  In de vacature.
+[00:27:035.07 --> 00:27:037.65] [Roan]  Ja, ja, gewoon in het algemeen hoe belangrijk het is.
+[00:27:037.65 --> 00:27:038.13] [Youri]  Ja, zeker.
+[00:27:039.69 --> 00:27:044.47] [Roan]  Oké, dus het is in principe, de informatie die erin staat kan wel nuttig zijn, het is
+[00:27:044.47 --> 00:27:050.07] [Roan]  alleen omdat het zo abstract is dat het niet naar voren komt eigenlijk.
+[00:27:046.94 --> 00:27:047.27] [Youri]  Ja.
+[00:27:052.95 --> 00:27:057.77] [Roan]  En ja, hier is ook de simpele weergave, als je daar even op klikt.
+[00:27:058.55 --> 00:28:000.79] [Roan]  Ah ja, dan vat hij het dus eigenlijk samen.
+[00:28:000.99 --> 00:28:007.83] [Roan]  Dus wat je hier dan zou kunnen zeggen van ja, de reden dat het aanbevolen is, is door voorgaande vacatures en de types daarvan.
+[00:28:008.31 --> 00:28:010.83] [Roan]  En kandidaten heeft eigenlijk geen invloed gehad.
+[00:28:010.95 --> 00:28:016.51] [Roan]  Heeft dat nog iets van toevoeging of is het beter om dan gewoon de uitgebreide informatie te houden?
+[00:28:017.63 --> 00:28:019.45] [Youri]  Ja, dat denk ik wel, ja.
+[00:28:020.74 --> 00:28:022.66] [Roan]  Het behouden van gewoon de uitgebreidere?
+[00:28:022.48 --> 00:28:025.78] [Youri]  Ja, nee, de tweede, de iets uitgebreidere.
+[00:28:025.94 --> 00:28:031.10] [Roan]  Dus hier is het dan juist wel fijn om wat meer informatie... omdat dit niet overweldigend is, zeg maar.
+[00:28:031.92 --> 00:28:033.04] [Youri]  Nee, precies.
+[00:28:034.84 --> 00:28:045.62] [Roan]  Ja, en dan op deze manier, zeker dus omdat het zo abstract is eigenlijk, neem ik dan ook aan dat het niet echt helpt met begrijpen waarom de voorspelling is gemaakt in deze vorm.
+[00:28:045.99 --> 00:28:047.82] [Youri]  Nee, nee.
+[00:28:048.24 --> 00:28:049.52] [Roan]  Oké, duidelijk.
+[00:28:051.64 --> 00:28:056.34] [Roan]  Even kijken. Ja, nee, we hebben al besproken wat er toegevoegd zou kunnen worden.
+[00:28:058.24 --> 00:29:009.74] [Roan]  Ja, is er misschien een type informatie dat hier heel goed naar voren zou kunnen komen of heel slecht, dus bijvoorbeeld de reisafstand, dat dat heel belangrijk was of juist dat iets anders er niet zoveel toe heeft gedaan?
+[00:29:013.10 --> 00:29:018.90] [Youri]  Ja, goed, ik denk dat het niet uitmaakt, of dat nu bij de tekst - de geschreven is, of bij de graaf is.
+[00:29:018.98 --> 00:29:022.70] [Youri]  Het zijn gewoon een aantal dingen die wel belangrijk zijn in een match maken.
+[00:29:022.96 --> 00:29:026.22] [Youri]  Dus inderdaad, reisafstand, dat wil ik zeggen, maar ook een aantal uren. Als het een vacature is voor 40 uur, maar iemand wil maar 24 uur werken, dan is het geen match...
+[00:29:031.96 --> 00:29:036.42] [Youri]  Ook al kan hij perfect, 100% matchen met het profiel, is het dan nog geen geschikte kandidaat.
+[00:29:039.45 --> 00:29:046.91] [Roan]  Ja, dus eigenlijk een soort checklist met de minimum eisen waaraan voldaan moet worden voordat je het überhaupt kan.
+[00:29:048.05 --> 00:29:048.11] [Youri]  Ja.
+[00:29:050.37 --> 00:29:055.57] [Roan]  Oké, en dat maakt dan dus eigenlijk niet zoveel uit of het visueel is weergegeven of inderdaad in de tekst.
+[00:29:055.71 --> 00:29:059.93] [Roan]  Dat is allemaal hetzelfde eigenlijk, zolang het eruit ziet.
+[00:29:059.93 --> 00:30:000.65] [Youri]  Ja, nee, precies.
+[00:30:002.21 --> 00:30:004.15] [Roan]  Nou, duidelijk.
+[00:30:004.87 --> 00:30:013.05] [Roan]  Ja, dus een beetje om het samen te vatten, dus die tekst is het handigst, die is duidelijk en niet overweldigend en niet te abstract.
+[00:30:013.71 --> 00:30:019.55] [Roan]  En die graaf is vrij overweldigend, maar kan wat van toegevoegde waarde hebben in sommige situaties.
+[00:30:020.57 --> 00:30:025.31] [Roan]  En die staafdiagram op deze manier is eigenlijk niet van toegevoegde waarde.
+[00:30:026.41 --> 00:30:026.61] [Youri]  Nee.
+[00:30:026.73 --> 00:30:032.03] [Roan]  Met een andere manier van presenteren zou die wel nog nuttig kunnen zijn.
+[00:29:050.74 --> 00:29:050.88] [Youri]  Ja.
+[00:29:059.79 --> 00:30:000.68] [Youri]  Ja, nee, precies.
+[00:30:035.36 --> 00:30:043.50] [Roan]  Oké, ja nee, dat even op een rijtje, want we gaan dus proberen om ze alle drie in een soort één grote uitleg te hebben.
+[00:30:043.94 --> 00:30:051.82] [Roan]  Maar dan zou het dus handig zijn om die tekst als de default te hebben en dan die andere twee als mogelijkheid, in dit geval je informatie...
+[00:30:051.82 --> 00:30:054.38] [Youri]  Ja, dat is toch om, je moet het doorklikmogelijkheden ofzo.
+[00:30:054.58 --> 00:30:056.20] [Roan]  Ja, ja, ja, precies, oké.
+[00:30:056.42 --> 00:30:059.28] [Roan]  En ja, dan nog over de geschreven uitleg.
+[00:31:000.10 --> 00:31:014.90] [Roan]  Daar de hoeveelheid, ja, je zei al dat er bepaalde informatie dus mist, maar de hoeveelheid tekst, heb je daar nog van, doe het liever zo kort mogelijk of juist uitgebreid, omdat je dan meer argumenten hebt om te zeggen waarom het goed is?
+[00:31:015.99 --> 00:31:018.55] [Youri]  Nou ja, ik denk dat dat een middenweg moet zijn.
+[00:31:019.05 --> 00:31:023.05] [Youri]  Je moet niet een ellenlange tekst zijn,
+[00:31:023.45 --> 00:31:027.25] [Youri]  om te voorkomen dat je belangrijke informatie vergeet.
+[00:31:028.63 --> 00:31:031.13] [Youri]  Dus ja, ik denk daar een middenweg in.
+[00:31:031.21 --> 00:31:032.95] [Youri]  Maar zoals het nu bijvoorbeeld is weergegeven, ja... Drie alinea's van drie regels is prima.
+[00:31:038.58 --> 00:31:045.42] [Roan]  Oké, dus het is, ja, zolang de alle belangrijke informatie erin staat, dan is het eigenlijk wel prima als het redelijk beknopt is.
+[00:31:046.10 --> 00:31:051.52] [Roan]  Zolang dus de, ja, de echte, de cruciale items er wel in vermeld zijn.
+[00:31:051.54 --> 00:31:051.90] [Youri]  Ja, precies.
+[00:31:053.76 --> 00:31:055.20] [Roan]  Oké, ja, nee, duidelijk.
+[00:31:056.42 --> 00:32:004.36] [Roan]  En dan nog als laatste punt, ja, het is hier dus die bedrijfsweergave en de kandidatenweergave, die zijn compleet apart van elkaar.
+[00:32:004.36 --> 00:32:007.70] [Roan]  Dat is telkens met zo'n toggle gedaan.
+[00:32:009.02 --> 00:32:012.42] [Roan]  Is dat een handige manier om daarmee te werken?
+[00:32:012.66 --> 00:32:016.16] [Roan]  Dus van, oh, ik moet de kandidaat overtuigen, dan heb ik deze tekst.
+[00:32:016.26 --> 00:32:018.68] [Roan]  En, oh, ik moet het bedrijf overtuigen, dan heb ik deze tekst.
+[00:32:018.74 --> 00:32:021.44] [Roan]  Of zou het fijner zijn om dat, zeg maar, samen te voegen?
+[00:32:021.52 --> 00:32:024.14] [Roan]  Dat het één wat langere tekst is, iets in die geest.
+[00:32:025.16 --> 00:32:028.00] [Youri]  Ik zou hem wel los houden.
+[00:32:028.96 --> 00:32:029.18] [Youri]  Ja.
+[00:32:030.00 --> 00:32:030.14] [Youri]  Ja.
+[00:32:029.25 --> 00:32:034.35] [Roan]  Ja, oké, ja, duidelijk, dat is goed.
+[00:32:037.95 --> 00:32:043.32] [Youri]  Als kandidaat heb je soms andere argumenten nodig dan dat je een kandidaat gaat verkopen
+[00:32:043.32 --> 00:32:047.52] [Youri]  aan een bedrijf, slash een vacature, en die dan gaat aanbieden.
+[00:32:047.78 --> 00:32:048.08] [Roan]  Ja, ja.
+[00:32:048.69 --> 00:32:054.82] [Youri]  Ja, dus ik denk niet dat je die 1 op 1 weer voor hetzelfde kunt gebruiken.
+[00:32:055.50 --> 00:33:003.38] [Roan]  Ja, oké, en het is dan ook fijn als het andere argumenten zijn om goed gescheiden te houden, dat dat niet samengevoegd wordt.
+[00:33:003.84 --> 00:33:008.42] [Roan]  Oké, ja, nee, perfect. Ja, dat is inderdaad hoe het nu dus ook is.
+[00:33:008.60 --> 00:33:015.68] [Roan]  De uitleg voor het bedrijf is een andere uitleg dan voor de kandidaat, dus dan is het in dit geval dus gescheiden gebleven.
+[00:33:017.18 --> 00:33:023.92] [Roan]  Oké, ja, nee, dat waren de vragen. Dus, ja, hartstikke bedankt voor het meewerken.
+[00:33:024.70 --> 00:33:025.72] [Youri]  Nou, geen probleem.
+[00:33:026.18 --> 00:33:030.32] [Roan]  Ja, ja, nee, dus in principe gaan we hier nu verder mee aan de slag.
+[00:33:030.42 --> 00:33:034.22] [Roan]  Dus hopelijk ooit in de toekomst zie je iets wat hierop lijkt daadwerkelijk verschijnen.

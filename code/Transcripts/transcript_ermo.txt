@@ -1,0 +1,463 @@
+[00:05:000.53 --> 00:05:001.09] [Roan]  Nou, daar gaan we.
+[00:05:001.25 --> 00:05:003.57] [Roan]  Uhm, oké, maar het is misschien niet handig om op deze te beginnen.
+[00:05:003.71 --> 00:05:006.33] [Roan]  Hij selecteert, dus als je een beetje naar beneden scrolt,
+[00:05:007.77 --> 00:05:011.17] [Roan]  dan de geschreven uitleg is denk ik het handigst om mee te beginnen.
+[00:05:011.43 --> 00:05:012.35] [Roan]  Dus dan kun je daarop klikken.
+[00:05:015.40 --> 00:05:018.36] [Roan]  Oh, ja, dat hoeft niet.
+[00:05:019.38 --> 00:05:029.64] [Roan]  Ja, nee, hier is dus een geschreven uitleg door het model, dus wederom, lees de tekst even door en dan vervolgens zal ik daar wat vragen over vragen.
+[00:05:029.57 --> 00:05:031.25] [Ermo]  Ben benieuwd wat dit allemaal is.
+[00:05:031.45 --> 00:05:032.57] [Ermo]  Even kijken...
+[00:05:032.73 --> 00:05:033.53] [Ermo]  Bedrijf gekeken...
+[00:05:034.68 --> 00:05:038.40] [Ermo]  Ja, en matches op basis van verbindingen, ja, deze...
+[00:05:039.48 --> 00:05:043.42] [Ermo]  Ja, oké, het model ontdekte, ja, oké...
+[00:05:048.14 --> 00:05:048.86] [Ermo]  Oké...
+[00:06:005.41 --> 00:06:009.49] [Ermo]  Nou, moeilijk te begrijpen, maar wat moet ik hiermee doen?
+[00:06:009.49 --> 00:06:015.19] [Roan]  Oké, ja, nee, dus dan, ja, ik zal over elke soort uitleg telkens wat vragen stellen.
+[00:06:015.35 --> 00:06:019.17] [Roan]  Dus ja, de eerste vraag gaat er eigenlijk een beetje over om te kijken of wat er daadwerkelijk,
+[00:06:020.15 --> 00:06:022.57] [Roan]  de informatie die erin staat, of die duidelijk naar voren komt.
+[00:06:023.47 --> 00:06:028.67] [Roan]  Dus ja, is het duidelijk welke informatie het belangrijkste is geweest voor het model
+[00:06:028.67 --> 00:06:032.77] [Roan]  om dus die kandidaten, die vacature aan elkaar te matchen?
+[00:06:033.25 --> 00:06:035.49] [Ermo]  Ja, dat is de vraag.
+[00:06:035.63 --> 00:06:037.81] [Roan]  Ja, welke informatie denk je dat dat is?
+[00:06:040.19 --> 00:06:042.01] [Ermo]  Uit de informatie die ik nu lees?
+[00:06:042.07 --> 00:06:042.19] [Ermo]  Ja.
+[00:06:043.01 --> 00:06:044.79] [Ermo]  Of wat voor mij het belangrijkste is?
+[00:06:045.15 --> 00:06:049.15] [Roan]  Nee, wat er staat. Dat is wat je denkt dat het model het belangrijkst vindt.
+[00:06:051.88 --> 00:06:057.28] [Ermo]  Nou ja, ik begrijp hem niet heel goed, Roan, dus zoals ik hem begrijp is dat er dus inderdaad
+[00:06:057.28 --> 00:07:006.18] [Ermo]  dat XAI-model is, die dus kandidaten matcht en linkt aan, hij matcht aan een vacature,
+[00:07:007.00 --> 00:07:014.44] [Ermo]  maar dat er dan ook andere kandidaten zijn waarmee er een verhouding is met die kandidaat.
+[00:07:014.48 --> 00:07:014.82] [Roan]  Oké.
+[00:07:014.92 --> 00:07:017.68] [Ermo]  En dat zou mij dan wellicht informatie moeten geven.
+[00:07:018.04 --> 00:07:018.24] [Roan]  Mhm.
+[00:07:018.65 --> 00:07:026.03] [Ermo]  Over waar die kandidaat gepositioneerd staat ten opzichte van die andere kandidaten.
+[00:07:026.13 --> 00:07:027.15] [Ermo]  Heb ik het zo goed gelezen?
+[00:07:027.38 --> 00:07:029.50] [Roan]  Ja, ja, nee, in principe klopt dat dus.
+[00:07:029.60 --> 00:07:033.42] [Roan]  Ja, het is inderdaad de nummers van de kandidaten, dat kan misschien een beetje verwarrend zijn,
+[00:07:033.52 --> 00:07:037.34] [Roan]  maar het is dus inderdaad die kandidaat die gematcht is aan de vacature,
+[00:07:037.88 --> 00:07:041.24] [Roan]  wat er dus inderdaad onderaan in dat laatste stukje staat,
+[00:07:041.72 --> 00:07:046.90] [Roan]  die heeft vergelijkbare ervaring met een andere kandidaat die de vacature eerder al heeft vervuld.
+[00:07:047.16 --> 00:07:047.66] [Ermo]  Ja, precies.
+[00:07:047.81 --> 00:07:049.61] [Ermo]  Zo had ik het ook gelezen.
+[00:07:049.74 --> 00:07:055.04] [Roan]  Dus het is wel een beetje onduidelijk, maar met een beetje puzzelen komt het wel nu naar voren?
+[00:07:055.82 --> 00:07:055.96] [Ermo]  Ja.
+[00:07:056.14 --> 00:08:001.48] [Roan]  Oké, en wat is dan vooral onduidelijk of wat zorgt ervoor dat het lastiger te begrijpen is?
+[00:08:001.70 --> 00:08:007.20] [Ermo]  Nou, omdat de ene sterk verbonden is en de andere dan minder sterk verbonden is.
+[00:08:007.64 --> 00:08:012.76] [Ermo]  Even kijken, de hogere scoren en de lagere scoren.
+[00:08:012.86 --> 00:08:017.80] [Ermo]  Dus dat is inderdaad ook nog eens een keer verschillende vacatures.
+[00:08:018.76 --> 00:08:021.40] [Ermo]  Dus het is best wel veel informatie, Roan.
+[00:08:022.94 --> 00:08:024.81] [Roan]  Het is een beetje door de boom, het bos niet meer.
+[00:08:025.54 --> 00:08:029.44] [Ermo]  Nou, ik zat er doorheen te lezen en ik denk, oké, maar wat wil die er nou mee zeggen?
+[00:08:029.57 --> 00:08:033.46] [Ermo]  Maar in principe staat de conclusie wel in de laatste zin, dus dat is op zich goed.
+[00:08:034.07 --> 00:08:040.99] [Roan]  Oké, en rechtsboven staat de knop voor simpele weergaven, dus als je daar op drukt dan krijg je een wat versimpeldere weergave.
+[00:08:041.11 --> 00:08:041.55] [Roan]  Dus misschien...
+[00:08:041.55 --> 00:08:042.11] [Ermo]  Ik ben benieuwd.
+[00:08:043.11 --> 00:08:045.51] [Roan]  Als je deze leest, of het dan wel duidelijker wordt.
+[00:08:047.60 --> 00:08:047.94] [Ermo]  Oké.
+[00:09:021.41 --> 00:09:022.91] [Roan]  Is het hier wat duidelijk?
+[00:09:022.44 --> 00:09:023.20] [Ermo]  Ja, wat duidelijker.
+[00:09:022.95 --> 00:09:023.09] [Ermo]  Ja.
+[00:09:024.26 --> 00:09:027.25] [Ermo]  Ja, iets duidelijker. Het is gewoon wat gecomprimeerder.
+[00:09:027.35 --> 00:09:033.03] [Roan]  Ja, ja, dus er ontbreekt wat informatie, maar de kern is wat duidelijker.
+[00:09:032.93 --> 00:09:035.99] [Ermo]  Ja, dus dit is voor mij duidelijker weergegeven.
+[00:09:036.59 --> 00:09:038.93] [Ermo]  Ik ken natuurlijk niet al die, maar ja, dat is...
+[00:09:038.91 --> 00:09:039.15] [Ermo]  Oké.
+[00:09:040.04 --> 00:09:042.88] [Ermo]  Ja, het is abstract iets.
+[00:09:043.97 --> 00:09:052.19] [Roan]  Ja, oké, maar helpt deze uitleg nu dus dan wel begrijpen waarom het model de match heeft voorspeld?
+[00:10:002.37 --> 00:10:003.33] [Ermo]  Ja, ja, ja.
+[00:10:003.06 --> 00:10:009.72] [Ermo]  Ja, want die uitleg is dus wat ook in het begin staat.
+[00:10:009.93 --> 00:10:010.19] [Ermo]  Oké.
+[00:10:011.19 --> 00:10:017.33] [Ermo]  Hoe de connecties en relaties tussen de kandidaten zitten en waarom dan deze match het beste is.
+[00:10:017.67 --> 00:10:019.69] [Roan]  Oké, ja nee, top.
+[00:10:020.87 --> 00:10:027.59] [Roan]  Zou er verder nog iets zijn wat zou kunnen helpen met het begrijpen van de uitleg?
+[00:10:027.89 --> 00:10:032.13] [Roan]  Dus wat bijvoorbeeld eerder was benoemd in een ander interview,
+[00:10:032.65 --> 00:10:040.75] [Roan]  als je bij kandidaat 4-119 zou kunnen zien wat die persoon zijn cv is bijvoorbeeld, iets in die geest.
+[00:10:045.18 --> 00:10:046.62] [Ermo]  Oké, effe kijken.
+[00:10:051.54 --> 00:11:002.68] [Ermo]  Ja, maar als je daarnaar vraagt, dan ben je dus onzeker over het model dat de connectie heeft gelegd, begrijp je?
+[00:11:003.56 --> 00:11:005.36] [Ermo]  Dus dat zou ik niet direct zeggen.
+[00:11:005.60 --> 00:11:011.38] [Ermo]  Als het model zo is ingericht dat dat gecheckt is, dan ga ik vanuit Roan.
+[00:11:012.32 --> 00:11:015.94] [Ermo]  Dan is dat voor mij prima zo, dan ga ik niet zelf die check doen.
+[00:11:016.10 --> 00:11:022.88] [Roan]  Oké, dus als het model inderdaad goed genoeg presteert, dan zou je er gewoon direct op vertrouwen?
+[00:11:023.34 --> 00:11:025.04] [Ermo]  Ja, dan vertrouw ik er op.
+[00:11:025.16 --> 00:11:025.58] [Roan]  Oké, top.
+[00:11:027.28 --> 00:11:031.92] [Roan]  Allright, nou die uitleg dus inderdaad van die links tussen kandidaten en vacatures,
+[00:11:032.34 --> 00:11:037.14] [Roan]  is dat een logische uitleg naar jouw mening?
+[00:11:037.40 --> 00:11:041.00] [Roan]  Iets waarvan je dan denkt van, oh ja, dat zou inderdaad wel een goede reden kunnen zijn
+[00:11:041.00 --> 00:11:043.52] [Roan]  om deze persoon aan te bevelen?
+[00:11:044.65 --> 00:11:053.43] [Ermo]  Ja, nogmaals, dat is dus gerelateerd natuurlijk aan hoe het model werkt en dat die uitleg van
+[00:11:053.43 --> 00:11:059.01] [Ermo]  die andere kandidaten en hoe die zich dus verhouden met die kandidaat waarvoor dan de
+[00:11:059.01 --> 00:12:008.51] [Ermo]  beste match is voor de vacature, dat dat inderdaad, hoe zeg je dat, dat dat inderdaad, nou ja,
+[00:12:008.51 --> 00:12:016.03] [Ermo]  dat dat klopt, dus dat dat geverifiëerd is met de informatie die er dan ten grondzak ligt.
+[00:12:016.19 --> 00:12:016.43] [Ermo]  Ja, ja, ja.
+[00:12:016.43 --> 00:12:024.63] [Ermo]  En dan is het prima, dus dan gaat het gewoon om van deze kandidaat is conform model de beste
+[00:12:024.63 --> 00:12:027.37] [Ermo]  match met de vacature, dus dat begrijp ik helemaal wel.
+[00:12:028.01 --> 00:12:029.17] [Ermo]  Maar is het ook zo?
+[00:12:029.17 --> 00:12:030.95] [Ermo]  Het is een beetje, oh sorry.
+[00:12:027.95 --> 00:12:037.19] [Roan]  Maar is het ook zo als een persoon zoiets zou zeggen van, oh ja, deze persoon is een goed iemand om aan te nemen,
+[00:12:037.57 --> 00:12:045.83] [Roan]  en dan met diezelfde uitleg, is het dan van, oh ja, dat is wel een goede uitleg, dat is een logische reden om daadwerkelijk zo'n persoon aan te nemen.
+[00:12:045.93 --> 00:12:053.69] [Roan]  Dus niet per se staat het er duidelijk, maar is het ook als je erover nadenkt van, oh ja, dat zou wel een goed argument kunnen zijn om die persoon aan te nemen.
+[00:12:057.28 --> 00:12:058.34] [Ermo]  Ja, ik vind dat wel, ja.
+[00:12:059.03 --> 00:13:009.59] [Roan]  Allright. Nou, duidelijk. Ja, en deze uitleg zou dan dus ook kunnen helpen met daadwerkelijk het maken van een beslissing.
+[00:13:009.73 --> 00:13:016.25] [Roan]  Dus als jouw keuze nu zou zijn, moeten we deze persoon wel of niet aannemen of op een sollicitatiegesprek laten komen,
+[00:13:016.65 --> 00:13:018.43] [Roan]  dat zou hier dus mee kunnen helpen.
+[00:13:010.56 --> 00:13:010.74] [Ermo]  Ja.
+[00:13:019.15 --> 00:13:022.67] [Ermo]  Ja, ik denk het zeker. Ja, zeker. Ja, dit helpt zeker, ja.
+[00:13:023.05 --> 00:13:024.27] [Ermo]  Oké, en dat maakt ons werk...
+[00:13:024.27 --> 00:13:026.11] [Ermo]  Ons werk weer wat gemakkelijker.
+[00:13:023.38 --> 00:13:024.32] [Roan]  En dus zeker ook als...
+[00:13:026.70 --> 00:13:031.38] [Roan]  Dus zeker, vooral ook als het model daadwerkelijk bewezen is dat het goed presteert, dat het
+[00:13:031.38 --> 00:13:036.29] [Roan]  vaak correct zit, dan zou dat al direct doorslaggevend kunnen zijn.
+[00:13:037.09 --> 00:13:039.25] [Ermo]  Ja, dan hoef je dat allemaal niet meer zelf te doen.
+[00:13:039.50 --> 00:13:039.64] [Roan]  Mhmm.
+[00:13:041.83 --> 00:13:051.11] [Roan]  Ja, en dus dat komt dan ook een beetje op hetzelfde neer, maar dus de voorspelling die komt op dit moment dus ook over als betrouwbaar,
+[00:13:051.45 --> 00:13:053.27] [Roan]  als je puur kijkt naar de uitleg?
+[00:13:053.89 --> 00:13:055.07] [Roan]  Ja, voor mij wel.
+[00:13:056.01 --> 00:14:005.65] [Roan]  Oké, en dat zou dus versterkt of verzwakt worden indien, ja, zeg maar hoe goed het model is als dat bekend zou zijn.
+[00:14:006.11 --> 00:14:009.05] [Roan]  Dus meer vertrouwen als het beter werkt.
+[00:14:006.57 --> 00:14:006.85] [Ermo]  Ja, ja.
+[00:14:011.17 --> 00:14:018.51] [Roan]  Eh, ja, zou hier nog iets verder aan toegevoegd kunnen worden?
+[00:14:018.95 --> 00:14:022.49] [Roan]  Qua, ja, bijvoorbeeld die kleurtjes, voegt dat nog wat toe?
+[00:14:022.59 --> 00:14:024.05] [Roan]  Kan dat misschien beter weggehaald worden?
+[00:14:024.25 --> 00:14:025.61] [Roan]  Of iets extra's erbij?
+[00:14:025.91 --> 00:14:027.29] [Roan]  Of is het zo eigenlijk wel goed?
+[00:14:027.85 --> 00:14:030.69] [Roan]  Is daar nog iets van een voorkeur voor?
+[00:14:033.35 --> 00:14:037.29] [Roan]  Dus wat informatie die bijvoorbeeld mist of iets wat het minder duidelijk maakt?
+[00:14:038.16 --> 00:14:038.36] [Ermo]  Ja.
+[00:14:040.64 --> 00:14:046.78] [Ermo]  Even denken hoor, even kijken, vacature, kandidaat, vacature types.
+[00:14:047.42 --> 00:14:050.76] [Ermo]  Die gele zie ik nog niet trouwens, maar die zat waarschijnlijk in het vorige.
+[00:14:050.85 --> 00:14:052.87] [Roan]  Ja, die staat alleen in de uitgebreide.
+[00:14:053.15 --> 00:14:053.71] [Roan]  Mag ik dat doen?
+[00:14:053.73 --> 00:14:054.17] [Roan]  Ja, ja, zeker.
+[00:14:051.89 --> 00:14:054.17] [Ermo]  Zal ik dat doen? Mag ik dat doen?
+[00:14:055.47 --> 00:14:056.73] [Ermo]  Ja, hier staat ze wel.
+[00:15:009.33 --> 00:15:011.61] [Ermo]  Ja, ja, dat helpt zeker.
+[00:15:011.77 --> 00:15:011.85] [Ermo]  Ja.
+[00:15:015.05 --> 00:15:021.31] [Ermo]  Wat je wel hebt is dat, je kunt in één oogopsnacht zien dat er drie,
+[00:15:021.81 --> 00:15:024.59] [Ermo]  dus dat er één kandidaat gematcht is met de vacature,
+[00:15:025.49 --> 00:15:030.91] [Ermo]  en dat dat dan gerelateerd wordt aan twee andere kandidaten.
+[00:15:031.23 --> 00:15:031.43] [Ermo]  Ja.
+[00:15:033.12 --> 00:15:034.66] [Ermo]  Ja, dus dat is ook duidelijk.
+[00:15:035.94 --> 00:15:040.44] [Ermo]  En dan heb je de facturen match en dan heb je vergelijkende factures.
+[00:15:041.51 --> 00:15:046.43] [Ermo]  Dat zijn er 1, 2, 3, 4...
+[00:15:046.73 --> 00:15:047.25] [Ermo]  Vier.
+[00:15:048.47 --> 00:15:054.81] [Ermo]  Dat zijn vier vacatures, verschillende vacatures, waar ook een relatie mee is.
+[00:15:055.93 --> 00:15:056.99] [Ermo]  Ja, oké.
+[00:15:057.25 --> 00:15:058.15] [Ermo]  Nee, ik vind het goed.
+[00:15:058.91 --> 00:16:003.53] [Ermo]  Ik vind het prima, want anders is die kleurtjes perfect.
+[00:16:003.69 --> 00:16:007.07] [Ermo]  Want anders lees je een beetje een lens, moet ik zeggen.
+[00:16:007.11 --> 00:16:012.03] [Roan]  Dus dat helpt wel om het wat duidelijker op één oogopslag naar voren te laten komen.
+[00:16:012.47 --> 00:16:012.95] [Ermo]  Zeker.
+[00:16:013.91 --> 00:16:014.27] [Roan]  All right.
+[00:16:015.23 --> 00:16:021.23] [Roan]  En ja, bijvoorbeeld, dus om wel het model bijvoorbeeld nog even te kunnen verifiëren,
+[00:16:021.37 --> 00:16:025.81] [Roan]  bijvoorbeeld hoe ver weg die persoon woont of bijvoorbeeld hoeveel uur die persoon zou
+[00:16:025.81 --> 00:16:029.71] [Roan]  willen werken ten opzichte van wat er in de vacature staat, dat soort informatie, is het
+[00:16:029.71 --> 00:16:034.79] [Roan]  handig om dat ook in één oogopslag erbij te hebben of is het beter om gewoon het idee
+[00:16:034.79 --> 00:16:038.77] [Roan]  te hebben van, oh, het model heeft daar al naar gekeken, dus daar hoef ik me geen zorgen
+[00:16:038.77 --> 00:16:039.31] [Roan]  over te maken.
+[00:16:042.61 --> 00:16:055.27] [Ermo]  Ja, wat je eigenlijk zegt Roan, is dat je hebt een personeel, een nieuw personeel wil je graag aannemen.
+[00:16:055.57 --> 00:17:002.89] [Ermo]  En daar heb je een profiel bij, dus wij willen iemand aannemen en die moet voor minimaal 80% kunnen werken.
+[00:17:004.78 --> 00:17:013.42] [Ermo]  Dus voor 0,8 FTE. Dan als het een 0,6 FTE, als dat staat in de motivatiebrief,
+[00:17:014.38 --> 00:17:019.26] [Ermo]  ja dan is het een no-go al, Roan. Dus je hebt inderdaad een aantal dingen die gewoon
+[00:17:019.26 --> 00:17:025.80] [Ermo]  belangrijk zijn. Dat als je daar niet aan voldoet, ja dan hoef je me er ook niet mee te bemoeien, zeg maar.
+[00:17:020.44 --> 00:17:020.64] [Roan]  Mhm.
+[00:17:027.96 --> 00:17:037.44] [Ermo]  Mijn ervaring zegt dat om dat ter discussie te brengen, is ethisch vaak ook lastig en
+[00:17:037.44 --> 00:17:040.64] [Ermo]  is vaak voor mij al een reden om iemand niet...
+[00:17:041.61 --> 00:17:045.55] [Ermo]  te vragen voor een interview. Begrijp je wat ik bedoel? Dus er zijn gewoon een aantal essentiële
+[00:17:045.55 --> 00:17:052.38] [Ermo]  dingen die moeten erin staan. Dus als iemand moet lesgeven, lecturer is en niet gepromoveerd
+[00:17:052.38 --> 00:17:057.55] [Ermo]  is, ja, dan is dat gewoon een no-go, weet je. Dus dat zijn zo van die dingen. Daar moeten
+[00:17:057.55 --> 00:18:000.59] [Ermo]  ze zeker aan voldoen. Dus die moeten er sowieso uitgehaald worden.
+[00:18:000.74 --> 00:18:007.26] [Roan]  Ja, oké, dus die zullen dan inderdaad überhaupt niet als match aangegeven moeten worden, dus oké.
+[00:18:006.38 --> 00:18:012.52] [Ermo]  Nee, want het staat duidelijk in de vacature-tekst en dan komt iemand met een brief en een cv
+[00:18:012.52 --> 00:18:018.82] [Ermo]  en een motivatiebrief waaruit blijkt dat hij of zij er niet aan kan voldoen.
+[00:18:019.00 --> 00:18:021.36] [Ermo]  Dan is het ook einde oefening.
+[00:18:021.48 --> 00:18:025.92] [Roan]  Ja, nee, snap ik. Oké, duidelijk. Dus ja, dat hoeft dan niet per se nog in de tekst vermeld te worden.
+[00:18:026.02 --> 00:18:029.42] [Roan]  Dan is het beter om gewoon het besef te hebben van, oh, die zou er al uitgefilterd zijn,
+[00:18:029.54 --> 00:18:031.48] [Roan]  dus deze persoon voelt het er sowieso aan.
+[00:18:029.66 --> 00:18:033.29] [Ermo]  Die moet je er wel uit filmen, daar moet je ons niet mee vermoeien.
+[00:18:034.37 --> 00:18:038.66] [Ermo]  Want anders ga je je vergissen en dan kom je in ethische dilemma's.
+[00:18:038.85 --> 00:18:039.33] [Ermo]  Ja, duidelijk.
+[00:18:039.55 --> 00:18:040.37] [Ermo]  Dat wil je niet.
+[00:18:040.62 --> 00:18:041.62] [Ermo]  Ja, oké.
+[00:18:042.46 --> 00:18:042.83] [Ermo]  Allright.
+[00:18:043.09 --> 00:18:045.77] [Ermo]  Die krijg je ook in een hele makkelijke brief terug, Roan.
+[00:18:038.54 --> 00:18:039.26] [Roan]  Ja, duidelijk.
+[00:18:045.90 --> 00:18:047.64] [Roan]  Ja, van niet aan de eisen voldaan.
+[00:18:048.08 --> 00:18:051.68] [Ermo]  Ik vraag iemand voor vier dagen in de week en niet voor drie dagen in de week.
+[00:18:051.72 --> 00:18:059.40] [Roan]  Ja, precies. Oké, dan kunnen we door naar een van de volgende types uitleg.
+[00:18:059.68 --> 00:19:004.84] [Roan]  De geschreven is dan klaar, dus we kunnen denk ik het beste naar de graafuitleg gaan.
+[00:19:004.90 --> 00:19:005.28] [Ermo]  Ik ben benieuwd.
+[00:18:052.82 --> 00:18:052.88] [Ermo]  Oké.
+[00:19:007.79 --> 00:19:008.65] [Ermo]  Even kijken...
+[00:19:011.24 --> 00:19:015.60] [Roan]  Als je eerst een beetje naar rechts gaat met je muis en dan omlaag scrolt,
+[00:19:016.58 --> 00:19:020.82] [Roan]  ja, niet binnen het vierkantje, want dan zoom je uit, dus rechts van het vierkantje,
+[00:19:021.66 --> 00:19:023.00] [Roan]  en dan nu naar beneden scrolt,
+[00:19:023.60 --> 00:19:027.62] [Roan]  ja, daar staat nog even wat uitleg over hoe die graaf te lezen valt.
+[00:19:028.63 --> 00:19:031.31] [Ermo]  Ja, en waarom moet ik naar rechts? Oh, ik moet hem inzoomen.
+[00:19:031.61 --> 00:19:034.43] [Roan]  Ja, als je scrolt binnen dat vak, dan zoom je in en uit.
+[00:19:034.59 --> 00:19:038.03] [Roan]  Maar dus om laag te scrollen moet je even uit het vak met je muis, maar je kan ook...
+[00:19:038.03 --> 00:19:039.61] [Ermo]  Ja, maar dat doe ik nu hè, ik breng hem nu omlaag...
+[00:19:040.87 --> 00:19:042.37] [Ermo]  En wat moet ik nu doen met het diagram?
+[00:19:042.78 --> 00:19:048.50] [Roan]  Ja, er staat dus onderaan de uitleg wat alle verschillende dingen inhouden.
+[00:19:048.62 --> 00:19:053.64] [Roan]  Dus je hebt die knopen en die kunnen gesleept worden om ze te herschikken.
+[00:19:054.02 --> 00:19:059.18] [Roan]  En ja, als je dus op zo'n knoop klikt, dan worden alle verbindingen gehighlighted.
+[00:19:059.20 --> 00:20:002.30] [Ermo]  Ja, ik zie dat. Oké, laten we dat eens even proberen.
+[00:20:002.34 --> 00:20:009.02] [Roan]  En als je er ook in loopt, dan zie je daar dus de nep vacature van die persoon, of een nep cv van die persoon.
+[00:20:004.99 --> 00:20:005.17] [Ermo]  Ja.
+[00:20:011.24 --> 00:20:018.00] [Roan]  Ja, sommige van die lijnen die lopen door elkaar heen, want dat wordt op een willekeurige manier aangemaakt.
+[00:20:018.14 --> 00:20:024.08] [Roan]  Maar wat handig is, als je weer omhoog scrolt, dus weer even uit het vierkantje gaat en dan omhoog scrolt,
+[00:20:024.52 --> 00:20:029.04] [Roan]  dan is er hier weer de simpele weergave. Het is misschien handig om die even aan te zetten.
+[00:20:030.40 --> 00:20:031.12] [Ermo]  Dat is deze?
+[00:20:031.34 --> 00:20:031.46] [Roan]  Ja.
+[00:20:032.82 --> 00:20:036.84] [Roan]  Ja, dus nu gaat het er weer over voor de uitleg.
+[00:20:037.10 --> 00:20:046.70] [Roan]  Als je hier naar kijkt, is het dan duidelijk welke informatie of welke kenmerken het belangrijkst zijn voor het model om uiteindelijk die voorspelling te maken?
+[00:20:046.72 --> 00:20:047.14] [Roan]  Ja, even kijken.
+[00:20:047.45 --> 00:20:048.15] [Ermo]  Oké, de vacature.
+[00:20:048.19 --> 00:20:048.19] [Ermo]  is vervuld...
+[00:20:048.41 --> 00:20:048.65] [Ermo]  M-hm.
+[00:20:050.50 --> 00:20:051.60] [Ermo]  ...
+[00:20:052.77 --> 00:20:056.27] [Ermo]  Kijk, dan moet ik toch even kijken, hoe krijg ik dat?
+[00:20:057.66 --> 00:21:000.16] [Ermo]  Ik kan dat bijna niet zien, want ik moet dat even...
+[00:21:000.16 --> 00:21:001.48] [Ermo]  Is het de klein letter type?
+[00:21:002.66 --> 00:21:004.16] [Ermo]  Ja, ik kan...
+[00:21:004.16 --> 00:21:006.85] [Ermo]  Straat heeft... Wat staat er?
+[00:21:006.90 --> 00:21:007.64] [Ermo]  Heeft subtype.
+[00:21:006.79 --> 00:21:009.69] [Roan]  Een subtype en dan een waarde 1.04.
+[00:21:011.04 --> 00:21:012.64] [Ermo]  Ah, oké, en wat betekent dat?
+[00:21:013.77 --> 00:21:023.91] [Roan]  Heeft subtype is dus in het geval de vacature 147542, die heeft dus het subtype secretaresse, dus het domein waar het binnen valt.
+[00:21:024.59 --> 00:21:031.29] [Roan]  En de waarde, die 1.04, dat is dus de waarde die het model aan die verbinding heeft toegekend.
+[00:21:036.05 --> 00:21:040.49] [Ermo]  En hetzelfde geldt dan voor assistant en administratieve medewerker.
+[00:21:041.99 --> 00:21:042.77] [Ermo]  Oké.
+[00:21:043.11 --> 00:21:046.31] [Ermo]  Oké, en daaronder staat dan heeft waarde vervuld.
+[00:21:046.55 --> 00:21:047.07] [Ermo]  Oké.
+[00:21:047.90 --> 00:21:053.10] [Ermo]  Die groene is... dat is dan waarschijnlijk een andere...
+[00:21:053.98 --> 00:22:000.10] [Ermo]  Nee, Roan, ik moet even heel hard nadenken wat hier nou precies staat weergegeven.
+[00:22:002.18 --> 00:22:004.00] [Ermo]  Hier moet je me een beetje bij helpen.
+[00:22:004.10 --> 00:22:004.46] [Ermo]  Oké.
+[00:22:004.89 --> 00:22:014.43] [Roan]  Ja, dus de grootte van de pijl en dus ook die waardescoren die erbij staan, dat geeft dus eigenlijk aan hoe belangrijk het model die verbinding vond.
+[00:22:015.33 --> 00:22:024.29] [Roan]  En dus gaat het eigenlijk om wat is het dikst gedrukte pad van de vacature naar die kandidaat.
+[00:22:024.35 --> 00:22:031.75] [Roan]  En dat is eigenlijk dus wat het model het belangrijkste pad vond tussen die twee dingen.
+[00:22:033.07 --> 00:22:043.39] [Roan]  Dus in dit geval is dat het onderste pad en daar kun je dus door de naam van die pijlen zeg maar zien wat telkens de verbindingen zijn tussen die dingen in dat pad.
+[00:22:044.43 --> 00:22:045.57] [Roan]  Dus helpt dat dan al een beetje?
+[00:22:047.06 --> 00:22:051.94] [Ermo]  Ja, maar dan zie ik wel nog dat er ook andere kandidaten zijn, hè?
+[00:22:052.07 --> 00:22:052.25] [Ermo]  M-hm.
+[00:22:053.25 --> 00:22:058.79] [Ermo]  En die vallen dan uiteindelijk af, want je kiest dan waarschijnlijk voor de kandidaat helemaal rechts.
+[00:22:058.97 --> 00:22:059.13] [Ermo]  Ja, ja.
+[00:22:059.13 --> 00:23:000.43] [Ermo]  Dat is dan de keuze, hè.
+[00:23:000.87 --> 00:23:002.29] [Ermo]  Dat begrijp ik ook.
+[00:23:002.93 --> 00:23:010.45] [Ermo]  En eigenlijk zeg je met die andere kandidaten dat er dus een relatie is, of dat die ook op dat vlak scoren,
+[00:23:010.55 --> 00:23:014.17] [Ermo]  maar wellicht minder goed scoren als de kandidaat die je wil kiezen.
+[00:23:000.58 --> 00:23:000.80] [Ermo]  Oké.
+[00:23:014.45 --> 00:23:014.71] [Ermo]  mhm
+[00:23:015.20 --> 00:23:019.74] [Roan]  Ja, dat die niet geselecteerd zijn, dat kan voor allerlei redenen zijn.
+[00:23:019.92 --> 00:23:021.52] [Roan]  Dus bijvoorbeeld, ja, die zijn niet beschikbaar.
+[00:23:021.90 --> 00:23:026.34] [Roan]  Of bijvoorbeeld die kandidaat 3844, die heeft de vacature in het verleden dus al een keer vervuld.
+[00:23:026.70 --> 00:23:029.72] [Roan]  Dus die zal waarschijnlijk niet nog een keer willen komen.
+[00:23:031.54 --> 00:23:033.02] [Roan]  Dus ja, is het dan een beetje duidelijker?
+[00:23:033.33 --> 00:23:039.37] [Ermo]  Ja, dan is het duidelijker. Dus nu zie ik inderdaad het pad en dat is inderdaad het pad dat ook beschreven was in de tekst.
+[00:23:039.44 --> 00:23:046.74] [Roan]  Ja, exact. Dus het is inderdaad, die vacature is vervuld door die kandidaat 3844 en die heeft een vacature.
+[00:23:046.90 --> 00:23:052.56] [Roan]  Dus ze lijken allemaal een beetje op elkaar, dus vandaar dat die 4119 uiteindelijk is besloten.
+[00:23:053.54 --> 00:24:000.30] [Roan]  Oké, is het dan ook nu duidelijk wat dus de minder belangrijke informatie was die weergegeven was?
+[00:24:002.10 --> 00:24:006.90] [Ermo]  Ja, dat is wat in die bovenste lijnen staat, toch?
+[00:24:007.13 --> 00:24:012.65] [Roan]  Ja, ja, precies. Dus die dunnere lijnen zijn eigenlijk de minder belangrijke informatie.
+[00:24:014.07 --> 00:24:021.41] [Roan]  Oké, dus met een beetje uitleg is het wel duidelijk, maar direct is het lastig om te begrijpen.
+[00:24:013.39 --> 00:24:013.59] [Ermo]  Ja.
+[00:24:021.72 --> 00:24:023.80] [Ermo]  Je moet hier gewoon mee gaan werken.
+[00:24:024.93 --> 00:24:024.93] [Ermo]  En dan wordt het vanzelf duidelijker.
+[00:24:025.52 --> 00:24:027.24] [Roan]  Oké, all right.
+[00:24:028.18 --> 00:24:035.00] [Roan]  En ja, helpt dit wel beter om te begrijpen waarom dus die verspelling is gemaakt?
+[00:24:035.24 --> 00:24:037.64] [Roan]  Voegt het nog wat toe ten opzichte van de tekst?
+[00:24:037.81 --> 00:24:039.93] [Ermo]  Nou, Roan, dit voegt alles toe.
+[00:24:040.15 --> 00:24:043.65] [Ermo]  Het is gewoon als je op een gegeven moment weet te begrijpen,
+[00:24:044.29 --> 00:24:047.29] [Ermo]  als je dit gewoon een paar keer zelf toepast in de praktijk,
+[00:24:047.53 --> 00:24:053.03] [Ermo]  en de keuze die het systeem maakt.
+[00:24:053.22 --> 00:24:053.42] [Ermo]  Oké.
+[00:24:053.79 --> 00:24:056.59] [Ermo]  Het komt ook overeen met de keuze die je zelf zou maken.
+[00:24:056.78 --> 00:24:057.06] [Ermo]  M-hm.
+[00:24:057.38 --> 00:25:002.05] [Ermo]  En dan ga je op een gegeven moment niet eens meer de geschreven tekst kijken,
+[00:25:002.16 --> 00:25:003.70] [Ermo]  dan kijk je alleen nog maar naar deze diagram.
+[00:25:004.44 --> 00:25:009.77] [Ermo]  Dus het heeft misschien iets van een leercurve nodig, Rowen, maar dan is het dat ook.
+[00:25:010.16 --> 00:25:013.90] [Ermo]  Dus waarschijnlijk, ik ben zelf ook heel grafisch...
+[00:25:010.13 --> 00:25:010.35] [Ermo]  Ja.
+[00:25:015.15 --> 00:25:021.49] [Ermo]  ingesteld. Voor mij is het dan gewoon even checken van oké, waarom heeft hij die keuze
+[00:25:021.49 --> 00:25:024.09] [Ermo]  gemaakt. Nou ja, dat is die onderste lijn. En dan is het voor mij al oké.
+[00:25:025.54 --> 00:25:029.98] [Roan]  Ja, ja, dus dan zou je heel snel kunnen checken van wat zijn inderdaad de belangrijkste paden
+[00:25:029.98 --> 00:25:033.84] [Roan]  en komt dat een beetje overheen met wat een logische uitleg zou zijn en dan kun je eigenlijk
+[00:25:033.84 --> 00:25:035.90] [Roan]  meteen al ermee doorgaan.
+[00:25:035.83 --> 00:25:036.23] [Ermo]  Ja, precies.
+[00:25:036.42 --> 00:25:038.70] [Roan]  Oké, nee duidelijk.
+[00:25:040.12 --> 00:25:044.92] [Roan]  Ja, en dat zou dan dus ook nog steeds helpen met het maken van een beslissing en sterker
+[00:25:044.92 --> 00:25:047.52] [Roan]  nog, dat zou het sneller kunnen maken.
+[00:25:047.25 --> 00:25:049.73] [Ermo]  Dat zou het sneller maken, inderdaad.
+[00:25:050.04 --> 00:25:050.06] [Ermo]  Voor mij wel, ja.
+[00:25:051.51 --> 00:25:053.13] [Roan]  Oké, ehm...
+[00:25:053.77 --> 00:25:055.17] [Roan]  Ja, nee, eh... Duidelijk.
+[00:25:055.27 --> 00:26:000.83] [Roan]  En dit zou wel echt wat toevoegen ten opzichte van gewoon een betrouwbaar model dat alleen een voorspelling geeft.
+[00:26:000.93 --> 00:26:002.17] [Roan]  Dus alleen zegt deze twee.
+[00:26:002.29 --> 00:26:007.97] [Roan]  Het is dan wel fijn om nog dus te kunnen kijken wat, zeg maar, de achterliggende gedachte daarvoor was.
+[00:26:009.29 --> 00:26:011.83] [Ermo]  Nou ja, daar hebben we het net ook over gehad, Roan.
+[00:26:012.51 --> 00:26:016.27] [Ermo]  Eigenlijk hoeft dat van mij niet, als het model gewoon doet wat hij doet.
+[00:26:016.44 --> 00:26:016.62] [Ermo]  Mhm.
+[00:26:017.45 --> 00:26:022.31] [Ermo]  Waar we het net ook over gehad hadden, dan vertrouw ik daar gewoon op.
+[00:26:022.41 --> 00:26:024.25] [Ermo]  Dan is dat voor mij oké.
+[00:26:024.63 --> 00:26:029.29] [Roan]  Maar dus ook als het in één oogopslag te verifiëren valt, als het model goed genoeg is,
+[00:26:029.41 --> 00:26:033.21] [Roan]  dan is dat eigenlijk een beetje, dan is het makkelijker om gewoon het model te vertrouwen.
+[00:26:034.67 --> 00:26:035.31] [Ermo]  Ja, zeker.
+[00:26:038.31 --> 00:26:038.69] [Roan]  Duidelijk.
+[00:26:040.76 --> 00:26:047.34] [Roan]  Ja, en hier, zou hier het nog handig zijn om extra informatie toe te voegen of juist weg te halen?
+[00:26:047.48 --> 00:26:054.50] [Roan]  Want het is hier bijvoorbeeld die vacature-text staat, of de vacature staat erbij en de cv-text staat er nu bij.
+[00:26:055.04 --> 00:26:058.74] [Roan]  En bijvoorbeeld dus ook wat informatie die dus eigenlijk minder belangrijk was.
+[00:26:059.48 --> 00:27:003.46] [Roan]  Zou dat misschien handig zijn om weg te halen of juist iets toe te voegen?
+[00:27:006.83 --> 00:27:008.55] [Ermo]  Ja, ik zit daar even over te dubben.
+[00:27:010.63 --> 00:27:015.45] [Roan]  Ik denk dus in ieder geval een tekst die uitlegt hoe de graaf gelezen moet worden, dat dat handig is.
+[00:27:016.51 --> 00:27:016.65] [Roan]  Ja.
+[00:27:016.77 --> 00:27:019.07] [Roan]  Ja, gewoon die oorspronkelijke uitleg dus eigenlijk.
+[00:27:019.21 --> 00:27:019.93] [Roan]  Nee, dat is ook zo.
+[00:27:020.00 --> 00:27:026.32] [Ermo]  Maar nogmaals, zeg, op een gegeven moment weet je dat, en dan heb je dat gekeken, en dan hoeft dat ook niet meer.
+[00:27:027.26 --> 00:27:033.80] [Ermo]  En dan is het misschien zelfs inderdaad alleen maar de dikke pijl is, de dikke pijlen zijn misschien al voldoende.
+[00:27:034.42 --> 00:27:045.42] [Ermo]  Dus die route die dan minder daartoe leidt, of met die extra informatie, dus dat is die bovenste kleine, is misschien dan ook niet eens meer nodig.
+[00:27:046.02 --> 00:27:054.10] [Roan]  Dus dan zou het alleen het belangrijkste pad eigenlijk, of als er twee paden zijn die ongeveer even belangrijk zijn geweest,
+[00:27:054.56 --> 00:28:000.26] [Roan]  maar als er in dit geval dus bijvoorbeeld echt een grote winnaar is, dan is het wel alleen die...
+[00:27:058.99 --> 00:28:003.51] [Ermo]  Dan is alleen de grote winnaar inderdaad relevant.
+[00:28:005.02 --> 00:28:005.20] [Ermo]  Klopt.
+[00:28:006.26 --> 00:28:011.70] [Roan]  En bijvoorbeeld die tekst, dus dat je weet wat voor type verbinding het is, dus in dit
+[00:28:011.70 --> 00:28:016.24] [Roan]  geval is vervuld door en dus heeft subtype, voegt dat nog wat toe of zou eigenlijk alleen
+[00:28:016.24 --> 00:28:018.58] [Roan]  dat pad al voldoende zijn?
+[00:28:019.04 --> 00:28:024.10] [Ermo]  Nou ja, ik kon het sowieso niet lezen, maar ik denk dat dat niet hoeft, nee.
+[00:28:024.18 --> 00:28:025.70] [Ermo]  Ik denk dat dat puur om het pad gaat.
+[00:28:025.92 --> 00:28:029.46] [Ermo]  Is vervuld door waarde 6.667, ja, weet je.
+[00:28:030.34 --> 00:28:031.48] [Ermo]  Van mijn gestolen worden.
+[00:28:031.68 --> 00:28:032.88] [Roan]  Oké, nee, duidelijk.
+[00:28:034.66 --> 00:28:037.16] [Roan]  Oké, ja, nee, prima.
+[00:28:039.18 --> 00:28:048.26] [Roan]  En het was dus wel op eerste oogopslag inderdaad duidelijk wat in de graaf tussen de doelfacultuur en de doelkandidaat, waar het om ging.
+[00:28:048.76 --> 00:28:053.54] [Roan]  Want je zei inderdaad al van die kandidaat helemaal rechts is degene waar het uiteindelijk om gaat.
+[00:28:054.14 --> 00:28:057.46] [Roan]  Was dat direct duidelijk of was dat omdat je dat nog niet herinnerde vanuit de tekst?
+[00:28:056.51 --> 00:28:059.98] [Ermo]  Ja, daar ging ik vanuit, ja. Dus dat was wel duidelijk.
+[00:29:000.20 --> 00:29:005.74] [Ermo]  Dus dat was... Ja, natuurlijk wist ik het niet zeker, want ik zie het ding voor het eerst,
+[00:29:005.90 --> 00:29:007.61] [Ermo]  maar ik ging er wel vanuit, ja.
+[00:29:005.80 --> 00:29:006.00] [Ermo]  M-hm.
+[00:29:007.84 --> 00:29:012.16] [Roan]  Maar het zou dan misschien wel handig zijn om die bijvoorbeeld een ander vormpje of een
+[00:29:012.16 --> 00:29:014.64] [Roan]  ander kleurtje te geven dat het direct duidelijk is.
+[00:29:014.54 --> 00:29:020.84] [Ermo]  Ja, of gekozen kandidaat of zo, of aan te bevelen kandidaat, weet ik veel.
+[00:29:020.94 --> 00:29:028.18] [Roan]  Ja, oké, duidelijk. Het is niet per se nodig, maar het zorgt er dan wel voor dat er geen twijfel over mogelijk is.
+[00:29:028.69 --> 00:29:029.09] [Ermo]  Oké.
+[00:29:029.09 --> 00:29:035.41] [Ermo]  Nee, dus ik zat te kijken hoe zit het dan met die andere twee kandidaten, maar die vallen dus af.
+[00:29:035.67 --> 00:29:038.61] [Ermo]  Ergens in de race zeg maar. Daar is een relatie mee en that's it.
+[00:29:038.74 --> 00:29:044.86] [Roan]  Ja, dat kan dus hartstikke veel dingen kunnen de reden voor zijn, maar die zijn dus uiteindelijk niet verkozen.
+[00:29:045.62 --> 00:29:045.74] [Ermo]  Nee.
+[00:29:046.38 --> 00:29:046.76] [Ermo]  Oké.
+[00:29:047.52 --> 00:29:052.64] [Roan]  En ja, dat is dan op zich, als het model inderdaad heeft gezegd, ja, die zijn niet voldoende,
+[00:29:052.74 --> 00:29:055.00] [Roan]  dan is gewoon die informatie genoeg.
+[00:29:055.08 --> 00:30:001.48] [Roan]  Het is dan niet nog nodig om een uitleg te genereren waarom bijvoorbeeld kandidaat 3726 niet gekozen is.
+[00:30:001.93 --> 00:30:004.29] [Ermo]  Nee, nee, nee, dat hoeft eigenlijk niet, precies.
+[00:30:004.99 --> 00:30:011.45] [Roan]  Oké, alright, dan kunnen we door naar de laatste, dus die staafdiagram onderaan.
+[00:30:012.33 --> 00:30:014.23] [Ermo]  Oh ja.
+[00:30:014.89 --> 00:30:023.17] [Roan]  Ja, hier heb je dus een staafdiagram van alle verschillende kandidaten en de bijgelegen vacatures en dat soort dingen.
+[00:30:023.91 --> 00:30:028.33] [Roan]  En eigenlijk hoe belangrijk die uiteindelijk zijn geweest voor de vacature.
+[00:30:030.13 --> 00:30:040.41] [Roan]  Dus ja, hieruit valt er goed op te maken welke dus daadwerkelijk het belangrijkste zijn geweest voor de voorspelling.
+[00:30:044.18 --> 00:30:051.58] [Ermo]  Even kijken, dus de vacatures, dus de belangrijkheid, ja die gaat naar 10, dus dan zijn het de onderste 4.
+[00:30:053.12 --> 00:30:058.46] [Ermo]  Even kijken, en daar zie je inderdaad de belangrijkheid tussen de vacatures.
+[00:30:058.96 --> 00:31:001.32] [Ermo]  Twee vacatures en twee kandidaten.
+[00:30:058.81 --> 00:30:058.99] [Ermo]  Mhm.
+[00:31:002.68 --> 00:31:005.20] [Ermo]  Dus dat is wat ik lees.
+[00:31:006.36 --> 00:31:012.20] [Roan]  Ja, nee, dat geeft dus inderdaad aan dat die het belangrijkst waren voor de voorspelling.
+[00:31:014.10 --> 00:31:018.08] [Roan]  Maar ja, nee, dat was eigenlijk ook al een beetje terug te zien in die graaf, toch?
+[00:31:018.10 --> 00:31:020.86] [Roan]  Want dat was waar dat pad doorheen liep.
+[00:31:021.04 --> 00:31:021.74] [Ermo]  Ja, precies.
+[00:31:022.46 --> 00:31:029.88] [Roan]  Ja, maar denk je dus dat dit ten opzichte van de graaf nog iets van een voordeel kan hebben?
+[00:31:029.88 --> 00:31:036.32] [Roan]  Omdat dit misschien wat makkelijker is, omdat hier niet al die lijnen staan en zo?
+[00:31:036.74 --> 00:31:041.42] [Roan]  Of denk je dat met alleen de graaf eigenlijk alle informatie al duidelijk genoeg zou zijn?
+[00:31:043.97 --> 00:31:048.75] [Ermo]  Ja, want ik moet nu even zelf nadenken.
+[00:31:048.98 --> 00:31:049.30] [Roan]  Uhu.
+[00:31:049.49 --> 00:32:000.61] [Ermo]  van om welke vacature het nu alweer ging. Volgens mij ging het om de vacature 157652, hè?
+[00:32:001.40 --> 00:32:018.52] [Roan]  Nee, volgens mij, als je omhoog scrolt, daar, 1, 4, 7, 5, 4, 2, dus de vacature die aanbevolen is en de kandidaat die aanbevolen is, die staan niet tussen het lijstje, omdat die natuurlijk, ja, eigenlijk zeg maar het allerbelangrijkste zijn altijd, en dat zijn degenen waar het om draait.
+[00:32:017.48 --> 00:32:018.53] [Ermo]  Dat zijn degenen waar het om draait.
+[00:32:021.27 --> 00:32:025.53] [Ermo]  Oké, nee dan is dit verwarrend Roan, het is zelfs verwarrend.
+[00:32:025.50 --> 00:32:030.14] [Roan]  Oké, ja, dat hebben we ook al uit de andere interviews, kwam dat een beetje naar voren.
+[00:32:030.53 --> 00:32:034.53] [Ermo]  Ja, nu begrijp ik het. Oké, dus je kijkt even naar de rest dingen.
+[00:32:034.78 --> 00:32:035.02] [Roan]  M-hm.
+[00:32:035.39 --> 00:32:040.37] [Ermo]  Dat zie je dus dat er inderdaad twee kandidaten en twee vacutures ook heel belangrijk zijn
+[00:32:040.37 --> 00:32:041.31] [Ermo]  in dit verhaal.
+[00:32:041.45 --> 00:32:044.99] [Ermo]  Dus in je verhaal die je wilt vertellen en waarom je dan de match hebt gekozen tussen
+[00:32:044.99 --> 00:32:045.73] [Ermo]  die andere twee.
+[00:32:046.05 --> 00:32:050.29] [Ermo]  Dus dat begrijp ik nu, maar je moest me wel helpen.
+[00:32:050.29 --> 00:32:053.51] [Ermo]  Ja, oké, dat zetten we even op de verkeerde been.
+[00:32:045.92 --> 00:32:046.04] [Ermo]  Oké.
+[00:32:050.14 --> 00:32:051.66] [Roan]  Ja, oké, dat is...
+[00:32:051.66 --> 00:32:053.46] [Ermo]  Het zette me een beetje op het verkeerde been.
+[00:32:053.84 --> 00:32:055.16] [Roan]  Ja, oké.
+[00:32:054.44 --> 00:32:054.78] [Ermo]  Oké.
+[00:32:055.19 --> 00:32:059.41] [Ermo]  En die andere aspecten, die zijn dus veel minder van belang.
+[00:32:059.97 --> 00:33:003.93] [Ermo]  Nou ja, weet je, Roan, als jij zelf dit staafdiagrammetje maakt,
+[00:33:004.69 --> 00:33:008.41] [Ermo]  en je kijkt naar die andere vacatures en ook die gele dingen,
+[00:33:009.13 --> 00:33:012.33] [Ermo]  dan kun je eigenlijk al constateren dat je dat kleine lijntje,
+[00:33:012.39 --> 00:33:015.21] [Ermo]  dat bovenste lijntje in die stroomdiagram,
+[00:33:015.73 --> 00:33:017.89] [Ermo]  niet meer hoeft te maken, want dan is het toch weer niet belangrijk.
+[00:33:018.20 --> 00:33:021.08] [Roan]  Ja, klopt. Die doen er inderdaad niet heel erg...
+[00:33:021.69 --> 00:33:027.97] [Ermo]  Ja, precies. Dus als je dit al ziet, dan zie je dat die dikke lijn waar wel die andere vacatures
+[00:33:027.97 --> 00:33:034.17] [Ermo]  en kandidaten staan, dat is die onderste lijn, dat is wel belangrijk, want die gaan boven de zes.
+[00:33:034.45 --> 00:33:034.49] [Ermo]  Ja.
+[00:33:034.75 --> 00:33:037.75] [Ermo]  En die gaan ook in die onderste lijn, zeg maar.
+[00:33:038.43 --> 00:33:039.76] [Roan]  Die graaf, ja.
+[00:33:039.82 --> 00:33:041.26] [Ermo]  Ja, die staan in die graaf, en...
+[00:33:042.20 --> 00:33:048.38] [Ermo]  Dus ja, in principe is dit overbodig, voor mij zou dit overbodig informatie zijn.
+[00:33:048.44 --> 00:33:054.14] [Roan]  Oké, ja, en dan als we naar de simpele weergave, die aggregated...
+[00:33:054.04 --> 00:33:056.24] [Ermo]  Zij staat gewoon al in de...
+[00:33:056.56 --> 00:33:057.66] [Ermo]  Ja, ik zie het.
+[00:33:057.78 --> 00:34:003.92] [Roan]  En hier geeft u dus eigenlijk een beetje hetzelfde neer, dus weer dat soortgelijke vacatures het
+[00:34:003.92 --> 00:34:009.16] [Roan]  meest belangrijk waren en kandidaten ook best wel, maar dat de vacature type dat er niet
+[00:34:009.16 --> 00:34:009.42] [Roan]  zo veel...
+[00:34:009.42 --> 00:34:011.48] [Ermo]  Ja, en niet zo toe deed, ja, precies.
+[00:34:011.54 --> 00:34:015.12] [Roan]  Maar dat is, ja, dus wat je zegt, ten opzichte van die graaf voelt het niet heel voltoet.
+[00:34:009.40 --> 00:34:009.78] [Roan]  En niet...
+[00:34:012.98 --> 00:34:016.80] [Ermo]  Ja, dit is, eh, wat je nu laat zien, Roan, oké.
+[00:34:016.89 --> 00:34:020.57] [Roan]  Dit voegt nog een beetje toe?
+[00:34:020.88 --> 00:34:021.24] [Ermo]  Ja, ja, ja.
+[00:34:021.55 --> 00:34:026.83] [Roan]  Maar die uitgebreide versie, die kan eigenlijk achterwege blijven.
+[00:34:027.15 --> 00:34:027.98] [Erma]  Nee, ja.
+[00:34:028.61 --> 00:34:037.53] [Roan]  Allright, ja, en dit zou dus dan ook, nou dit misschien een beetje, maar die uitgebreide weergave, dat zou ook niet meehelpen met het maken van een beslissing ofzo,
+[00:34:037.59 --> 00:34:043.77] [Roan]  dan zou je eigenlijk gewoon terug gaan naar die grafische weergave om daar zelf naar te kijken.
+[00:34:044.08 --> 00:34:044.80] [Ermo]  Precies, ja, precies.
+[00:34:046.71 --> 00:34:052.39] [Roan]  Oké, ja nee duidelijk. En als we weer even terug gaan naar de uitgebreide weergave?
+[00:34:056.76 --> 00:35:003.34] [Roan]  Ja, als hier een soort, ja hoe zeg je dat, een soort hub van zou gemaakt kunnen worden,
+[00:35:003.46 --> 00:35:007.98] [Roan]  dus dat die vacatures die dus onderaan als erg belangrijk zijn gegeven,
+[00:35:008.46 --> 00:35:012.24] [Roan]  dat je daar op zou klikken en dan zou kunnen zien bijvoorbeeld dat was deze vacature,
+[00:35:012.34 --> 00:35:015.96] [Roan]  zodat je kan zien, oh dat lijkt op de huidige vacature ofzo.
+[00:35:016.84 --> 00:35:020.44] [Roan]  Zou dat nog iets toevoegen of zou dat eigenlijk ook alleen maar overbodige informatie zijn?
+[00:35:020.07 --> 00:35:023.55] [Ermo]  Nou, dat is, nee, daar zeg je wel een goed dingetje.
+[00:35:025.09 --> 00:35:037.36] [Roan]  Oké, dus dat je vanaf hier, mocht je zelf nog extra willen kijken en verifiëren, dat het hier het centrum voor de onderdelen is.
+[00:35:037.25 --> 00:35:041.57] [Ermo]  Ja, dat zou hier goed zijn, want dan kun je toch nog even vergelijken.
+[00:35:041.71 --> 00:35:041.91] [Roan]  Mhm.
+[00:35:042.77 --> 00:35:045.49] [Ermo]  Nou ja, even op de kandidaat en ook op de vacature.
+[00:35:045.75 --> 00:35:047.69] [Ermo]  Dus, hè, waar zij dan.
+[00:35:047.81 --> 00:35:049.15] [Ermo]  Ja, nee, dat ben ik met je eens.
+[00:35:049.75 --> 00:35:052.17] [Ermo]  Maar misschien zit het wel dicht bij elkaar of zo, weet je.
+[00:35:052.31 --> 00:35:054.89] [Ermo]  Dus je kunt jezelf ook een inschatting doen.
+[00:35:055.73 --> 00:36:000.99] [Ermo]  En een beetje verifiëren of het model inderdaad...
+[00:36:000.99 --> 00:36:001.47] [Ermo]  Nou ja.
+[00:35:055.09 --> 00:35:055.29] [Ermo]  Ja.
+[00:36:003.04 --> 00:36:007.46] [Roan]  Ja, want ook als het 99% van de tijd goed is, is het die 1%...
+[00:36:007.42 --> 00:36:009.62] [Ermo]  Een vorm van double checking is het, inderdaad.
+[00:36:010.06 --> 00:36:011.64] [Ermo]  Dus hierbij zou ik zeggen ja.
+[00:36:008.98 --> 00:36:009.20] [Roan]  Ja.
+[00:36:012.63 --> 00:36:017.83] [Roan]  Oké, en ja, dan in dit geval is het dus fijn dat je dan direct kan zien, nou die onderste
+[00:36:017.83 --> 00:36:021.47] [Roan]  vier dingen zijn belangrijk en de rest kan ik eigenlijk compleet negeren.
+[00:36:021.57 --> 00:36:021.69] [Roan]  Ja.
+[00:36:022.26 --> 00:36:023.18] [Ermo]  Ja, eigenlijk wel.
+[00:36:023.34 --> 00:36:024.78] [Roan]  Ja, oké.
+[00:36:025.64 --> 00:36:027.36] [Roan]  Ja, nee, dat is dan een...
+[00:36:027.27 --> 00:36:031.95] [Ermo]  Ja, want ook als je dan naar de totale weergave gaat, dus je zal waarschijnlijk starten met
+[00:36:031.95 --> 00:36:035.37] [Ermo]  de simpele weergave, dan kun je al kiezen.
+[00:36:035.47 --> 00:36:038.53] [Ermo]  Dan denk je van, nou het ligt misschien aan de vacatures.
+[00:36:038.81 --> 00:36:042.93] [Ermo]  Dus dan ga je daar op klikken en dan kom je zeg maar op die...
+[00:36:042.93 --> 00:36:044.61] [Ermo]  Sorry, ik ben...
+[00:36:045.58 --> 00:36:050.76] [Ermo]  Dan kom je op die simpele weer van de graaf en dan kom je dus op beide vacatures en dan
+[00:36:050.76 --> 00:36:052.08] [Ermo]  kun je gewoon eens checken.
+[00:36:052.26 --> 00:36:054.70] [Ermo]  Dat is wat het systeem zegt, dat is het belangrijkste.
+[00:36:055.72 --> 00:36:058.24] [Ermo]  Nou, en dan heb je daar een check.
+[00:36:058.34 --> 00:37:001.18] [Roan]  Ja, maar dat is dus meer dan de uitzondering, dan de regel.
+[00:37:001.38 --> 00:37:005.58] [Roan]  Dat is gewoon een beetje in een soort twijfelgeval, zou dat nog handig kunnen zijn.
+[00:37:006.42 --> 00:37:006.68] [Ermo]  Ja, precies.
+[00:37:007.32 --> 00:37:011.70] [Roan]  Oké, ja, nee, dat waren de vragen eigenlijk.
+[00:37:012.44 --> 00:37:013.92] [Roan]  Dus, ja, hartstikke...
+[00:37:013.93 --> 00:37:019.35] [Ermo]  Ik ben benieuwd wat dit wordt, of dit echt een soort van beslissingstool gaat worden
+[00:37:019.35 --> 00:37:021.69] [Ermo]  voor onze vacature, dus dat zou mooi zijn.
+[00:37:023.34 --> 00:37:025.92] [Roan]  Uiteindelijk hopelijk wel inderdaad.s

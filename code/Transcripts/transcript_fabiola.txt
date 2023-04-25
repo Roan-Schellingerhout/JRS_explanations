@@ -1,0 +1,455 @@
+[00:03:021.67 --> 00:03:029.77] [Roan]  Ja, oké, ja nee, het is dus aan de hand van een voorspelling is er dus een uitleg gegenereerd door dat model.
+[00:03:030.73 --> 00:03:043.91] [Roan]  En het gaat er eigenlijk om of die uitleg logisch en duidelijk is voor recruiters en ook voor kandidaten en bedrijven die dan uiteindelijk dus gebruik moeten maken van die voorspelling.
+[00:03:044.79 --> 00:03:045.23] [Fabiola]  Dit?
+[00:03:045.67 --> 00:03:048.11] [Roan]  Ja, dit en ook die andere twee vormen ervan.
+[00:03:049.11 --> 00:03:059.53] [Roan]  Dus ja, het is nu telkens een kwestie van kijken naar het type uitleg en dan aan de hand van die uitleg ga ik wat vragen stellen om te kijken hoe ze verbeterd kunnen worden en dat soort dingen.
+[00:04:000.55 --> 00:04:008.65] [Roan]  Dus voor nu, ja, kun je dit even doorlezen en dan zodra je daarmee klaar bent dan zal ik wat vragen stellen.
+[00:04:055.85 --> 00:04:056.38] [Fabiola]  Oké, ja.
+[00:04:057.05 --> 00:05:001.49] [Roan]  Allright, dit is dus de kandidaat gerichte uitleg.
+[00:05:002.79 --> 00:05:009.07] [Roan]  En omdat het natuurlijk, ja, de uitleg die je aan een kandidaat presenteert is niet per se dezelfde die voor een bedrijf nuttig is,
+[00:05:009.15 --> 00:05:011.75] [Roan]  want sommige dingen zijn relevanter voor de een en de ander.
+[00:05:012.41 --> 00:05:015.81] [Roan]  Dus rechtsboven is er ook nog de knop om te switchen naar de bedrijfsweergave.
+[00:05:016.71 --> 00:05:021.89] [Roan]  Dus als je daarop klikt, dan krijg je dus een andere uitleg voor dezelfde match eigenlijk.
+[00:05:023.79 --> 00:05:029.55] [Roan]  Dus ja, die hoef je niet per se door te lezen, maar als je wil kun je die ook nog even bekijken.
+[00:05:001.49 --> 00:05:001.75] [Fabiola]  Hmm.
+[00:05:009.71 --> 00:05:009.91] [Fabiola]  Oké.
+[00:05:012.39 --> 00:05:012.91] [Fabiola]  Ja, dus rechtsboven.
+[00:05:030.90 --> 00:05:032.32] [Fabiola]  Dat zijn dus andere kandidaten?
+[00:05:032.62 --> 00:05:037.72] [Roan]  Nee, nee, het is dezelfde kandidaat, maar dan de uitleg van de kant van het bedrijf.
+[00:05:038.18 --> 00:05:041.30] [Roan]  Dus het is nog steeds dezelfde persoon en vacature waar het om gaat,
+[00:05:041.44 --> 00:05:044.04] [Roan]  maar dit zou dan een uitleg zijn die je kan presenteren aan het bedrijf
+[00:05:044.04 --> 00:05:046.04] [Roan]  over waarom de kandidaat juist een goede match is.
+[00:06:000.55 --> 00:06:001.03] [Fabiola]  Oké.
+[00:06:001.73 --> 00:06:002.13] [Roan]  All right.
+[00:06:003.97 --> 00:06:006.65] [Roan]  Ja, voor nu maar even op de kandidaat gerichte.
+[00:06:008.03 --> 00:06:012.47] [Roan]  Ja, dus dan is nu als eerste hierover de vraag.
+[00:06:013.07 --> 00:06:019.59] [Roan]  Welke informatie of kenmerken denk je dat het belangrijkste waren voor het model om deze
+[00:06:019.59 --> 00:06:020.85] [Roan]  voorspelling gemaakt te hebben?
+[00:06:020.93 --> 00:06:024.13] [Roan]  Dus wat was de kern van de voorspelling?
+[00:06:026.91 --> 00:06:028.35] [Fabiola]  De kern van de voorspelling.
+[00:06:028.75 --> 00:06:028.95] [Roan]  Mhm.
+[00:06:037.05 --> 00:06:040.27] [Fabiola]  Dat... Moet je even iets... Waar wil je naartoe?
+[00:06:040.78 --> 00:06:044.72] [Roan]  Er staat hier dus een uitgebreide uitleg met verschillende dingen.
+[00:06:045.94 --> 00:06:048.58] [Roan]  En wat is dus eigenlijk het idee achter die uitleg?
+[00:06:048.78 --> 00:06:051.62] [Roan]  Dus wat is nou concreet de reden dat het model heeft gezegd
+[00:06:051.62 --> 00:06:057.16] [Roan]  die kandidaat 4-1-1-9 is een goede match voor vacature 1-4-7-5-4-2?
+[00:06:057.52 --> 00:07:011.34] [Fabiola]  Ja, omdat de verbinding, of hetgeen wat overeenkomt met de kandidaat 4-1-1-9, eigenlijk allemaal terugkomt in vacature 1 via 7-5-4-2.
+[00:07:011.88 --> 00:07:021.26] [Fabiola]  Dus hij heeft veel meer dezelfde kernwoorden die naar voren komen en daardoor een goede match heeft.
+[00:07:021.26 --> 00:07:028.96] [Fabiola]  Dus ik zeg maar dat als hij 10 kenmerken heeft, de kandidaat in de vacature heeft er in totaal 20, dan heeft hij 50% match.
+[00:07:029.16 --> 00:07:036.22] [Fabiola]  En hier lijkt het erop dat hij ik ga er vanuit, een 80% match heeft, zo komt het in ieder geval over, de beste verbinding.
+[00:07:036.99 --> 00:07:041.87] [Roan]  Oké, en wat zijn dan inderdaad die kernwoorden als je kijkt naar de uitleg die gepresenteerd wordt,
+[00:07:042.05 --> 00:07:044.61] [Roan]  dus ja, de specifieke dingen?
+[00:07:045.29 --> 00:07:059.53] [Fabiola]  Nou, in ieder geval dat hij belangrijkheid van relaties, dus hij gaat kijken naar de relaties tussen de vacatures en kandidaten,
+[00:07:059.67 --> 00:08:001.39] [Fabiola]  maar ook tussen de relaties zelf.
+[00:08:002.11 --> 00:08:007.53] [Fabiola]  En administratief medewerker vindt hij dus, komt veel naar voren, vindt hij top.
+[00:08:007.55 --> 00:08:007.91] [Roan]  Uhu.
+[00:08:013.67 --> 00:08:019.15] [Fabiola]  En assistenten, uhh..., secretaresserol, en assistenten.
+[00:08:019.75 --> 00:08:023.49] [Roan]  Oké, dus die dingen, inderdaad, dat is waar die vooral...
+[00:08:023.95 --> 00:08:029.35] [Fabiola]  En niet omdat ze gemarkeerd zijn, maar dat is waar je constant over terug blijft lezen.
+[00:08:029.45 --> 00:08:036.38] [Roan]  Ja, dat is inderdaad een beetje een check om te kijken of het inderdaad niet vanaf het begin al onduidelijk is waar het over gaat.
+[00:08:036.48 --> 00:08:044.05] [Roan]  Maar nee, dat klopt inderdaad. Het is vooral die verbinding met administratief medewerker, secretaresse en assistent inderdaad.
+[00:08:046.24 --> 00:08:050.74] [Roan]  Oké, en ja, dat zijn dus inderdaad de kenmerken waarop gelet zijn.
+[00:08:050.91 --> 00:08:056.84] [Roan]  Helpt dat ook met begrijpen waarom het systeem specifiek deze match heeft voorspeld?
+[00:08:057.82 --> 00:09:000.56] [Fabiola]  Nee, want er wordt natuurlijk vrij weinig...
+[00:09:000.56 --> 00:09:002.70] [Fabiola]  Ja, goed.
+[00:09:004.48 --> 00:09:008.02] [Fabiola]  Er wordt vrij weinig verteld over de kandidaat zelf.
+[00:09:008.35 --> 00:09:008.57] [Roan]  Mhm.
+[00:09:009.82 --> 00:09:012.58] [Fabiola]  En er wordt vrij weinig verteld over de vacature zelf.
+[00:09:013.01 --> 00:09:016.65] [Roan]  Oké, ja, dus het geeft wel de verbinding weer, maar niet de dingen zelf.
+[00:09:016.87 --> 00:09:019.69] [Fabiola]  Ja, je zegt wel dat het een goede match is, nou daar ga ik er wel van uit.
+[00:09:020.33 --> 00:09:027.15] [Fabiola]  Jij zegt dat je bordjes een goede match zijn, want een verbinding van rol van de secretarisse
+[00:09:027.15 --> 00:09:030.07] [Fabiola]  vindt die belangrijk en dat, oké, daar moet je dan op geloven.
+[00:09:030.45 --> 00:09:033.37] [Fabiola]  Maar ik weet helemaal niks van de vacature, of van de kandidaat.
+[00:09:033.74 --> 00:09:038.72] [Roan]  Oké, dus dan zou het in dit geval handig zijn als je bijvoorbeeld over dat kandidaat 4119 hovert,
+[00:09:038.77 --> 00:09:042.25] [Roan]  dat je dan die persoonse cv ziet, iets in die geest.
+[00:09:042.51 --> 00:09:046.73] [Fabiola]  Ja, ja, en dan misschien de vacature, want dan zie je ook van, oh ja, hij heeft gelijk.
+[00:09:046.80 --> 00:09:051.64] [Roan]  Ja, ja, precies, dus dat je het zelf nog kan double-checken of je het er inderdaad mee eens bent.
+[00:09:053.34 --> 00:09:055.28] [Roan]  Oké, ja, nee, duidelijk.
+[00:09:057.08 --> 00:10:004.00] [Roan]  Ja, en, even kijken, ja, er is ook rechtsboven de simpele weergave.
+[00:09:052.24 --> 00:09:052.52] [Fabiola]  Mhm.
+[00:10:006.17 --> 00:10:012.35] [Roan]  Ja, hier staat iets minder informatie in, ook niet de informatie over de kandidaat en de vacature zelf.
+[00:10:013.07 --> 00:10:018.81] [Roan]  Maar als je hier naar kijkt, wat dus een wat beknoptere uitleg is, komt daar ongeveer dezelfde informatie uit naar voren.
+[00:10:019.75 --> 00:10:025.41] [Fabiola]  Ja, want dit vond ik nogal veel hetzelfde, hetzelfde, hetzelfde.
+[00:10:025.41 --> 00:10:025.63] [Fabiola]  Ja.
+[00:10:025.65 --> 00:10:026.19] [Fabiola]  Heb je ook bedoeld?
+[00:10:025.44 --> 00:10:027.56] [Roan]  Ja, dat was nogal veel herhaling.
+[00:10:027.41 --> 00:10:031.59] [Fabiola]  Je zegt drie keer hetzelfde, dat had ook inderdaad in drie zinnen gekund.
+[00:10:032.01 --> 00:10:035.59] [Roan]  Oké, ja, dus hier is het gewoon beknopt, anders is het medewerker...
+[00:10:034.02 --> 00:10:036.00] [Fabiola]  Omdat je alle informatie niet hebt.
+[00:10:036.54 --> 00:10:038.82] [Fabiola]  Dus dan blijf je eigenlijk iets vertellen...
+[00:10:040.54 --> 00:10:043.00] [Fabiola]  Ja, je blijft een beetje rond de pot draaien met dezelfde woorden.
+[00:10:043.88 --> 00:10:047.52] [Roan]  Ja, nee, ik snap het. Oké, nee, dat is duidelijk.
+[00:10:048.84 --> 00:10:054.32] [Roan]  En dan, ja, dan dus zonder te weten wat de kandidaat en vacature specifiek zijn,
+[00:10:054.42 --> 00:10:059.28] [Roan]  maar laten we ervan uitgaan dat dat ongeveer is wat er inderdaad aangegeven wordt.
+[00:10:059.92 --> 00:11:004.78] [Roan]  Is dan die uitleg, dus die link van administratief medewerker en assistent en secretaresse,
+[00:11:004.84 --> 00:11:010.22] [Roan]  is dat een logische uitleg? Is dat iets wat plausibel zou kunnen zijn, zeg maar?
+[00:11:010.90 --> 00:11:020.58] [Fabiola]  Ja, je had ook nog kunnen zeggen of de competenties of de gevraagde eisen komen overeen met de behaalde diploma's, ik zeg maar wat.
+[00:11:020.53 --> 00:11:020.71] [Roan]  Mhm.
+[00:11:021.45 --> 00:11:029.87] [Fabiola]  Of de woorden die in een vacature komen, komen terug in een cv of in een motivatiebrief.
+[00:11:030.03 --> 00:11:030.22] [Roan]  Mhm.
+[00:11:030.71 --> 00:11:035.23] [Roan]  Ja, zou dat dan ook bijvoorbeeld kunnen helpen dat er dan echt in een cv wordt gehighlight
+[00:11:035.23 --> 00:11:038.75] [Roan]  van op basis van deze zin iets in die geest, oké?
+[00:11:037.17 --> 00:11:042.13] [Fabiola]  Ja, ik denk wel. Nu ga je er heel erg vanuit.
+[00:11:039.77 --> 00:11:039.83] [Roan]  Ja.
+[00:11:044.09 --> 00:11:044.31] [Fabiola]  Ja.
+[00:11:045.56 --> 00:11:047.36] [Roan]  Ja, gewoon vertrouwen eigenlijk in het model.
+[00:11:047.84 --> 00:11:048.32] [Fabiola]  Ja, precies.
+[00:11:048.98 --> 00:11:051.44] [Roan]  Dus je kan het niet in twijfel trekken.
+[00:11:051.77 --> 00:11:054.11] [Fabiola]  Je weet niet waar het vandaan komt, laat maar zo zeggen.
+[00:11:054.47 --> 00:11:057.91] [Fabiola]  Dus het wordt je eigenlijk gezegd, dan denk je oké, ja, het wordt je gezegd.
+[00:11:058.77 --> 00:12:008.63] [Roan]  Oké, duidelijk. Is er nog iets wat misschien wat onlogisch was, behalve dan misschien inderdaad dat het een paar keer in de herhaling viel, maar iets wat verwarrend was, iets in die geest?
+[00:12:009.92 --> 00:12:018.48] [Fabiola]  Nee, ik weet niet wat het model is dat jij hebt bedacht, dus daar wordt niks over uitgelegd, maar goed, daar ga ik van uit dat dat niet nodig is in deze context.
+[00:12:018.47 --> 00:12:018.75] [Roan]  M-hm.
+[00:12:020.36 --> 00:12:022.50] [Fabiola]  Uhm, nee, voor de rest is alles heel duidelijk.
+[00:12:022.81 --> 00:12:024.11] [Roan]  Oké, nou dat is goed om te horen.
+[00:12:025.79 --> 00:12:031.93] [Roan]  Oké, zou zo een uitleg, zou dat mogelijk helpen met het maken van een beslissing om te zeggen
+[00:12:031.93 --> 00:12:035.57] [Roan]  dit is wel of geen goede match en hem dus aan te bevelen aan een kandidaat?
+[00:12:037.74 --> 00:12:039.10] [Fabiola]  Ehh, ja.
+[00:12:039.66 --> 00:12:039.86] [Roan]  Mhm.
+[00:12:040.34 --> 00:12:042.66] [Fabiola]  Ja, wij hebben zoiets gelijks namelijk ook.
+[00:12:044.42 --> 00:12:049.28] [Roan]  En dat helpt nu al in de praktijk?
+[00:12:049.42 --> 00:12:049.56] [Roan]  Ja.
+[00:12:048.55 --> 00:12:053.09] [Fabiola]  Ja, dat heet Pick Your Talent en die doet precies hetzelfde wat jij nu ook doet.
+[00:12:053.37 --> 00:12:057.65] [Fabiola]  Als ik bijvoorbeeld zoek, ik heb een vacature eigenlijk, zeg maar wat administratief medewerker,
+[00:12:057.71 --> 00:13:004.31] [Fabiola]  dus ik geef dan in de search woord administratief medewerker en dan komen dan alle mogelijke kandidaten.
+[00:13:004.45 --> 00:13:013.19] [Fabiola]  En dat kan ook omdat, dan staat er ook bij, wordt 9 keer vernoemd in het cv of wordt 2 keer vernoemd in de motivatiebrief
+[00:13:013.19 --> 00:13:015.11] [Fabiola]  en zo zie je dan waardoor het terugkomt.
+[00:13:015.11 --> 00:13:021.55] [Fabiola]  En dan kun je dat ook terugvinden inderdaad in het cv en soms is dat omdat diegene dat wil en soms heeft die dat gestudeerd.
+[00:13:021.65 --> 00:13:024.87] [Fabiola]  En als je dan belt, ja ik wil het niet meer, ik wil juist iets anders.
+[00:13:025.91 --> 00:13:028.67] [Fabiola]  Ja goed, dat is dan even natuurlijk een match.
+[00:13:028.08 --> 00:13:029.14] [Roan]  Ja, dat kan gebeuren.
+[00:13:030.13 --> 00:13:032.75] [Fabiola]  Alleen maar gemaakt door de basis van gegevens.
+[00:13:032.90 --> 00:13:033.06] [Roan]  Mhm.
+[00:13:034.10 --> 00:13:039.74] [Roan]  Oké, maar dat is dus vooral gebaseerd op de tekst specifiek in een cv en een vacature en
+[00:13:039.74 --> 00:13:041.26] [Roan]  dan dat hij daar naar kijkt.
+[00:13:041.62 --> 00:13:047.30] [Roan]  Maar zou het ook als er dan bijvoorbeeld in deze uitleg, dus ja, zou staan van deze persoon
+[00:13:047.30 --> 00:13:052.18] [Roan]  heeft deze skills of iets in die geest wat niet per se in de cv staat of niet per se in
+[00:13:052.18 --> 00:13:056.10] [Roan]  de vacature, dat het dus een soort uitbreiding is ten opzichte van wat er nu is.
+[00:13:056.22 --> 00:13:058.56] [Roan]  Zou dat ook nog kunnen helpen?
+[00:14:001.48 --> 00:14:006.04] [Fabiola]  Hoe bedoel je, dat je nog een aanvulling aan skills toevoegt?
+[00:14:006.54 --> 00:14:012.30] [Roan]  Ja, nee, dat er dus hier nog informatie staat die niet per se overeenkomt tussen de cv en de vacature,
+[00:14:012.40 --> 00:14:015.06] [Roan]  maar wel voorspeld wordt dat dat kan leiden tot een match.
+[00:14:015.12 --> 00:14:021.62] [Roan]  Dus dat er niet een een-op-een-overeenkomst is in woorden, maar dat er een soort meer indirecte link tussen dingen is.
+[00:14:022.50 --> 00:14:029.16] [Fabiola]  Dat kan, op basis van welke gegevens dan, van een telefoongesprek wat je met degene hebt gehad of van...
+[00:14:029.55 --> 00:14:042.01] [Roan]  Nou, eigenlijk allerlei data. Ik bedoel, bij die bedrijfsweergave, daar was het bijvoorbeeld van deze persoon heeft een vacature vervuld en een andere kandidaat heeft een vacature vervuld die lijkt op de andere.
+[00:14:042.13 --> 00:14:048.29] [Roan]  Dus het is een beetje van deze persoon lijkt op een andere persoon en daarom is dit een goede vacature of zoiets.
+[00:14:047.62 --> 00:14:048.76] [Fabiola]  Ja, misschien wel.
+[00:14:049.45 --> 00:14:051.29] [Roan]  Oké.
+[00:14:052.91 --> 00:14:055.79] [Fabiola]  Even erbij gelaten dat mensen veranderlijk zijn.
+[00:14:057.02 --> 00:14:059.22] [Roan]  Ja, het kan altijd veranderen inderdaad.
+[00:15:002.50 --> 00:15:009.48] [Roan]  Oké, en kijkend naar deze uitleg, zou je dan denken dat het model betrouwbaar is?
+[00:15:011.82 --> 00:15:019.34] [Fabiola]  Ja, zeker. Ik denk wel dat je dan steviger gaat bellen in de zin van, ik denk als je
+[00:15:019.34 --> 00:15:023.84] [Fabiola]  belt dat je zoiets hebt van, oh ik heb volgens mij voor 75 procent het al in de pocket.
+[00:15:024.16 --> 00:15:024.32] [Roan]  Hm-hm.
+[00:15:025.30 --> 00:15:030.50] [Roan]  Oké, dus zeker ook zo'n score, dus inderdaad het is een match van 75% ofzo, dat zou ook al...
+[00:15:031.72 --> 00:15:031.74] [Roan]  Ja, ja.
+[00:15:032.38 --> 00:15:037.00] [Roan]  Ja, oké, want dat is inderdaad, hier is dat wel berekend inderdaad, maar het staat er niet expliciet bij.
+[00:15:037.18 --> 00:15:042.56] [Roan]  Ik weet niet uit mijn hoofd wat het hier was, maar dat zou inderdaad geweest kunnen zijn van het was een match van zoveel procent.
+[00:15:043.50 --> 00:15:045.30] [Roan]  Oké, dat is ook een goeie om te weten.
+[00:15:047.24 --> 00:15:057.28] [Roan]  Ja, en als deze aanbeveling gegeven zou worden door het systeem, zou je hem dan ook dermate vertrouwen om er daadwerkelijk mee op te volgen?
+[00:15:057.40 --> 00:16:000.40] [Roan]  Dus daadwerkelijk iemand te bellen van, hé, we hebben een goede match.
+[00:16:000.54 --> 00:16:001.54] [Fabiola]  Ja, ja.
+[00:16:002.55 --> 00:16:006.57] [Fabiola]  Ik zou hem niet blind willen voorstellen, ik zou hem eerst willen spreken natuurlijk nog altijd.
+[00:16:007.13 --> 00:16:011.67] [Fabiola]  Maar ja, dus zeker degene die ik als eerste zou bellen, ja.
+[00:16:012.11 --> 00:16:021.91] [Roan]  En dan, ik neem aan dat de mogelijkheid om de vacature en de cv van zo'n persoon die dan ook nog handmatig even te kunnen verifiëren,
+[00:16:022.23 --> 00:16:024.67] [Roan]  dat dat zou helpen met hoe betrouwbaar het is.
+[00:16:025.28 --> 00:16:030.18] [Fabiola]  Ja, meer helpen in het voeren van het gesprek.
+[00:16:032.06 --> 00:16:039.30] [Roan]  Oké, dus eigenlijk zo de uitleg, alleen al omdat die redelijk logisch is, al direct best wel veel vertrouwen opwekken.
+[00:16:039.52 --> 00:16:039.68] [Fabiola]  Ja.
+[00:16:043.20 --> 00:16:043.62] [Roan]  Duidelijk.
+[00:16:044.50 --> 00:16:050.46] [Roan]  Ja, nee, dan, we hebben al een paar dingen besproken inderdaad over wat er toegevoegd zou kunnen worden aan de uitleg,
+[00:16:050.60 --> 00:16:059.65] [Roan]  maar is er verder nog iets waar je aan kan denken wat zou kunnen helpen, naast dus bijvoorbeeld die percentages en de cv en vacature makkelijk kunnen terugkrijgen?
+[00:17:005.91 --> 00:17:008.88] [Fabiola]  Nee, ik vind het ook wel fijn dat je verschillende opties hebt gegeven.
+[00:17:009.89 --> 00:17:011.49] [Fabiola]  Nee, wat dat betreft niet.
+[00:17:012.59 --> 00:17:020.22] [Roan]  Oké, en iets wat misschien een beetje overbodig aanvoelt, bijvoorbeeld die kleurtjes just help dat, of iets in die geest.
+[00:17:023.48 --> 00:17:026.26] [Fabiola]  Ja, maar daardoor lijkt het wel net of er...
+[00:17:026.26 --> 00:17:028.56] [Fabiola]  Toen ik het voor het eerst zag en het nog niet gelezen had, dacht ik
+[00:17:028.56 --> 00:17:031.90] [Fabiola]  oh mijn god, veel kandidaten hebben vakantuur, terwijl het steeds op mezelf ging.
+[00:17:032.21 --> 00:17:032.45] [Roan]  Mhm.
+[00:17:034.99 --> 00:17:038.83] [Fabiola]  Dus, vind je het zelf belangrijk dat het er staat?
+[00:17:038.93 --> 00:17:041.97] [Fabiola]  Vacature, vacature types en kandidaten?
+[00:17:042.85 --> 00:17:044.27] [Roan]  Uhm, sorry?
+[00:17:044.93 --> 00:17:047.81] [Fabiola]  Daar moet je natuurlijk misschien iets mee bewijzen.
+[00:17:048.69 --> 00:17:053.81] [Fabiola]  Want anders zou je hem voor de eerste keer kunnen benoemen, want nu lijkt er veel tekst, wel eigenlijk zegt de tekst.
+[00:17:054.28 --> 00:17:054.56] [Roan]  Ja.
+[00:17:054.70 --> 00:17:059.90] [Fabiola]  Wat ik al zei, drie keer hetzelfde, zonder veel teksten gebruiken, of ja, andere teksten gebruiken.
+[00:18:000.42 --> 00:18:009.74] [Roan]  Ja, dus het zou dan misschien handiger zijn als het inderdaad zo is dat die vacatures handig blijken om te vermelden dat de unieke vacatures andere kleurtjes krijgen.
+[00:18:010.39 --> 00:18:010.57] [Fabiola]  Ja.
+[00:18:010.86 --> 00:18:019.64] [Roan]  Dat je op één oogopslag een beetje alle belangrijke dingen en de verschillen er tussen te zien krijgt.
+[00:18:020.18 --> 00:18:020.30] [Fabiola]  Ja.
+[00:18:020.92 --> 00:18:021.36] [Roan]  Oké.
+[00:18:021.68 --> 00:18:028.30] [Roan]  Ja, nee, en inderdaad, in deze situatie is het waarschijnlijk niet heel nuttig om van alle vacatures ook daadwerkelijk het nummer te geven,
+[00:18:028.40 --> 00:18:036.96] [Roan]  want ja, deze kandidaat heeft met deze vacature een verbinding gehad, dan is het ook, er is een kandidaat die lijkt op deze persoon die een soortgelijke vacature heeft vervuld.
+[00:18:037.42 --> 00:18:040.10] [Roan]  Dat zou bijvoorbeeld dan ook al voldoende kunnen zijn.
+[00:18:040.84 --> 00:18:041.02] [Fabiola]  Ja.
+[00:18:042.64 --> 00:18:049.76] [Roan]  Oké, dan kun je aan de onderkant één van de twee de staafdiagram of de graaf selecteren.
+[00:18:052.22 --> 00:18:052.62] [Roan]  Allright.
+[00:18:053.92 --> 00:18:055.00] [Roan]  Ja, dit is een wat grotere...
+[00:18:055.00 --> 00:18:058.08] [Roan]  Als je een beetje naar beneden scrolt, dan staat er nog een uitleg...
+[00:18:058.08 --> 00:18:059.50] [Roan]  Oh, wacht, nu zoom je...
+[00:18:059.50 --> 00:19:002.58] [Roan]  Dus even naar rechts gaan in het...
+[00:19:002.58 --> 00:19:003.66] [Roan]  Ja, en dan nu omlaag scrollen.
+[00:19:003.92 --> 00:19:008.06] [Roan]  Ja, daar staat dus nog een beetje een uitleg over wat het precies inhoudt.
+[00:19:001.66 --> 00:19:001.86] [Roan]  Ja, ik ben benieuwd.
+[00:19:003.80 --> 00:19:003.98] [Roan]  Ja.
+[00:19:019.06 --> 00:19:021.42] [Fabiola]  Dus het geeft eigenlijk weer hoe je daarbij komt.
+[00:19:022.06 --> 00:19:022.30] [Roan]  Mhmm.
+[00:19:023.28 --> 00:19:029.36] [Roan]  Ja, dit is een beetje hoe het model dus intern heeft geredeneerd.
+[00:19:030.80 --> 00:19:033.14] [Roan]  Er zijn een paar lijntjes door elkaar heen.
+[00:19:033.34 --> 00:19:039.94] [Roan]  Je kan die dingen verslepen, dus als het onoverzichtelijk is, dan kun je het zo trekken dat het niet meer door elkaar heen loopt.
+[00:19:039.83 --> 00:19:040.87] [Fabiola]  Dat is oké, ja.
+[00:19:042.92 --> 00:19:045.82] [Roan]  Hier is dan ook inderdaad wat we net al besproken.
+[00:19:046.42 --> 00:19:050.06] [Roan]  Als je bijvoorbeeld nu hovert over die vacature 1, 4, 7, helemaal rechts.
+[00:19:050.94 --> 00:20:000.32] [Roan]  Als je daar met je muis op gaat staan, dan staat er nu niet de hele vacature, maar wel de titel.
+[00:20:001.04 --> 00:20:008.14] [Roan]  In dit geval. En bij de kandidaat staat nu ook een beknopte versie van de CV.
+[00:19:049.96 --> 00:19:050.24] [Roan]  Ja.
+[00:19:054.63 --> 00:19:055.19] [Fabiola]  Deze...
+[00:20:000.86 --> 00:20:001.16] [Roan]  Ja.
+[00:20:006.17 --> 00:20:006.47] [Fabiola]  Ah ja.
+[00:20:012.33 --> 00:20:016.55] [Roan]  Allright, oké, deze is misschien wat meer informatie.
+[00:20:016.85 --> 00:20:020.39] [Roan]  Dus hier is er ook bovenaan die simpele weergave.
+[00:20:020.53 --> 00:20:023.37] [Roan]  Dus als het wat overweldigend is, dan kun je die ook selecteren.
+[00:20:023.45 --> 00:20:026.65] [Roan]  En dan pakt die een wat beknoptere versie.
+[00:20:021.19 --> 00:20:021.41] [Fabiola]  Ja.
+[00:20:024.28 --> 00:20:025.36] [Fabiola]  Oh ja, precies.
+[00:20:026.58 --> 00:20:027.82] [Fabiola]  Veel duidelijker, ja.
+[00:20:029.19 --> 00:20:039.51] [Roan]  Ja, nee, en dan is hier dus weer de vraag, als je hier naar zou kijken, wat is dan wat je denkt dat het achterliggende idee van de uitleg was.
+[00:20:039.67 --> 00:20:044.69] [Roan]  Dus als je dat zo moet moeten samenvatten, wat is dan de uitleg?
+[00:20:044.60 --> 00:20:048.00] [Fabiola]  Je hebt wel de uitleg nodig om dit te kunnen begrijpen, denk ik.
+[00:20:048.92 --> 00:20:050.60] [Fabiola]  Het is wel overzichtelijk, maar...
+[00:20:051.72 --> 00:20:054.60] [Fabiola]  Ja, kijk, oh ja, ik zie hier...
+[00:20:056.24 --> 00:21:000.62] [Fabiola]  Ja, dit maakt het wel fijner, want nu zie je, oh, ze heeft een aanmerking met dit gehad,
+[00:21:000.76 --> 00:21:005.28] [Fabiola]  en dat zou daarbij kunnen, maar uiteindelijk hebben ze alles met assistenten te maken,
+[00:21:005.46 --> 00:21:007.58] [Fabiola]  dus ja, dit is wel overzichtelijker.
+[00:21:007.88 --> 00:21:015.38] [Roan]  Maar het is wat te lastig om zonder die voorgaande informatie, die voorgaande tekst, om dan meteen...
+[00:21:014.72 --> 00:21:018.38] [Fabiola]  Nou, dit, ik weet niet of dit voor mij van waarde is, die subtypen.
+[00:21:019.95 --> 00:21:021.65] [Roan]  Oké, en ook dan die waarde die eronder staat.
+[00:21:022.90 --> 00:21:023.12] [Fabiola]  Ja.
+[00:21:023.41 --> 00:21:023.67] [Roan]  Mhm.
+[00:21:023.90 --> 00:21:023.94] [Roan]  Oké.
+[00:21:024.26 --> 00:21:029.92] [Fabiola]  Je bedoelt dan meer te zeggen van het heeft een 71% overeenkomst, of hoe bedoel je?
+[00:21:030.70 --> 00:21:037.98] [Roan]  Nou, het is dus die, dat pad van die pijlen, dat is eigenlijk waar dat model dus aandacht aan heeft besteed.
+[00:21:038.20 --> 00:21:047.14] [Roan]  En in dit geval is het dus, als we helemaal links beginnen, die kandidaat 4-1-1-9, die wil graag een vacature met het subtype administratief medewerker.
+[00:21:047.84 --> 00:21:053.68] [Roan]  En het model vond dat die specifieke verbinding, dat die erg belangrijk was voor de uitleg dus.
+[00:21:053.58 --> 00:21:055.06] [Fabiola]  Oh, oké, ik snap het, ja.
+[00:21:055.40 --> 00:21:058.18] [Fabiola]  Ja, dat zou je dan wel nog kunnen uitleggen ergens onderin.
+[00:21:058.24 --> 00:21:059.28] [Fabiola]  Dat heb je dan wel nodig.
+[00:21:055.49 --> 00:21:055.63] [Roan]  Ja.
+[00:21:059.83 --> 00:22:004.37] [Roan]  Ja, ja, oké, dus dat er een los tekstje bij staat om een beetje hoe valt dit te interpreteren.
+[00:22:004.91 --> 00:22:016.81] [Fabiola]  Ik denk dat dit niet het vereiste is als je actie wil ondernemen, maar ik denk dat dit eerder een handigheid is van, oh, oké, hij heeft er zo voor gekozen.
+[00:22:017.43 --> 00:22:021.35] [Fabiola]  Ja, dan gaat veel meer waarde hieruit, hè, na vacature 2.
+[00:22:022.13 --> 00:22:022.38] [Roan]  M-hm.
+[00:22:023.11 --> 00:22:026.45] [Fabiola]  0812 en dan zo dat je de weg ziet wandelen.
+[00:22:026.66 --> 00:22:026.92] [Roan]  M-hm.
+[00:22:029.15 --> 00:22:030.54] [Fabiola]  Maar, ja...
+[00:22:031.35 --> 00:22:034.45] [Roan]  Dus het is dan meer als een soort erbij als je...
+[00:22:034.18 --> 00:22:038.14] [Fabiola]  Ja, ik denk misschien als je een properiteit gaat uitdraaien, van hoe hebben we het gedaan deze maand?
+[00:22:039.22 --> 00:22:047.36] [Fabiola]  Ja, of ja, zoiets. Snap je wat ik bedoel? Dat je dit niet meteen gaat doen om de kandidaat ook daadwerkelijk aan een vacature te koppelen.
+[00:22:048.19 --> 00:22:055.35] [Roan]  En zou het misschien nog kunnen helpen met bijvoorbeeld de knoop doorhakken, dat de tekst uitlegt dat je zegt van ja, oké, zou kunnen.
+[00:22:055.63 --> 00:23:000.73] [Roan]  En dat je dan hier naar kijkt en dan de volledige uitleg ziet, zeg maar, dan misschien...
+[00:22:059.63 --> 00:23:006.01] [Fabiola]  Ja, precies, jawel, hij geeft wel de data weer, dat heeft altijd wel een meerwaarde.
+[00:23:006.14 --> 00:23:010.37] [Roan]  Ja, hij geeft dus een beetje een groter plaatje weer eigenlijk.
+[00:23:011.29 --> 00:23:018.38] [Roan]  Oké, dus het is meer als optioneel zou het nog wel waarde toe kunnen voegen, maar op zichzelfstaand niet per se.
+[00:23:019.96 --> 00:23:027.27] [Roan]  Helpt dit ten opzichte van die tekst van net wel beter te begrijpen waarom het model die voorspelling heeft gemaakt?
+[00:23:027.93 --> 00:23:028.21] [Fabiola]  Ja.
+[00:23:030.00 --> 00:23:031.80] [Roan]  Ja, op welke manier?
+[00:23:033.63 --> 00:23:039.13] [Fabiola]  Ja, wat ik je zeg, waarvoor hij iets voor gekozen heeft, dus in verband met die waardes, wat ik net ook zei.
+[00:23:039.72 --> 00:23:044.80] [Roan]  Dus dat het expliciet waar weer gegeven wordt wat belangrijk was en wat niet.
+[00:23:042.38 --> 00:23:045.02] [Fabiola]  En dan wordt gegeven wat belangrijk was en wat niet.
+[00:23:045.04 --> 00:23:047.60] [Fabiola]  Waar de keuze valt en wanneer.
+[00:23:048.32 --> 00:23:049.52] [Roan]  Oké, duidelijk.
+[00:23:051.94 --> 00:24:003.54] [Roan]  All right, ja, nee, dus je zei al net bij die vorige dat die erg overweldigend was en hier dat wil subtypen en zo, dat dat niet zo heel veel toevoegt.
+[00:24:003.84 --> 00:24:011.22] [Roan]  Is er verder nog iets wat misschien juist een beetje tegenwerkt met begrijpen wat er aan de hand is?
+[00:24:012.14 --> 00:24:017.84] [Fabiola]  Ja, want je geeft iets weer wat geen toegevoegde waarde heeft.
+[00:24:017.94 --> 00:24:018.78] [Fabiola]  Snap je wat ik bedoel?
+[00:24:017.83 --> 00:24:018.23] [Roan]  Dus dan...
+[00:24:019.84 --> 00:24:022.18] [Fabiola]  Dat klerk je, daar heeft ie niks mee.
+[00:24:022.51 --> 00:24:032.12] [Roan]  Ja, dus die kleine lijntjes die dus inderdaad als ze niet belangrijk zijn bepaald, die kunnen net zo goed zoals in de simpele weergave dus eigenlijk weggelaten worden.
+[00:24:032.64 --> 00:24:033.70] [Roan]  Want hier is het ook weer...
+[00:24:034.49 --> 00:24:034.71] [Fabiola]  Oh!
+[00:24:035.38 --> 00:24:040.60] [Roan]  Ja, dit is vanuit de bedrijfskant, dus hier is het weer, dus inderdaad wat we net al besproken,
+[00:24:040.96 --> 00:24:046.66] [Roan]  van dat je indirect via soortgelijke kandidaten tot een match komt.
+[00:24:037.94 --> 00:24:038.18] [Fabiola]  Ja.
+[00:24:045.94 --> 00:24:046.00] [Fabiola]  Ja.
+[00:24:047.33 --> 00:24:047.51] [Fabiola]  Ja.
+[00:24:047.75 --> 00:24:049.61] [Roan]  En dit was weer het einde.
+[00:24:049.61 --> 00:24:050.17] [Fabiola]  Nou, easy.
+[00:24:050.69 --> 00:24:053.11] [Roan]  Oké, ja nee, duidelijk.
+[00:24:054.77 --> 00:25:000.45] [Roan]  Ja hier dus, de wat uitgebreidere uitleg, dus echt met die pijltjes, is dat nog een logische uitleg?
+[00:25:000.87 --> 00:25:003.83] [Roan]  Is dat te begrijpen waarom dat inderdaad leidt tot een goede match?
+[00:25:005.32 --> 00:25:006.80] [Roan]  Gewoon het hele pad eigenlijk.
+[00:25:008.12 --> 00:25:011.22] [Fabiola]  Ja, dat had ik net ook aangegeven.
+[00:25:013.09 --> 00:25:017.25] [Roan]  Oké, ja nee, we hadden inderdaad al wat wat onlogisch, zou zijn.
+[00:25:017.43 --> 00:25:019.83] [Roan]  En ja, dus helpen met een beslissing.
+[00:25:020.01 --> 00:25:023.29] [Roan]  Dit zou niet op zichzelf helpen met het maken van een beslissing,
+[00:25:023.35 --> 00:25:028.77] [Roan]  maar het zou wel de knoop door kunnen hakken of wat extra steun kunnen geven.
+[00:25:029.24 --> 00:25:036.24] [Fabiola]  Ja, ik denk iets met verbinding, daar worden wij in ieder geval heel erg op getriggerd.
+[00:25:036.35 --> 00:25:041.35] [Fabiola]  Dus misschien als je dat bij een ander uitzendbureau zou presenteren, hebben hun een ander doel.
+[00:25:041.61 --> 00:25:046.05] [Fabiola]  Misschien zijn hun een cijfermatig, maar bij ons staat verbinding echt bijna op nummer één.
+[00:25:046.77 --> 00:25:054.05] [Fabiola]  Dus vandaar dat mij de tekst ook meer aanspreekt, omdat dat in mijn bloed zit om op die manier ook vacatures te vullen.
+[00:25:054.09 --> 00:26:001.92] [Fabiola]  Dus vandaar dat ik zou zeggen, textueel vind ik het sterker en is het fijn om te weten, oh ja, zo zit die opgebouwd.
+[00:26:002.51 --> 00:26:007.64] [Fabiola]  Maar als ik dit gepresenteerd krijg, zou ik daar niet meteen op losgaan.
+[00:25:046.22 --> 00:25:046.44] [Roan]  Oké.
+[00:26:007.75 --> 00:26:016.53] [Roan]  Oké, ja, nee, dus de tekst is beter als fundament en dan dit meer als optioneel erbij.
+[00:26:018.09 --> 00:26:024.95] [Roan]  Oké, heeft dit nog invloed op de mate waarin het model betrouwbaar overkomt?
+[00:26:025.87 --> 00:26:028.07] [Roan]  Zorgt het voor meer of minder vertrouwen?
+[00:26:026.76 --> 00:26:027.93] [Fabiola]  Ja, zeker wel.
+[00:26:029.10 --> 00:26:035.78] [Fabiola]  Ja, zoals ik zei, het wordt onderbouwd, dus dat geeft altijd een teken dat het betrouwbaarder
+[00:26:035.78 --> 00:26:039.71] [Fabiola]  is of in ieder geval dat je ervan uit kunt gaan.
+[00:26:040.22 --> 00:26:046.10] [Roan]  Maar ten opzichte van dus alleen de tekst, dit erbij maakt het nog wat betrouwbaarder?
+[00:26:046.20 --> 00:26:048.10] [Roan]  Omdat je dus een uitgebreidere...
+[00:26:048.52 --> 00:26:049.04] [Fabiola]  Ja, ja.
+[00:26:048.10 --> 00:26:058.54] [Roan]  Oké, dus doordat je een beter, concreetere uitleg krijgt, dat helpt wel met het vertrouwen?
+[00:26:060.00 --> 00:27:000.24] [Fabiola]  Ja.
+[00:27:002.44 --> 00:27:006.18] [Roan]  Oké, ja dat hadden we al besproken.
+[00:27:006.66 --> 00:27:008.10] [Roan]  Even kijken, volgende vraag.
+[00:27:009.08 --> 00:27:013.92] [Roan]  Ja, zou hier iets zijn wat misschien toegevoegd kan worden, dus misschien weer andere kleurtjes
+[00:27:013.92 --> 00:27:016.98] [Roan]  of andere vormen, iets in die geest, wat zou kunnen helpen?
+[00:27:019.91 --> 00:27:023.11] [Fabiola]  Nee, je legenda is eigenlijk heel overzichtelijk.
+[00:27:024.23 --> 00:27:026.17] [Fabiola]  Wacht, en hier had je...
+[00:27:026.17 --> 00:27:029.49] [Fabiola]  Oh, hier had je geen extra uitleg, hè?
+[00:27:029.81 --> 00:27:032.35] [Roan]  Nee, bij de assistent, dat zou je inderdaad later nog wel...
+[00:27:031.27 --> 00:27:034.89] [Fabiola]  Oh, dan kun je niet op klikken, dan moet je blijven staan.
+[00:27:035.51 --> 00:27:038.81] [Roan]  Nou, die assistent, inderdaad, die heeft geen...
+[00:27:038.81 --> 00:27:045.65] [Roan]  Dat zou inderdaad later nog kunnen, dat er bijvoorbeeld bij assistent uitgebreid uitgelegd staat wat die rol precies inhoudt.
+[00:27:045.83 --> 00:27:052.17] [Roan]  Maar in dit geval hebben we alleen de vacatures en de kandidaten voorzien van de data.
+[00:27:053.69 --> 00:27:058.41] [Roan]  Maar, ja, dat helpt dus ook om direct toegang te hebben tot...
+[00:27:058.41 --> 00:28:003.55] [Roan]  Ja, in dit geval is het dus een beknopte, nep-versie, zeg maar, van een cv.
+[00:28:003.55 --> 00:28:005.93] [Roan]  Maar, ehm...
+[00:28:005.93 --> 00:28:006.49] [Roan]  Allright.
+[00:27:051.21 --> 00:27:051.39] [Fabiola]  Ja.
+[00:28:009.83 --> 00:28:018.83] [Roan]  Ja, en dus je zei al inderdaad, die kleine lijntjes zijn overbodig eigenlijk, die voegen niet zoveel toe en maken het alleen maar verwarrend.
+[00:28:018.41 --> 00:28:019.75] [Fabiola]  Nee, dit voegt niks toe.
+[00:28:020.25 --> 00:28:023.99] [Fabiola]  Nee, want ik wil niet weten wat ik niet hoef te weten, zal ik maar zeggen.
+[00:28:024.23 --> 00:28:025.11] [Fabiola]  Wat heb ik eraan?
+[00:28:025.35 --> 00:28:028.15] [Fabiola]  Dat ik hem niet op...
+[00:28:028.15 --> 00:28:031.27] [Fabiola]  Dat Klerk geen goede vacature...
+[00:28:031.27 --> 00:28:035.35] [Fabiola]  Dat dit geen goede vacature voor hem is.
+[00:28:035.45 --> 00:28:037.57] [Fabiola]  Ja, leuk, maar wat heb ik eraan?
+[00:28:039.24 --> 00:28:045.76] [Roan]  Ja, zou het dan bijvoorbeeld als de simpele versie dat dat de standaard is, maar dat als je dan bijvoorbeeld zegt van
+[00:28:045.76 --> 00:28:054.64] [Roan]  he, waarom is vacature 157, is die niet meegenomen in de uitleg, dat het wel mogelijk is om de volledige uitleg te krijgen,
+[00:28:054.80 --> 00:28:056.26] [Roan]  maar dat het optioneel is?
+[00:28:054.59 --> 00:28:055.61] [Fabiola]  Ja, dat zou je wel kunnen doen.
+[00:28:057.65 --> 00:29:004.53] [Roan]  Dus dat die simpele weergave dan de standaardversie is en dat dit dan de mogelijke uitbreiding zou zijn.
+[00:29:006.79 --> 00:29:013.25] [Roan]  Ja, en dus die is-subtype-van en die waardes, dat voegt eigenlijk niet heel veel toe dan, toch?
+[00:29:013.33 --> 00:29:018.39] [Roan]  Dat was ook, alleen die pijlen geven eigenlijk al genoeg weer.
+[00:29:018.41 --> 00:29:018.97] [Fabiola]  Genoeg, ja.
+[00:29:020.35 --> 00:29:025.63] [Roan]  Is er verder nog iets wat weggehaald zou kunnen worden hier?
+[00:29:030.49 --> 00:29:031.55] [Fabiola]  Nee, niet per se.
+[00:29:032.13 --> 00:29:038.43] [Roan]  Helpt het ook om apart dus de uitleg voor de kandidaat te hebben en voor de bedrijfskant?
+[00:29:039.18 --> 00:29:041.42] [Fabiola]  Ja, zeker.
+[00:29:043.97 --> 00:29:049.43] [Roan]  Ja, wat zou daar specifiek dan handig voor kunnen zijn, omdat je dan bijvoorbeeld aan
+[00:29:049.43 --> 00:29:054.05] [Roan]  een kandidaat uit kan leggen en we denken dat je snel aangenomen zou worden, iets in
+[00:29:054.05 --> 00:29:054.49] [Roan]  die geest?
+[00:29:056.03 --> 00:30:001.49] [Fabiola]  Nee, maar dan wat ik zei, wat ik straks ook al zei, het geeft gewoon meer gesprekstof.
+[00:30:001.77 --> 00:30:008.53] [Fabiola]  Plus, je kunt wel uitgaan van de computer, maar je wil zelf ook even gewoon zien wat je gedaan heeft en wat je kan.
+[00:30:009.27 --> 00:30:013.89] [Fabiola]  En vacature is niet alleen maar administratief medewerker. Daar zit natuurlijk wat meer achter.
+[00:30:014.13 --> 00:30:018.23] [Fabiola]  Moet je ook nog mensen ontvangen of niet? Werk je in een team of doe je dat alleen?
+[00:30:018.39 --> 00:30:023.93] [Fabiola]  Nou, dan wil je ook weten of iemand, buiten dat iemand bij een bedrijf heeft gewerkt en heel veel ervaring heeft als administratief medewerker,
+[00:30:023.93 --> 00:30:027.11] [Fabiola]  geeft hij wel een teamwerk of als hij zzp'er. Dus dat zijn belangrijke dingen.
+[00:30:009.08 --> 00:30:009.36] [Roan]  Mhm.
+[00:30:027.22 --> 00:30:034.30] [Roan]  Ja, dat soort dingen, ja. In een daadwerkelijke CV staat dat soort informatie er natuurlijk wel meestal bij.
+[00:30:035.14 --> 00:30:038.20] [Roan]  Maar oké, nee, dat is goed om te weten.
+[00:30:040.04 --> 00:30:045.62] [Roan]  Ja, nou dan in principe deze is dan klaar. Dan is er nog de laatste, die staafdiagrammen.
+[00:30:045.76 --> 00:30:049.64] [Roan]  Dus inderdaad naar beneden en dan de staafdiagrammen.
+[00:30:051.38 --> 00:30:057.00] [Roan]  Ja, hier is het dus, ja, wederom van de kant van de kandidaat,
+[00:30:057.12 --> 00:31:003.38] [Roan]  hebben alle dingen een belangrijkheidsscore gekregen van het model.
+[00:31:005.64 --> 00:31:011.24] [Roan]  Dus ja, het valt hieruit naar voren te halen wat het achterliggende idee was van het model.
+[00:31:015.12 --> 00:31:019.64] [Fabiola]  Dit zijn dan ook drie vacatures? Of? Nee, drie vacaturetypes.
+[00:31:019.92 --> 00:31:025.09] [Roan]  Ja, dat assistent en administratief medewerker zijn de types en die anderen zijn individuele.
+[00:31:026.34 --> 00:31:028.28] [Fabiola]  Ik vind hiet het minst aan...
+[00:31:028.92 --> 00:31:032.58] [Roan]  Ja, nee, dat is inderdaad in de voorgegaande interviews ook al gebleken.
+[00:31:033.92 --> 00:31:037.84] [Roan]  Maar ja, hier, omdat er niet heel veel informatie uit naar voren komt?
+[00:31:040.04 --> 00:31:043.54] [Fabiola]  Ga een onderverdeling in vacature types een vacature is niet.
+[00:31:043.64 --> 00:31:045.88] [Fabiola]  Het zegt me nu niet wat pas nu het beste bij je.
+[00:31:045.92 --> 00:31:049.18] [Fabiola]  Ik zie wel ja, team belangrijk, assistent, administratief medewerker,
+[00:31:049.26 --> 00:31:052.10] [Fabiola]  maar volgens mij is dat geen vacature.
+[00:31:052.30 --> 00:31:056.04] [Fabiola]  Dus ja, zegt het dan dat dit de goede, beste vacature is?
+[00:31:056.78 --> 00:31:058.70] [Fabiola]  Dat is eigenlijk onduidelijk.
+[00:31:058.84 --> 00:32:002.16] [Roan]  Ja, dus het is eigenlijk eerder verwarrend wat dat betreft.
+[00:32:002.50 --> 00:32:007.10] [Roan]  Dus het zou hier misschien wel handig zijn om, als we dan inderdaad die matchscore zouden hebben,
+[00:32:007.18 --> 00:32:010.78] [Roan]  dus 80%, dat hij hier een soort ranglijst heeft met deze capaciteit.
+[00:32:010.17 --> 00:32:018.95] [Fabiola]  Ja, ik wil eerst zeggen, zo'n top tien van, oké, ik heb honderd vacatures en dit zijn de beste tien bij hem, maar op één dan inderdaad administratief medewerker bij Wolofs.
+[00:32:019.02 --> 00:32:020.84] [Roan]  Ja, ja, zoiets. Zou dat wel...
+[00:32:021.41 --> 00:32:022.95] [Fabiola]  Ja, dat is beter dan dit.
+[00:32:023.13 --> 00:32:028.87] [Fabiola]  Hier heb je eigenlijk, ja, ik wil niet zeggen niks aan, maar voor mijn gevoel heel weinig.
+[00:32:023.23 --> 00:32:023.85] [Roan]  Oké, ja, dat is waar.
+[00:32:029.55 --> 00:32:045.23] [Roan]  En als het juist tegenovergesteld zou zijn, dus dat hij die rollen pakt van assistent en administratief medewerker en alleen die weer zou geven om een soort beeld te krijgen van het model heeft deze types als het belangrijkst voor jou.
+[00:32:028.99 --> 00:32:029.15] [Roan]  Mhmm.
+[00:32:045.72 --> 00:32:048.34] [Fabiola]  Maar dat zegt dan niet op welke vacature hij het beste past.
+[00:32:048.46 --> 00:32:051.02] [Fabiola]  Dus dat is juist waarom het ging.
+[00:32:051.39 --> 00:32:058.25] [Roan]  Ja, maar als het bijvoorbeeld als ondersteuning zou zijn, dus dat je de tekst er al bij hebt en dat hij een soort ranglijstje geeft.
+[00:32:057.61 --> 00:32:058.05] [Fabiola]  Oh ja.
+[00:32:059.23 --> 00:33:003.45] [Fabiola]  Dat kan je ook wel uithalen in de CV zelf dan, dus dan heeft dat geen toegevoegde waarde.
+[00:33:003.45 --> 00:33:006.41] [Roan]  Oké, ja, dat voegt dus dan inderdaad niet zoveel toe.
+[00:33:006.43 --> 00:33:015.67] [Roan]  Oké, nee, duidelijk, ja, inderdaad uit de voorgaande interviews, ook met kandidaten, bleek al een beetje dat deze niet heel veel toevoegt.
+[00:33:016.25 --> 00:33:018.31] [Roan]  Maar dat is de reden dat we de interviews doen.
+[00:33:018.85 --> 00:33:019.63] [Fabiola]  Ja, tuurlijk.
+[00:33:020.93 --> 00:33:024.75] [Roan]  Ja, nee, dan nog even dus de andere vragen, even kort.
+[00:33:024.91 --> 00:33:031.47] [Roan]  Ja, dit zou dus dan ook niet helpen met begrijpen waarom het systeem iets heeft gedaan.
+[00:33:032.65 --> 00:33:032.85] [Fabiola]  Nee.
+[00:33:033.74 --> 00:33:037.12] [Roan]  Uhm, oké...
+[00:33:037.12 --> 00:33:037.40] [Roan]  Uhm....
+[00:33:038.24 --> 00:33:038.92] [Fabiola]  Ja, dat is...
+[00:33:038.92 --> 00:33:041.00] [Fabiola]  Nee, dan zou ik eerder voor een top 10 gaan, bijvoorbeeld.
+[00:33:041.37 --> 00:33:046.91] [Roan]  Ja, ja, dus dat heeft dan eigenlijk niks meer te maken met de specifieke match, maar dat geeft dan gewoon echt aan,
+[00:33:047.01 --> 00:33:050.29] [Roan]  dit zijn de beste matches die we voor jou hebben gevonden.
+[00:33:050.77 --> 00:33:054.51] [Roan]  En dan zou het dan ook bijvoorbeeld handig zijn als je die top 10 hebt en dat je daar op eentje kan klikken
+[00:33:054.51 --> 00:34:000.47] [Roan]  en dat je dan direct die tekst uitlegt en mogelijk dat netwerk te zien krijgt.
+[00:34:001.15 --> 00:34:001.85] [Fabiola]  Zou kunnen, ja.
+[00:34:001.87 --> 00:34:003.99] [Roan]  Dus dat je snel voor alles de uitleg erbij kan pakken.
+[00:34:004.01 --> 00:34:004.11] [Fabiola]  Ja.
+[00:34:001.50 --> 00:34:001.88] [Fabiola]  Ja.
+[00:34:003.88 --> 00:34:004.08] [Fabiola]  Ja.
+[00:34:008.41 --> 00:34:015.57] [Roan]  Oké, ja, nee, die vragen, die doen er dan allemaal niet echt meer toe.
+[00:34:016.93 --> 00:34:020.77] [Roan]  Oké, ja, nee, dus dan een beetje samenvattend.
+[00:34:021.07 --> 00:34:026.33] [Roan]  Dus die tekst, dat was eigenlijk de nuttigste, degene die het meeste toevoegt.
+[00:34:026.33 --> 00:34:036.73] [Roan]  En dan dat netwerk van net, dat kan fijn zijn om het gehele plaatje te krijgen, maar is niet direct op zichzelf.
+[00:34:037.01 --> 00:34:043.61] [Fabiola]  Voor als je iets wil onderbouwen tijdens een meeting, zoals ik zeg, met rapportages en dat soort dingen, dat zou heel fijn zijn.
+[00:34:043.64 --> 00:34:044.92] [Roan]  Ja, oké, duidelijk.
+[00:34:046.74 --> 00:34:051.76] [Roan]  En ja, dus in de tekst wat belangrijk is, is om dus niet in de herhaling te vallen.
+[00:34:052.42 --> 00:34:053.84] [Roan]  Dus wat beknopter te zijn.
+[00:34:055.06 --> 00:34:058.92] [Roan]  En dus verschillende kleurtjes voor verschillende vacatures.
+[00:35:000.60 --> 00:35:001.24] [Roan]  Wanneer...
+[00:35:001.46 --> 00:35:005.50] [Fabiola]  Ja, of juist niet. Anders wordt het zo'n...
+[00:35:005.50 --> 00:35:010.76] [Fabiola]  Ik heb net het idee dat ik naar een lingo-spel zit te kijken, zo'n carnaval-ding.
+[00:35:010.98 --> 00:35:014.66] [Fabiola]  Dus ik zou het eigenlijk...
+[00:35:014.66 --> 00:35:023.94] [Fabiola]  Maar ik snap dat je dat weer nodig hebt om je staafdiagram en je graafuitleg, denk ik, uit te verhelderen.
+[00:35:024.07 --> 00:35:024.25] [Roan]  Oké.
+[00:35:025.84 --> 00:35:029.28] [Fabiola]  Maar in principe kan het ook zonder kleurtjes in de tekst.
+[00:35:029.42 --> 00:35:030.38] [Fabiola]  Het leidt alleen maar af.
+[00:35:030.47 --> 00:35:032.45] [Roan]  Ja, dus gewoon de tekst zelf.
+[00:35:032.63 --> 00:35:037.25] [Fabiola]  Of in ieder geval een woord waar je bijvoorbeeld iets voor kunt aanklikken, dat die...
+[00:35:037.25 --> 00:35:041.21] [Fabiola]  Hetzelfde als als je een link zou delen, een link is ook altijd dan...
+[00:35:041.77 --> 00:35:042.05] [Roan]  Ja.
+[00:35:042.16 --> 00:35:043.84] [Fabiola]  Niet per se een andere kleur, maar...
+[00:35:043.84 --> 00:35:045.40] [Fabiola]  Of dat je onderstreept, of iets in die kleur.
+[00:35:045.42 --> 00:35:047.30] [Fabiola]  Ja, of dat er iets achter zit, ja.
+[00:35:043.24 --> 00:35:045.06] [Roan]  Of dat je onderstreept iets in die lijst.
+[00:35:048.00 --> 00:35:055.66] [Roan]  Ja, oké, dus dan dat het inderdaad, dat dan alle rode dingen, dat die een cv zouden laten zien, en alle groene dingen zouden dan de vacature-tekst laten zien,
+[00:35:055.74 --> 00:36:001.26] [Roan]  dat je op die manier weet van, oh, dit is iets waarmee ik kan interacten, zeg maar.
+[00:36:002.20 --> 00:36:005.08] [Roan]  Oké, nee, dat is duidelijk.
+[00:36:007.24 --> 00:36:015.80] [Roan]  En in het geval van dus tekst die niet in de herhaling valt, is het dan beter om een wat beknoptere tekst te hebben,
+[00:36:015.80 --> 00:36:018.94] [Roan]  of is het juist fijn om wat uitgebreider te zijn?
+[00:35:056.47 --> 00:35:057.23] [Fabiola]  Ja, die.
+[00:36:000.51 --> 00:36:000.61] [Roan]  Ja.
+[00:36:019.14 --> 00:36:020.99] [Fabiola]  En, ja, dat zijn er wel weer geel.
+[00:36:021.99 --> 00:36:025.59] [Fabiola]  Gewoon, nee, dan hoef je niet per se beknopt, maar
+[00:36:025.59 --> 00:36:030.93] [Fabiola]  zolang je maar wat meer vertelt dan wat hier zijn, in plaats van drie keer hetzelfde.
+[00:36:031.03 --> 00:36:036.79] [Roan]  Ja, ja, nee, dus als het alle drie de alinea's, of als de eerste dalinia zou gaan over de vaardigheden van de kandidaat,
+[00:36:037.01 --> 00:36:039.61] [Roan]  de tweede over de ervaring en de derde over de interesses ofzo,
+[00:36:040.07 --> 00:36:043.37] [Roan]  dan zou het prima zijn als het best wel een lange tekst is ook.
+[00:36:043.69 --> 00:36:043.89] [Fabiola]  Ja, ja, precies.
+[00:36:044.15 --> 00:36:044.55] [Roan]  Oké.
+[00:36:044.52 --> 00:36:047.34] [Fabiola]  Ja, ja, ja, lang, dit is ook prima te lezen.
+[00:36:048.09 --> 00:36:055.89] [Roan]  Ja, nee, oké, dat is een belangrijk iets, want voor kandidaten, wat we vonden die vind ik juist fijner om het wat korter te hebben,
+[00:36:055.99 --> 00:36:058.71] [Roan]  dus gewoon bullet points, als ze zelf ergens naar op zoek zijn.
+[00:36:059.57 --> 00:37:004.69] [Roan]  Maar dus voor, ja, als je daadwerkelijk dus iemand moet gaan bellen met, oh, we hebben een goede match voor u gevonden,
+[00:37:007.03 --> 00:37:007.05] [Fabiola]  Ja.
+[00:37:004.79 --> 00:37:010.43] [Roan]  dan is het juist wel fijn om een wat uitgebreidere tekst te hebben, om meer gesprekstof te hebben.
+[00:37:009.81 --> 00:37:009.91] [Fabiola]  Ja.
+[00:37:012.17 --> 00:37:020.73] [Roan]  Oké, ja, nee, dat waren eigenlijk alle vragen, we zijn door de drie modellen heen, dus ja, nee, dat was hem alweer.
+[00:37:016.83 --> 00:37:017.09] [Fabiola]  Oké.
+[00:37:021.79 --> 00:37:022.41] [Fabiola]  Nou, fijn!
+[00:37:022.40 --> 00:37:023.34] [Roan]  Ja, hartstikke bedankt...
+
