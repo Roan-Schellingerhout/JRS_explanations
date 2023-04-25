@@ -1,0 +1,224 @@
+\section{Appendix}
+\appendix
+\section{Hyperparameter tuning}
+\label{app:hyperparameter}
+
+The optimal hyperparameter configuration we found, is the following: 
+
+\begin{itemize}
+    \item hidden\_dimensions=10
+    \item output\_dimensions=100
+    \item number\_of\_layers=2
+    \item attention\_heads=5
+    \item dp\_rate=0.01
+    \item learning\_rate=0.001
+    \item epochs=1
+\end{itemize}
+
+An overview of all configurations we tested, can be found on \href{}{GitHub}
+
+\newpage
+
+\section{Interview guides}
+
+\subsection{Preliminary interview guide}
+\label{app:interview_guide}
+
+\begin{table*}[ht]
+\captionsetup{width=1.5\textwidth}
+\scriptsize
+\begin{adjustwidth}{-2.5in}{-2.5in}
+\centering
+\begin{tabularx}{1.5\textwidth}{@{}XX>{\raggedright\arraybackslash}p{5.5cm}>{\raggedright\arraybackslash}p{6.5cm}@{}}
+\toprule
+\textbf{Evaluation Objective} & \textbf{Objective Description} & \textbf{Questions} & \textbf{Probing questions} \\ \midrule
+
+1. Correct interpretation     & To assess whether or not the stakeholder can correctly interpret the explanation. & \begin{enumerate} \item[1.1] What information/features do you think were most important for this prediction? \item[1.2] What was the least important? \end{enumerate} &         \begin{enumerate} \item[1.1.1] What did you look at to come to that conclusion? \end{enumerate} \\ \midrule
+
+2. Transparency & To determine the explanation's effect on understanding the model's inner workings.                & \begin{enumerate} \item[2.1] Does the explanation help you comprehend why the system gave the recommendation? \end{enumerate} & \begin{enumerate} \item[2.1.1] What components help you specifically? \item[2.1.2] Can you think of anything that would further improve your understanding? \end{enumerate} \\ \midrule
+
+3. Usefulness   & To evaluate how useful the explanations are considered to be.                    &     \begin{enumerate} \item[3.1] Does the explanation make sense to you? \item[3.2] Does the explanation help you make a decision? \end{enumerate} & \begin{enumerate} \item[3.1.1] What do you consider sensible (e.g., focus on specific features)? \item[3.1.2] What do you consider insensible? \item[3.2.1] Would you prefer a model with explanations over one without? \end{enumerate} \\ \midrule
+
+4. Trust        & To gauge the explanation's impact on the model's trustworthiness.      &     \begin{enumerate} \item[4.1] Do you think the prediction made by the model is reliable? \item[4.2] If this recommendation was made for you, would you trust the model to have made the right decision? \end{enumerate} & \begin{enumerate} \item[4.2.1] Anything specific that makes you say that (e.g., something makes no sense, or is very similar to how you look at things)? \end{enumerate} \\ \midrule
+
+5. Preference   & To figure out the personal preference of the stakeholder.                        &     \begin{enumerate} \item[5.1] What would you like to see added to the current explanation? \item[5.2] What would you consider to be redundant within this explanation? \end{enumerate} &  \begin{enumerate} \item[5.1.1] Any specific information that is missing? \item[5.1.2] Any functionality that could be useful? \item[5.2.1] Anything that should be removed? \item[5.2.2] Or be made less prevalent?\end{enumerate}             \\ \bottomrule
+\end{tabularx}
+\caption{The preliminary interview guide.}
+\label{tab:interview_guide}
+\end{adjustwidth}
+\end{table*}
+
+\newpage
+
+\subsection{Updated interview guide}
+\label{app:up_interview}
+
+\begin{table*}[ht]
+\captionsetup{width=1.5\textwidth}
+\scriptsize
+\begin{adjustwidth}{-2.5in}{-2.5in}
+\centering
+\begin{tabularx}{1.5\textwidth}{@{}XX>{\raggedright\arraybackslash}p{5.5cm}>{\raggedright\arraybackslash}p{6.5cm}@{}}
+\toprule
+\textbf{Evaluation Objective} & \textbf{Objective Description} & \textbf{Questions} & \textbf{Probing questions} \\ \midrule
+
+1. Correct interpretation     & To assess whether or not the stakeholder can correctly interpret the explanation. & \begin{enumerate} \item[1.1] What information/features do you think were most important for this prediction? \item[1.2] What was the least important? \item[1.3] How would you put the model's explanation into your own words? \end{enumerate} &         \begin{enumerate} \item[1.1.1] What did you look at to come to that conclusion? \end{enumerate} \\ \midrule
+
+2. Transparency & To determine the explanation's effect on understanding the model's inner workings.                & \begin{enumerate} \item[2.1] Does the explanation help you comprehend why the system gave the recommendation? \end{enumerate} & \begin{enumerate} \item[2.1.1] What components help you specifically? \item[2.1.2] what information is missing that could allow you to get a better understanding of the model's recommendation \end{enumerate} \\ \midrule
+
+3. Usefulness   & To evaluate how useful the explanations are considered to be.                    &     \begin{enumerate} \item[3.1] Does the explanation make sense to you? \item[3.2] Does the explanation help you make a decision? \item[3.3] How could you see yourself using the explanation in your daily work/task? \end{enumerate} & \begin{enumerate} \item[3.1.1] What do you consider sensible (e.g., focus on specific features)? \item[3.1.2] What do you consider insensible? \item[3.2.1] Would you prefer a model with explanations over one without? \end{enumerate} \\ \midrule
+
+4. Trust        & To gauge the explanation's impact on the model's trustworthiness.      &     \begin{enumerate} \item[4.1] Do you think the prediction made by the model is reliable? \item[4.2] If this recommendation was made for you, would you trust the model to have made the right decision? \end{enumerate} & \begin{enumerate} \item[4.2.1] Anything specific that makes you say that (e.g., something makes no sense, or is very similar to how you look at things)? \end{enumerate} \\ \midrule
+
+5. Preference   & To figure out the personal preference of the stakeholder.                        &     \begin{enumerate} \item[5.1] What would you like to see added to the current explanation? \item[5.2] What would you consider to be redundant within this explanation? \end{enumerate} &  \begin{enumerate} \item[5.1.1] Any specific information that is missing? \item[5.1.2] Any functionality that could be useful? \item[5.2.1] Anything that should be removed? \item[5.2.2] Or be made less prevalent?\end{enumerate}             \\ \bottomrule
+\end{tabularx}
+\caption{The validated, updated interview guide.}
+\label{tab:interview_guide_updated}
+\end{adjustwidth}
+\end{table*}
+
+\newpage
+
+\section{Grounded theory results}
+\label{app:GT}
+
+\subsection{Candidates}
+\begin{table*}[]
+\captionsetup{width=1.5\textwidth}
+\footnotesize
+\begin{adjustwidth}{-2.5in}{-2.5in}
+\centering
+\begin{tabularx}{1.5\textwidth}{@{}X>{\raggedright\arraybackslash}p{6.5cm}>{\raggedright\arraybackslash}p{3.5cm}@{}}
+\toprule
+\textbf{Quotes} &
+  \textbf{Open codes} &
+  \textbf{Category} \\ \midrule
+``You should separate the recommended and supporting vacancies" &
+  Different instances of the same group should be easily distinguishable &
+  Don't mix different types of information \\ \cmidrule(r){1-1}
+``I find it very difficult that the vacancies, candidates, and vacancy types or on the same axis ... I don't understand it anymore" &
+  Having different feature types in the same bar chart is confusing &
+   \\ \cmidrule(r){1-1}
+``if this was important for me as a candidate, I would want to know" &
+  The bar chart should refer only to personal information &
+   \\ \midrule
+``It could be that the system is missing some information about you ... like that you want to work from home ... which would allow you to cross it off the list immediately" &
+  Make `deal-breakers' extremely clear &
+  An explanation should very quickly allow for verification and scrutiny \\ \cmidrule(r){1-1}
+``A candidate would not want to spend all of their time dissecting a graph" &
+  Having to extract information carefully is a bother &
+   \\ \cmidrule(r){1-1}
+``I would definitely want to look at the vacancy" &
+  Manual follow-up should be easy &
+   \\ \midrule
+``And that those small lines, for us, as people looking for a vacancy, are not very useful" &
+  Only include supporting arguments &
+  Make all non-crucial information optional \\ \cmidrule(r){1-1}
+``Yes, because this is some pretty difficult use of language ... and those values are not clear to me at all to be honest" &
+  Specific values lead to overwhelm &
+   \\ \cmidrule(r){1-1}
+``Now it's saying the same thing for the third time in a row already" &
+  Only repeat information when summarizing &
+   \\ \bottomrule
+
+\end{tabularx}
+\end{adjustwidth}
+\caption{The quotes, open codes, and categories discovered by using grounded theory for the candidates' responses.}
+\label{tab:candidates_GT}
+\end{table*}
+
+\noindent \textbf{Theory (based on \cref{tab:candidates_GT}):} Candidates want to be able to determine whether or not a vacancy is relevant at a glance. To do so, the explanation needs to be brief and straight to the point. Once the candidate has found a potentially interesting vacancy, they should be able to explore the explanation in more detail. Considering their difficulty in parsing both the graph and feature attribution explanation, the textual explanation should always be central, with the other two merely functioning as further support. 
+
+\newpage
+
+\subsection{Recruiters}
+\begin{table*}[]
+\captionsetup{width=1.5\textwidth}
+\footnotesize
+\begin{adjustwidth}{-2.5in}{-2.5in}
+\centering
+\begin{tabularx}{1.5\textwidth}{@{}X>{\raggedright\arraybackslash}p{6.5cm}>{\raggedright\arraybackslash}p{3.5cm}@{}}
+\toprule
+\textbf{Quotes} &
+  \textbf{Open codes} &
+  \textbf{Category} \\ \midrule
+``It's nice when there's more text to talk about on the phone, as long as it's not the same thing over and over again" &
+  A lot of text can help in having enough subject matter while talking to clients &
+  The explanation should be useable as evidence while justifying a match to a client \\ \cmidrule(r){1-1}
+``if you want to back up your decision during a meeting, where they expect reports and what not, it would be very nice" &
+  The graph can provide a more `objective' explanation &
+   \\ \cmidrule(r){1-1}
+``if the first paragraph is about their skills, the second about their experience, and the third about their interests, a longer text would still be nice" &
+  Each paragraph of the text should address a different aspect &
+   \\ \midrule
+``I don't think this is required to actually start calling; it's more of a convenience when you want to understand the reasoning" &
+  Knowing the general rationale is enough to take action already &
+  The exact details of the prediction are irrelevant most of the time \\ \cmidrule(r){1-1}
+``There's a few things that are crucial when making a match ... and if those are not in order, I don't even need to see the prediction" &
+  Possible points of contention should already have been considered &
+   \\ \cmidrule(r){1-1}
+``I don't want to know anything I don't need to know ... there's no use in that" &
+  The simple version of explanations is usually sufficient &
+   \\ \midrule
+``you simply get told that this is the correct match ... and if you can look at the vacancy, you can check if it's correct" &
+  Recruiters should be able to easily verify the model's claims &
+  Recruiters should always feel like they have the final say \\ \cmidrule(r){1-1}
+``I would never blindly set-up a meeting; I would always want to speak the candidate beforehand of course" &
+  Recruiters first want to discuss the match with both sides before accepting it &
+   \\ \bottomrule
+   
+\end{tabularx}
+\end{adjustwidth}
+\caption{The quotes, open codes, and categories discovered by using grounded theory for the recruiters' responses.}
+\label{tab:recruiters_GT}   
+\end{table*}
+
+
+\noindent \textbf{Theory (based on \cref{tab:recruiters_GT}):} Recruiters prefer the model to act mainly as a supportive tool. This means that the strongest arguments the model puts forward should be front and center. This allows them to use the explanations when defending their decision, be it to their supervisor or a client. They will always want to manually verify the claims made by the model, but due to the explanation, they are likely to consider predicted matches before all else. The exact details of how the model came to its prediction will oftentimes be irrelevant, but are nice to have accessible in case additional evidence should be provided. 
+
+\newpage
+
+\subsection{Company representatives}
+\begin{table*}[]
+\captionsetup{width=1.5\textwidth}
+\footnotesize
+\begin{adjustwidth}{-2.5in}{-2.5in}
+\centering
+\begin{tabularx}{1.5\textwidth}{@{}X>{\raggedright\arraybackslash}p{6.5cm}>{\raggedright\arraybackslash}p{3.5cm}@{}}
+
+\toprule
+\textbf{Quotes} &
+  \textbf{Open codes} &
+  \textbf{Category} \\ \midrule
+``this is is what I had, after reading the text four times, this path is generally what I had understood" &
+  Textual explanation can require multiple iterations to become clear &
+  Complex relations should still be easy to grasp \\ \cmidrule(r){1-1}
+``at one point you understand how it works ... and then you won't even look at the text anymore, the graph will be all you need" &
+  The graph is quick and easy to use once it's understood &
+   \\ \cmidrule(r){1-1}
+``the complex graph should be banned" &
+  The general idea of the explanation should be clear at a glance &
+   \\ \midrule
+``that's why I would rather pick that one, over the recommended one, because that one seems closer to the vacancy." &
+  Alternative candidates should also receive explanations &
+  Exploring alternatives should be integrated in the system \\ \cmidrule(r){1-1}
+``it could be a close call, you know? So then you can make your own assessment, and verify if the model got it right" &
+  Having an overview of all possible candidates is useful to verify and scrutinize &
+   \\ \cmidrule(r){1-1}
+``if we want someone for 0.8 FTE, but their motivation letter says 0.6 FTE, it already becomes a no-go" &
+  Human factors, such as candidates' motivation letters, are hard to integrate into a prediction &
+   \\ \midrule
+``if the model has been designed in such a manner that I know it has checked everything, there's no need for me to manually check everything as well" &
+  Given high enough performance, the explanation merely becomes a sanity check &
+  Explanations are mainly useful for surprising results \\ \cmidrule(r){1-1}
+``you already have an expectation of what the outcome will be. You're only going to start interrogating the model once the prediction doesn't match your expectation" &
+  Detail only matter when the recommendation is unintuitive &
+   \\ \bottomrule
+   
+\end{tabularx}
+\end{adjustwidth}
+\caption{The quotes, open codes, and categories discovered by using grounded theory for the company representatives' responses.}
+\label{tab:companies_GT}   
+\end{table*}
+
+\noindent \textbf{Theory (based on \cref{tab:companies_GT}):} Company representatives want the explanations to assist them as quickly as possible. Due to their generally higher level of experience in reading charts and graphs, the graph explanations actually help the most with this. However, even though the graph can give them an explanation at a glance, they still want to be able to explore further, in case the graph comes across as surprising or unintuitive. In such a scenario, they either want to study the explanation in more detail, e.g., through additionally reading the textual explanation, or they want to manually look into alternative candidates. The feature attribution map could easily be converted into a `hub' for them, where they can get an overview of alternative candidates for a vacancy.

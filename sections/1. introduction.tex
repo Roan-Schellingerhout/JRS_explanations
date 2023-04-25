@@ -1,0 +1,68 @@
+\section{Introduction}
+Within the emerging field of explainable artificial intelligence (XAI), a substantial amount of research has attempted to make the inner workings of AI models more transparent \cite{hagras2018toward,mei2023users}. While such information can assist developers in understanding their model (e.g., by allowing the detection of bugs and biases, understanding feature importance), it is oftentimes complicated and requires considerable a priori knowledge of AI to interpret. However, the use of AI has become commonplace in user-controlled environments, such as the recommender systems used by different commercial platforms (e.g., YouTube, TikTok, Amazon). In such environments, explanations cannot assume any former AI knowledge, as the majority of explainees are lay users. Moreover, different types of users interact with such systems - the stakeholders. These stakeholders consist of every individual or group who affects, or is affected by, the delivery of recommendations to users \cite{abdollahpouri2020multistakeholder}. Stakeholders can be strongly diverse, coming from different backgrounds and having distinct expertise. As such, the way in which an explanation is conveyed to each stakeholder individually should be fine-tuned to their specific needs. 
+
+One field in which such fine-tuned explanations are especially crucial is recruitment. Recruitment is an inherently multi-stakeholder domain, as users (candidates) need to be linked to vacancies (provided by companies) by recruiters. These main three stakeholders all rely on the same recommendations, but can require widely different explanations to be convinced of their adequacy. For example, telling a candidate that a vacancy is relevant for them as it comes with a high salary can be an acceptable explanation. However, the same explanation will be useless for the company, as that salary will be provided to every other potential candidate. Furthermore, a candidate and a recruiter might only look at a handful of recommendations per session, while a company could receive hundreds of applicants for a single vacancy. Therefore, the explanation requirements of each stakeholder are unique and require a tailored design. 
+
+This paper attempts to determine the explanation preferences of the stakeholders of a job recommender system: job seekers, companies, and recruiters. This is done through the execution of a co-design study, which allows stakeholder representatives to manually indicate how they prefer an explanation to be presented to them. Therefore, this research aims at answer the following research question: 
+
+\begin{description}
+    \item[RQ:] \textit{What are the explanation preferences of recruiters, candidates, and company representatives for job recommender systems?}
+    \newline
+\end{description}
+
+Our results show interesting differences in the preferences for the different stakeholders. Regarding the preferred types of explanations, candidates preferred brief written explanations, as their main interest is to be able to quickly judge the potential matches proposed by the system. On the contrary, company's hiring managers preferred visual, graph-based explanations, as these allow a comprehensive overview at a glance. Finally, Recruiters preferred more exhaustive textual explanations, as those provided them with more talking points to convince both parties of the match. These results allow us to provide design guidelines for interface that fulfills the requirements of all three stakeholder types. Furthermore, the co-design study allowed us to validate an improve the used interview guide. 
+
+% \fb{This last part can be removed if we keep the contributions in the related work} Hence, the main contributions of the work are the following:
+% \begin{itemize}
+%     \item We provide a validated user interview guide which can be used in future research aiming at determining the explanation preferences of different stakeholders. 
+%     \item We describe design guidelines based on the preferences of the different stakeholders (candidates, recruiters, and companies) of a job recommender system in terms of explainability.
+% \end{itemize}
+
+% \fb{We could add the organization of the remainder of the paper, but it's not strictly necessary}
+
+%This is done by means of the following sub-questions:
+
+% \begin{description}
+%     \item[SQ1:] What type of explanation is most suited for the different stakeholders?
+%     \item[SQ2:] What aspects of explanations make them more suited for each stakeholder?
+%     \item[SQ3:] In what way can different explanation types be combined to make them useful for each stakeholder?
+% \end{description}
+
+% \fb{I would try to introduce the hypotheses in the related work. Here we didn't introduce the type of explanations we used yet} 
+
+% \fb{I would conclude the introduction mentioning the most important results, highlighting the contributions of the paper, and (maybe) explaining the structure of the paper.}
+
+% \fb{I think the hypotheses below may be skipped, but we should conclude each section of the related work linking it to our work, what is different, what is the gap, what we do differently in this work}
+
+% \subsection{Hypotheses}
+% We formulated (a number of) hypotheses for each sub-question based on previous literature. Examples of the explanation types mentioned can be found in \cref{sec:explanation_types}. In short, we made use of three different explanation types: a written explanation (textual), an explanation based on the paths in a knowledge graph (graph), and a feature attribution explanation (bar chart). 
+
+% \subsubsection{Hypotheses for SQ1}
+% \begin{itemize}
+%     \item \textbf{H1a}: \textit{The graph-based explanation will be best suited for individuals with prior AI knowledge.}
+%     \item \textbf{H1b}: \textit{The textual explanations will be best suited for individuals without prior AI knowledge.}
+%     \newline
+
+%     While the graph-based explanations will most likely be best suited for individuals with a fair amount of prior AI knowledge, the general populace will probably gravitate towards the textual explanations, as those are both expressive and fairly easy to process \cite{purificato2021evaluating}. Considering the graph-based explanations contain the most information, but are expected to be the hardest to read, and the opposite holds for the feature attributions, the textual explanations are likely to be a ``golden mean".
+% \end{itemize}
+
+% \subsubsection{Hypotheses for SQ2}
+% \begin{itemize}
+%     \item \textbf{H2a}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences related to the explanation types.}
+%     \newline
+ 
+%     The feature attribution maps will be the easiest and fastest way to get an overview of the model's rationale, but to a fairly limited extent \cite{szymanski2021visual}. The textual explanation will be more complex and take more time to process, but will provide a more comprehensive explanation in return. Lastly, the graph-based explanations will take the longest to process and might be difficult to interpret by themselves, but will contain the most complete explanation as a result. 
+% \end{itemize}
+
+% \subsubsection{Hypotheses for SQ3}
+% \begin{itemize}
+
+%     \item \textbf{H3a}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences on how to combine explanation types to obtain a hybrid explanation.}
+%     \newline
+    
+%     Explanations that consist of a single type will either be too limited in their content, or too difficult to interpret, which can be solved by incorporating aspects from different types into a single explanation type \cite{szymanski2021visual}. For example, textual explanations can help in assisting the stakeholders in how to read the graph-based explanation. Furthermore, the feature attribution map can be useful when the stakeholder prefers to get a good (albeit limited) overview at a glance \cite{schellingerhout2022explainable}. 
+
+% \end{itemize}
+
+
+%%%
