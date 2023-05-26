@@ -12,7 +12,7 @@ In order to discover the preferences of different stakeholders, semi-structured 
 
 \subsection{Hypotheses}
 
-In this study, we consider three different explanation types (see Section \ref{sec:explanation_types}): (i) graph-based explanations; (ii) Textual explanations; and (iii) Feature attribution explanations. While the graph-based explanations will most likely be best suited for individuals with a fair amount of prior AI knowledge, the general lay users will probably gravitate towards the textual explanations, as those are both expressive and fairly easy to process \cite{purificato2021evaluating}. Considering the graph-based explanations contain the most information, but are expected to be the hardest to read, and the opposite holds for the feature attributions, the textual explanations are likely to be a ``golden mean". These considerations lead us to formulate two hypotheses related to the \textbf{SQ1}:
+In this study, we consider three different explanation types (see Section \ref{sec:explanation_types}): (i) graph-based explanations; (ii) Textual explanations; and (iii) Feature attribution explanations. While the graph-based explanations will most likely be best suited for individuals with a fair amount of prior AI knowledge, the general lay users will probably gravitate towards the textual explanations, as those are both expressive and fairly easy to process \cite{purificato2021evaluating}. Considering the graph-based explanations contain the most information, but are expected to be the hardest to read, and the opposite holds for the feature attributions, the textual explanations are likely to strike a good balance between the two. These considerations lead us to formulate two hypotheses related to the \textbf{SQ1}:
 
 \begin{itemize}
     \item \textbf{H1a}: \textit{The graph-based explanation will be best suited for individuals with prior AI knowledge.}
@@ -22,19 +22,19 @@ In this study, we consider three different explanation types (see Section \ref{s
 Furthermore, we considered that feature attribution maps are usually the easiest and fastest way to get an overview of the model's rationale, but at the same time, they have a fairly limited extent \cite{szymanski2021visual}. The textual explanation will be more complex and take more time to process, but will provide a more comprehensive explanation in return. Lastly, the graph-based explanations will take the longest to process and might be difficult to interpret by themselves, but will contain the most complete explanation as a result. We then expect differences among the stakeholders, and formulate the following hypothesis related to the \textbf{SQ2}:
 
 \begin{itemize}
-    \item \textbf{H2a}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences related to the explanation types.}   
+    \item \textbf{H2}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences related to the explanation types.}   
 \end{itemize}
 
 Finally, we considered that explanations consisting of a single type may be either too limited in their content, or too difficult to interpret. This problem can be addressed by incorporating aspects from different types into a single explanation type \cite{szymanski2021visual}. For example, textual explanations can help in assisting the stakeholders in how to read the graph-based explanation. Furthermore, the feature attribution map can be useful when the stakeholder prefers to get a good (albeit limited) overview at a glance \cite{schellingerhout2022explainable}. We further hypothesize then that also regarding the preferences in terms of combining basic explanations into hybrid strategies, the stakeholders will have differences. Hence, we formulated the following hypothesis related to the \textbf{SQ3}:
 
 \begin{itemize}
-    \item \textbf{H3a}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences on how to combine explanation types to obtain a hybrid explanation.}
+    \item \textbf{H3}: \textit{The different stakeholders (candidates, companies, and recruiters) will have different preferences on how to combine explanation types to obtain a hybrid explanation.}
 
 \end{itemize}
 
 
 \subsection{Semi-structured interview guide}
-A comprehensive guide was created to conduct the semi-structured interviews (\cref{app:interview_guide}). However, this guide is susceptible to possible biases, ambiguities, incorrect assumptions about prior knowledge, etc. Thus, during the interviews, we dedicated time specifically to determining the quality of the questions in order to update, and eventually validate them. The questions in the interview guide were based upon previous works \cite{chen2005trust,cramer2008effects,kleinerman2018providing,pu2011user}, but required validation for a multi-stakeholder scenario. In addition to validating the interview guide, the interviews also allowed the stakeholders to co-design the explanation representations to fit their needs. The interviews were conducted with a small sample of the different stakeholders ($n = 2$ for each stakeholder type) to verify the adequacy of the explanations and the guide for each group individually. Note that the user study was approved by the ethical committee of our institution.\footnote{Anonymized for peer review}
+A comprehensive guide was created to conduct the semi-structured interviews (\cref{app:interview_guide}). However, this guide is susceptible to possible biases, ambiguities, incorrect assumptions about prior knowledge, etc. Thus, during the interviews, we dedicated time specifically to determining the quality of the questions in order to update, and eventually validate them. The questions in the interview guide were based upon previous works \cite{chen2005trust,cramer2008effects,kleinerman2018providing,pu2011user}, but required validation for a multi-stakeholder scenario. In addition to validating the interview guide, the interviews also allowed the stakeholders to co-design the explanation representations to fit their needs. The interviews were conducted with a small sample of the different stakeholders ($n = 2$ for each stakeholder type) to verify the adequacy of the explanations and the guide for each group individually. Considering the fact that each participant was interviewed three times (once for each explanation type), we collected a large amount of data per participant. Due to the richness of this data, the relatively small sample size still allowed us to perform an in-depth analysis for each stakeholder type. Previous works also indicates that a small sample can be sufficient in qualitative analysis, as long as the data itself is of high enough quality \cite{dworkin2012sample,morse2000determining}. Note that the user study was approved by the ethical committee of our institution.\footnote{Ethical Review Committee Inner City faculties (Maastricht University)}
 
 % \subsection{Co-design session}
 % After the pilot study has been conducted, the interview guide will be used to conduct a co-design study with the stakeholders. Based on the co-design study, it will be possible to determine which explanation types are most satisfactory and effective for each stakeholder. Each of the three main stakeholders will be represented by 10 individuals in order to have a sufficient sample. These individuals will have different levels of experience and be sampled from different industries in order to decrease potential bias within specific industries/experience levels. Each participant will be interviewed about each explanation type, i.e., the study will be within-subject. 
@@ -60,8 +60,30 @@ The explanation types that were examined in this study were the following:
     % \item[Hybrid:] a combination of the three above types. Concretely, a hybrid explanation consists of one or more visualizations supported by some explanatory text. 
 \end{description}
 
+\begin{figure}[th]
+    \caption{An example of knowledge graph paths being used as an explanation for a recommendation.}
+    \hspace{-1.25cm}
+    \begin{subfigure}[b]{0.615\linewidth}
+         \centering
+         \includegraphics[width=\textwidth]{images/graph_candidate.png}
+         \caption{Candidate-side graph}
+         \label{fig:cand_side}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.615\linewidth}
+         \centering
+         \includegraphics[width=\textwidth]{images/graph_company.png}
+         \caption{Company-side graph}
+         \label{fig:comp_side}
+     \end{subfigure}
+    \label{fig:paths}
+\end{figure}
+
+\newpage
+
 \begingroup{
     \captionsetup{type=figure}
+    \captionof{figure}{An example of a textual explanation used as an explanation for a recommendation}
     \fbox{\begin{minipage}{0.9\linewidth}
     The XAI model has analyzed various connections between jobs and users to determine if a particular user (\textcolor{xpink}{user 4119}) would be a good fit for a specific job (\textcolor{xgreen}{job 147542}). The model looked at the relationships between different jobs and users, as well as the importance of these relationships, to make its prediction.
     
@@ -73,34 +95,14 @@ The explanation types that were examined in this study were the following:
     
     In summary, the XAI model determined that \textcolor{xpink}{user 4119} would be a good fit for \textcolor{xgreen}{job 147542} based on the strong connection between \textcolor{xpink}{user 4119} and the \textcolor{xyellow}{Administrative Commissioner} role, as well as the connections between the \textcolor{xyellow}{Administrative Commissioner} role, the \textcolor{xyellow}{assistant} role, the \textcolor{xyellow}{secretary} role, and \textcolor{xgreen}{job 147542}.
     \end{minipage}}
-    \captionof{figure}{An example of a textual explanation used as an explanation for a recommendation}
     \label{fig:textual}
 }
 
 \begin{figure}[bht]
+    \caption{An example of a feature attribution map used as an explanation for a recommendation.}
     \centering
     \includegraphics[width=\linewidth]{images/bar.png}
-    \caption{An example of a feature attribution map used as an explanation for a recommendation.}
     \label{fig:attribution}
-\end{figure}
-
-
-\begin{figure}[th]
-    \begin{subfigure}[b]{1\linewidth}
-         \centering
-         \includegraphics[width=\textwidth]{images/graph_candidate.png}
-         \caption{Candidate-side graph}
-         \label{fig:cand_side}
-     \end{subfigure}
-     \hfill
-     \begin{subfigure}[b]{\linewidth}
-         \centering
-         \includegraphics[width=\textwidth]{images/graph_company.png}
-         \caption{Company-side graph}
-         \label{fig:comp_side}
-     \end{subfigure}
-    \caption{An example of knowledge graph paths being used as an explanation for a recommendation.}
-    \label{fig:paths}
 \end{figure}
 
 % The participants will be questioned about all three explanation types once during the interview. The order in which the explanation types are shown will be randomized to minimize potential bias (as later explanations could develop an advantage due to participants getting more `experienced' with parsing them). As a result, each explanation type will have a total of 30 evaluations, split across the three stakeholder types. 
@@ -110,7 +112,6 @@ The explanation types that were examined in this study were the following:
 The answers provided by the participants were analyzed using grounded theory (GT) \cite{walker2006grounded} using \textit{Atlas.ti}\footnote{\url{https://atlasti.com/}}. This process was done separately for each stakeholder type, in order to create distinct results for each type. We started by assigning manually-generated codes to individual statements made by the participants (open coding). These codes were then grouped together into distinct categories using axial coding to provide a higher-level overview of the complaints and preferences of each stakeholder type. Lastly, selective coding was conducted to combine each stakeholder type's categories into a single theory. The higher-level categories, as well as the theories, were then used to improve the prototypical explanation. 
 
 \subsection{Participant demographics}
-%Randstad Groep Nederland\footnote{\url{https://www.randstad.nl/}}, the largest recruitment agency in the Netherlands
-The participants were recruited through personal connections in collaboration with [Anon Recruitment Company]. The sample consisted of 4 women and 2 men, of various ages ($\mu = 39.2, SD = 11.3, l=23, h=53$), with various backgrounds (tech, finance, healthcare, marketing, etc.). The participants had largely different levels of expertise w.r.t. AI, ranging from no knowledge whatsoever to a Bachelor's degree in a related field. Each interview took approximately one hour, and candidates were paid \euro{11,50} for their time. 
+The participants were recruited through personal connections in collaboration with Randstad Groep Nederland\footnote{\url{https://www.randstad.nl/}}, the largest recruitment agency in the Netherlands. The sample consisted of 4 women and 2 men, of various ages ($\mu = 39.2, SD = 11.3, l=23, h=53$), with various backgrounds (tech, finance, healthcare, marketing, etc.). The participants had largely different levels of expertise w.r.t. AI, ranging from no knowledge whatsoever to a Bachelor's degree in a related field. Each interview took approximately one hour, and candidates were paid \euro{11,50} for their time. 
 %NT: removing for anonymization
 % - in line with Dutch minimum wage. 
